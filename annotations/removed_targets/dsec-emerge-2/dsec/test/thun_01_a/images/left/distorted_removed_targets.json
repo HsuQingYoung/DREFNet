@@ -1,0 +1,6437 @@
+{
+  "frame_count": 197,
+  "frames": [
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000000.png",
+      "frame_name": "000000.png",
+      "timestamp": 49739900635,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49739900635,
+          "x": 510.0,
+          "y": 211.0,
+          "w": 47.0,
+          "h": 40.0,
+          "area": 1880.0,
+          "class_id": 2,
+          "class_confidence": 0.9994532465934753,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000001.png",
+      "frame_name": "000001.png",
+      "timestamp": 49739950628,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49739950628,
+          "x": 512.0,
+          "y": 211.0,
+          "w": 50.0,
+          "h": 41.0,
+          "area": 2050.0,
+          "class_id": 2,
+          "class_confidence": 0.9991979002952576,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000002.png",
+      "frame_name": "000002.png",
+      "timestamp": 49740000566,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740000566,
+          "x": 513.0,
+          "y": 211.0,
+          "w": 52.0,
+          "h": 43.0,
+          "area": 2236.0,
+          "class_id": 2,
+          "class_confidence": 0.9989137649536133,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000003.png",
+      "frame_name": "000003.png",
+      "timestamp": 49740050603,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740050603,
+          "x": 519.0,
+          "y": 213.0,
+          "w": 52.0,
+          "h": 43.0,
+          "area": 2236.0,
+          "class_id": 2,
+          "class_confidence": 0.9993587136268616,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000004.png",
+      "frame_name": "000004.png",
+      "timestamp": 49740100592,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740100592,
+          "x": 521.0,
+          "y": 211.0,
+          "w": 55.0,
+          "h": 45.0,
+          "area": 2475.0,
+          "class_id": 2,
+          "class_confidence": 0.99949049949646,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000005.png",
+      "frame_name": "000005.png",
+      "timestamp": 49740150593,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740150593,
+          "x": 524.0,
+          "y": 210.0,
+          "w": 57.0,
+          "h": 48.0,
+          "area": 2736.0,
+          "class_id": 2,
+          "class_confidence": 0.9994741082191467,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000006.png",
+      "frame_name": "000006.png",
+      "timestamp": 49740200614,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740200614,
+          "x": 526.0,
+          "y": 209.0,
+          "w": 61.0,
+          "h": 48.0,
+          "area": 2928.0,
+          "class_id": 2,
+          "class_confidence": 0.9988020658493042,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000007.png",
+      "frame_name": "000007.png",
+      "timestamp": 49740250616,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740250616,
+          "x": 530.0,
+          "y": 207.0,
+          "w": 61.0,
+          "h": 48.0,
+          "area": 2928.0,
+          "class_id": 2,
+          "class_confidence": 0.9973013997077942,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000008.png",
+      "frame_name": "000008.png",
+      "timestamp": 49740300597,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740300597,
+          "x": 531.0,
+          "y": 209.0,
+          "w": 67.0,
+          "h": 49.0,
+          "area": 3283.0,
+          "class_id": 2,
+          "class_confidence": 0.9986856579780579,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000009.png",
+      "frame_name": "000009.png",
+      "timestamp": 49740350602,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740350602,
+          "x": 535.0,
+          "y": 209.0,
+          "w": 69.0,
+          "h": 50.0,
+          "area": 3450.0,
+          "class_id": 2,
+          "class_confidence": 0.9981063604354858,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000010.png",
+      "frame_name": "000010.png",
+      "timestamp": 49740400603,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740400603,
+          "x": 538.0,
+          "y": 209.0,
+          "w": 73.0,
+          "h": 52.0,
+          "area": 3796.0,
+          "class_id": 2,
+          "class_confidence": 0.998661994934082,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000011.png",
+      "frame_name": "000011.png",
+      "timestamp": 49740450604,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740450604,
+          "x": 543.0,
+          "y": 207.0,
+          "w": 74.0,
+          "h": 54.0,
+          "area": 3996.0,
+          "class_id": 2,
+          "class_confidence": 0.9981285929679871,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000012.png",
+      "frame_name": "000012.png",
+      "timestamp": 49740500610,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740500610,
+          "x": 546.0,
+          "y": 209.0,
+          "w": 80.0,
+          "h": 54.0,
+          "area": 4320.0,
+          "class_id": 2,
+          "class_confidence": 0.9983723759651184,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000013.png",
+      "frame_name": "000013.png",
+      "timestamp": 49740550603,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740550603,
+          "x": 548.0,
+          "y": 207.0,
+          "w": 86.0,
+          "h": 56.0,
+          "area": 4816.0,
+          "class_id": 2,
+          "class_confidence": 0.998254120349884,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000014.png",
+      "frame_name": "000014.png",
+      "timestamp": 49740600604,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740600604,
+          "x": 551.0,
+          "y": 206.0,
+          "w": 89.0,
+          "h": 58.0,
+          "area": 5162.0,
+          "class_id": 2,
+          "class_confidence": 0.997426450252533,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000015.png",
+      "frame_name": "000015.png",
+      "timestamp": 49740650609,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740650609,
+          "x": 555.0,
+          "y": 207.0,
+          "w": 94.0,
+          "h": 58.0,
+          "area": 5452.0,
+          "class_id": 2,
+          "class_confidence": 0.9982640147209167,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000018.png",
+      "frame_name": "000018.png",
+      "timestamp": 49740800609,
+      "mode": "copied",
+      "removed_targets": []
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000019.png",
+      "frame_name": "000019.png",
+      "timestamp": 49740850614,
+      "mode": "copied",
+      "removed_targets": []
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000016.png",
+      "frame_name": "000016.png",
+      "timestamp": 49740700610,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740700610,
+          "x": 560.0,
+          "y": 209.0,
+          "w": 97.0,
+          "h": 58.0,
+          "area": 5626.0,
+          "class_id": 2,
+          "class_confidence": 0.9992308616638184,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000017.png",
+      "frame_name": "000017.png",
+      "timestamp": 49740750616,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740750616,
+          "x": 562.0,
+          "y": 209.0,
+          "w": 104.0,
+          "h": 61.0,
+          "area": 6344.0,
+          "class_id": 2,
+          "class_confidence": 0.998174786567688,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000020.png",
+      "frame_name": "000020.png",
+      "timestamp": 49740900618,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740900618,
+          "x": 579.0,
+          "y": 207.0,
+          "w": 28.0,
+          "h": 14.0,
+          "area": 392.0,
+          "class_id": 2,
+          "class_confidence": 0.7501229047775269,
+          "track_id": 43
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000021.png",
+      "frame_name": "000021.png",
+      "timestamp": 49740950620,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49740950620,
+          "x": 579.0,
+          "y": 207.0,
+          "w": 27.0,
+          "h": 14.0,
+          "area": 378.0,
+          "class_id": 2,
+          "class_confidence": 0.679265558719635,
+          "track_id": 43
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000022.png",
+      "frame_name": "000022.png",
+      "timestamp": 49741000566,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741000566,
+          "x": 577.0,
+          "y": 210.0,
+          "w": 99.0,
+          "h": 62.0,
+          "area": 6138.0,
+          "class_id": 2,
+          "class_confidence": 0.9972183704376221,
+          "track_id": 40
+        },
+        {
+          "t": 49741000566,
+          "x": 578.0,
+          "y": 207.0,
+          "w": 27.0,
+          "h": 13.0,
+          "area": 351.0,
+          "class_id": 2,
+          "class_confidence": 0.7540016174316406,
+          "track_id": 43
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000023.png",
+      "frame_name": "000023.png",
+      "timestamp": 49741050604,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741050604,
+          "x": 580.0,
+          "y": 210.0,
+          "w": 95.0,
+          "h": 63.0,
+          "area": 5985.0,
+          "class_id": 2,
+          "class_confidence": 0.994354248046875,
+          "track_id": 40
+        },
+        {
+          "t": 49741050604,
+          "x": 575.0,
+          "y": 209.0,
+          "w": 24.0,
+          "h": 26.0,
+          "area": 624.0,
+          "class_id": 2,
+          "class_confidence": 0.5596943497657776,
+          "track_id": 43
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000024.png",
+      "frame_name": "000024.png",
+      "timestamp": 49741100620,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741100620,
+          "x": 583.0,
+          "y": 211.0,
+          "w": 91.0,
+          "h": 65.0,
+          "area": 5915.0,
+          "class_id": 2,
+          "class_confidence": 0.996239423751831,
+          "track_id": 40
+        },
+        {
+          "t": 49741100620,
+          "x": 575.0,
+          "y": 209.0,
+          "w": 24.0,
+          "h": 26.0,
+          "area": 624.0,
+          "class_id": 2,
+          "class_confidence": 0.7939128875732422,
+          "track_id": 43
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000025.png",
+      "frame_name": "000025.png",
+      "timestamp": 49741150620,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741150620,
+          "x": 587.0,
+          "y": 213.0,
+          "w": 89.0,
+          "h": 64.0,
+          "area": 5696.0,
+          "class_id": 2,
+          "class_confidence": 0.9966678023338318,
+          "track_id": 40
+        },
+        {
+          "t": 49741150620,
+          "x": 578.0,
+          "y": 209.0,
+          "w": 18.0,
+          "h": 11.0,
+          "area": 198.0,
+          "class_id": 2,
+          "class_confidence": 0.7937570810317993,
+          "track_id": 45
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000026.png",
+      "frame_name": "000026.png",
+      "timestamp": 49741200603,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741200603,
+          "x": 582.0,
+          "y": 209.0,
+          "w": 11.0,
+          "h": 11.0,
+          "area": 121.0,
+          "class_id": 2,
+          "class_confidence": 0.714158296585083,
+          "track_id": 45
+        },
+        {
+          "t": 49741200603,
+          "x": 580.0,
+          "y": 213.0,
+          "w": 41.0,
+          "h": 28.0,
+          "area": 1148.0,
+          "class_id": 2,
+          "class_confidence": 0.33596551418304443,
+          "track_id": 43
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000027.png",
+      "frame_name": "000027.png",
+      "timestamp": 49741250607,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741250607,
+          "x": 590.0,
+          "y": 211.0,
+          "w": 86.0,
+          "h": 67.0,
+          "area": 5762.0,
+          "class_id": 2,
+          "class_confidence": 0.9952979683876038,
+          "track_id": 40
+        },
+        {
+          "t": 49741250607,
+          "x": 587.0,
+          "y": 210.0,
+          "w": 20.0,
+          "h": 11.0,
+          "area": 220.0,
+          "class_id": 2,
+          "class_confidence": 0.9043945670127869,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000028.png",
+      "frame_name": "000028.png",
+      "timestamp": 49741300617,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741300617,
+          "x": 588.0,
+          "y": 210.0,
+          "w": 18.0,
+          "h": 11.0,
+          "area": 198.0,
+          "class_id": 2,
+          "class_confidence": 0.922401487827301,
+          "track_id": 44
+        },
+        {
+          "t": 49741300617,
+          "x": 587.0,
+          "y": 211.0,
+          "w": 40.0,
+          "h": 31.0,
+          "area": 1240.0,
+          "class_id": 2,
+          "class_confidence": 0.7729973196983337,
+          "track_id": 43
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000029.png",
+      "frame_name": "000029.png",
+      "timestamp": 49741350619,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741350619,
+          "x": 570.0,
+          "y": 211.0,
+          "w": 60.0,
+          "h": 31.0,
+          "area": 1860.0,
+          "class_id": 2,
+          "class_confidence": 0.8943734765052795,
+          "track_id": 43
+        },
+        {
+          "t": 49741350619,
+          "x": 592.0,
+          "y": 210.0,
+          "w": 11.0,
+          "h": 10.0,
+          "area": 110.0,
+          "class_id": 2,
+          "class_confidence": 0.6913151144981384,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000030.png",
+      "frame_name": "000030.png",
+      "timestamp": 49741400626,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741400626,
+          "x": 586.0,
+          "y": 213.0,
+          "w": 90.0,
+          "h": 67.0,
+          "area": 6030.0,
+          "class_id": 2,
+          "class_confidence": 0.9827386736869812,
+          "track_id": 40
+        },
+        {
+          "t": 49741400626,
+          "x": 564.0,
+          "y": 209.0,
+          "w": 32.0,
+          "h": 16.0,
+          "area": 512.0,
+          "class_id": 2,
+          "class_confidence": 0.795682966709137,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000031.png",
+      "frame_name": "000031.png",
+      "timestamp": 49741450632,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741450632,
+          "x": 601.0,
+          "y": 214.0,
+          "w": 73.0,
+          "h": 60.0,
+          "area": 4380.0,
+          "class_id": 2,
+          "class_confidence": 0.9828683137893677,
+          "track_id": 40
+        },
+        {
+          "t": 49741450632,
+          "x": 556.0,
+          "y": 209.0,
+          "w": 29.0,
+          "h": 16.0,
+          "area": 464.0,
+          "class_id": 2,
+          "class_confidence": 0.9580199718475342,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000032.png",
+      "frame_name": "000032.png",
+      "timestamp": 49741500641,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741500641,
+          "x": 596.0,
+          "y": 213.0,
+          "w": 79.0,
+          "h": 70.0,
+          "area": 5530.0,
+          "class_id": 2,
+          "class_confidence": 0.9750005006790161,
+          "track_id": 40
+        },
+        {
+          "t": 49741500641,
+          "x": 555.0,
+          "y": 209.0,
+          "w": 28.0,
+          "h": 16.0,
+          "area": 448.0,
+          "class_id": 2,
+          "class_confidence": 0.9636938571929932,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000033.png",
+      "frame_name": "000033.png",
+      "timestamp": 49741550662,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741550662,
+          "x": 566.0,
+          "y": 213.0,
+          "w": 70.0,
+          "h": 32.0,
+          "area": 2240.0,
+          "class_id": 2,
+          "class_confidence": 0.9505193829536438,
+          "track_id": 43
+        },
+        {
+          "t": 49741550662,
+          "x": 575.0,
+          "y": 210.0,
+          "w": 16.0,
+          "h": 13.0,
+          "area": 208.0,
+          "class_id": 2,
+          "class_confidence": 0.7929018139839172,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000034.png",
+      "frame_name": "000034.png",
+      "timestamp": 49741600667,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741600667,
+          "x": 564.0,
+          "y": 211.0,
+          "w": 77.0,
+          "h": 33.0,
+          "area": 2541.0,
+          "class_id": 2,
+          "class_confidence": 0.9864169359207153,
+          "track_id": 43
+        },
+        {
+          "t": 49741600667,
+          "x": 612.0,
+          "y": 214.0,
+          "w": 64.0,
+          "h": 67.0,
+          "area": 4288.0,
+          "class_id": 2,
+          "class_confidence": 0.9669649004936218,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000035.png",
+      "frame_name": "000035.png",
+      "timestamp": 49741650665,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741650665,
+          "x": 562.0,
+          "y": 213.0,
+          "w": 68.0,
+          "h": 33.0,
+          "area": 2244.0,
+          "class_id": 2,
+          "class_confidence": 0.9980401396751404,
+          "track_id": 43
+        },
+        {
+          "t": 49741650665,
+          "x": 569.0,
+          "y": 210.0,
+          "w": 27.0,
+          "h": 14.0,
+          "area": 378.0,
+          "class_id": 2,
+          "class_confidence": 0.956030011177063,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000036.png",
+      "frame_name": "000036.png",
+      "timestamp": 49741700668,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741700668,
+          "x": 566.0,
+          "y": 210.0,
+          "w": 27.0,
+          "h": 14.0,
+          "area": 378.0,
+          "class_id": 2,
+          "class_confidence": 0.970933735370636,
+          "track_id": 44
+        },
+        {
+          "t": 49741700668,
+          "x": 544.0,
+          "y": 209.0,
+          "w": 27.0,
+          "h": 15.0,
+          "area": 405.0,
+          "class_id": 2,
+          "class_confidence": 0.9443432688713074,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000037.png",
+      "frame_name": "000037.png",
+      "timestamp": 49741750674,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741750674,
+          "x": 560.0,
+          "y": 214.0,
+          "w": 87.0,
+          "h": 35.0,
+          "area": 3045.0,
+          "class_id": 2,
+          "class_confidence": 0.9986416697502136,
+          "track_id": 43
+        },
+        {
+          "t": 49741750674,
+          "x": 630.0,
+          "y": 219.0,
+          "w": 45.0,
+          "h": 70.0,
+          "area": 3150.0,
+          "class_id": 2,
+          "class_confidence": 0.8956111073493958,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000038.png",
+      "frame_name": "000038.png",
+      "timestamp": 49741800672,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741800672,
+          "x": 559.0,
+          "y": 213.0,
+          "w": 80.0,
+          "h": 36.0,
+          "area": 2880.0,
+          "class_id": 2,
+          "class_confidence": 0.9964883327484131,
+          "track_id": 43
+        },
+        {
+          "t": 49741800672,
+          "x": 559.0,
+          "y": 211.0,
+          "w": 30.0,
+          "h": 15.0,
+          "area": 450.0,
+          "class_id": 2,
+          "class_confidence": 0.9825504422187805,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000039.png",
+      "frame_name": "000039.png",
+      "timestamp": 49741850677,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741850677,
+          "x": 557.0,
+          "y": 214.0,
+          "w": 92.0,
+          "h": 37.0,
+          "area": 3404.0,
+          "class_id": 2,
+          "class_confidence": 0.9977216124534607,
+          "track_id": 43
+        },
+        {
+          "t": 49741850677,
+          "x": 646.0,
+          "y": 216.0,
+          "w": 30.0,
+          "h": 79.0,
+          "area": 2370.0,
+          "class_id": 2,
+          "class_confidence": 0.9174373745918274,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000040.png",
+      "frame_name": "000040.png",
+      "timestamp": 49741900678,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741900678,
+          "x": 555.0,
+          "y": 214.0,
+          "w": 85.0,
+          "h": 36.0,
+          "area": 3060.0,
+          "class_id": 2,
+          "class_confidence": 0.9997387528419495,
+          "track_id": 43
+        },
+        {
+          "t": 49741900678,
+          "x": 615.0,
+          "y": 219.0,
+          "w": 59.0,
+          "h": 78.0,
+          "area": 4602.0,
+          "class_id": 2,
+          "class_confidence": 0.9453827738761902,
+          "track_id": 48
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000041.png",
+      "frame_name": "000041.png",
+      "timestamp": 49741950675,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49741950675,
+          "x": 531.0,
+          "y": 210.0,
+          "w": 24.0,
+          "h": 18.0,
+          "area": 432.0,
+          "class_id": 2,
+          "class_confidence": 0.9782137274742126,
+          "track_id": 46
+        },
+        {
+          "t": 49741950675,
+          "x": 621.0,
+          "y": 223.0,
+          "w": 54.0,
+          "h": 66.0,
+          "area": 3564.0,
+          "class_id": 2,
+          "class_confidence": 0.5487191081047058,
+          "track_id": 48
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000042.png",
+      "frame_name": "000042.png",
+      "timestamp": 49742000617,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742000617,
+          "x": 550.0,
+          "y": 214.0,
+          "w": 101.0,
+          "h": 41.0,
+          "area": 4141.0,
+          "class_id": 2,
+          "class_confidence": 0.9998835325241089,
+          "track_id": 43
+        },
+        {
+          "t": 49742000617,
+          "x": 528.0,
+          "y": 210.0,
+          "w": 24.0,
+          "h": 18.0,
+          "area": 432.0,
+          "class_id": 2,
+          "class_confidence": 0.9951605200767517,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000043.png",
+      "frame_name": "000043.png",
+      "timestamp": 49742050654,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742050654,
+          "x": 548.0,
+          "y": 215.0,
+          "w": 109.0,
+          "h": 41.0,
+          "area": 4469.0,
+          "class_id": 2,
+          "class_confidence": 0.9999059438705444,
+          "track_id": 43
+        },
+        {
+          "t": 49742050654,
+          "x": 543.0,
+          "y": 211.0,
+          "w": 36.0,
+          "h": 16.0,
+          "area": 576.0,
+          "class_id": 2,
+          "class_confidence": 0.9988341927528381,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000044.png",
+      "frame_name": "000044.png",
+      "timestamp": 49742100640,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742100640,
+          "x": 547.0,
+          "y": 215.0,
+          "w": 113.0,
+          "h": 41.0,
+          "area": 4633.0,
+          "class_id": 2,
+          "class_confidence": 0.9999264478683472,
+          "track_id": 43
+        },
+        {
+          "t": 49742100640,
+          "x": 631.0,
+          "y": 222.0,
+          "w": 44.0,
+          "h": 92.0,
+          "area": 4048.0,
+          "class_id": 2,
+          "class_confidence": 0.7258162498474121,
+          "track_id": 48
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000045.png",
+      "frame_name": "000045.png",
+      "timestamp": 49742150662,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742150662,
+          "x": 543.0,
+          "y": 215.0,
+          "w": 117.0,
+          "h": 44.0,
+          "area": 5148.0,
+          "class_id": 2,
+          "class_confidence": 0.999914288520813,
+          "track_id": 43
+        },
+        {
+          "t": 49742150662,
+          "x": 535.0,
+          "y": 213.0,
+          "w": 38.0,
+          "h": 16.0,
+          "area": 608.0,
+          "class_id": 2,
+          "class_confidence": 0.998543381690979,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000046.png",
+      "frame_name": "000046.png",
+      "timestamp": 49742200653,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742200653,
+          "x": 531.0,
+          "y": 213.0,
+          "w": 39.0,
+          "h": 16.0,
+          "area": 624.0,
+          "class_id": 2,
+          "class_confidence": 0.9979871511459351,
+          "track_id": 44
+        },
+        {
+          "t": 49742200653,
+          "x": 636.0,
+          "y": 222.0,
+          "w": 39.0,
+          "h": 99.0,
+          "area": 3861.0,
+          "class_id": 2,
+          "class_confidence": 0.9127452373504639,
+          "track_id": 48
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000047.png",
+      "frame_name": "000047.png",
+      "timestamp": 49742250646,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742250646,
+          "x": 508.0,
+          "y": 211.0,
+          "w": 24.0,
+          "h": 18.0,
+          "area": 432.0,
+          "class_id": 2,
+          "class_confidence": 0.9753714203834534,
+          "track_id": 46
+        },
+        {
+          "t": 49742250646,
+          "x": 632.0,
+          "y": 226.0,
+          "w": 41.0,
+          "h": 36.0,
+          "area": 1476.0,
+          "class_id": 2,
+          "class_confidence": 0.7499622702598572,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000048.png",
+      "frame_name": "000048.png",
+      "timestamp": 49742300641,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742300641,
+          "x": 524.0,
+          "y": 213.0,
+          "w": 41.0,
+          "h": 18.0,
+          "area": 738.0,
+          "class_id": 2,
+          "class_confidence": 0.9988937973976135,
+          "track_id": 44
+        },
+        {
+          "t": 49742300641,
+          "x": 663.0,
+          "y": 220.0,
+          "w": 13.0,
+          "h": 13.0,
+          "area": 169.0,
+          "class_id": 2,
+          "class_confidence": 0.8591389060020447,
+          "track_id": 50
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000049.png",
+      "frame_name": "000049.png",
+      "timestamp": 49742350641,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742350641,
+          "x": 520.0,
+          "y": 213.0,
+          "w": 43.0,
+          "h": 19.0,
+          "area": 817.0,
+          "class_id": 2,
+          "class_confidence": 0.999173104763031,
+          "track_id": 44
+        },
+        {
+          "t": 49742350641,
+          "x": 661.0,
+          "y": 220.0,
+          "w": 14.0,
+          "h": 14.0,
+          "area": 196.0,
+          "class_id": 2,
+          "class_confidence": 0.9318876266479492,
+          "track_id": 50
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000050.png",
+      "frame_name": "000050.png",
+      "timestamp": 49742400635,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742400635,
+          "x": 498.0,
+          "y": 211.0,
+          "w": 21.0,
+          "h": 19.0,
+          "area": 399.0,
+          "class_id": 2,
+          "class_confidence": 0.9982047080993652,
+          "track_id": 46
+        },
+        {
+          "t": 49742400635,
+          "x": 660.0,
+          "y": 243.0,
+          "w": 16.0,
+          "h": 68.0,
+          "area": 1088.0,
+          "class_id": 2,
+          "class_confidence": 0.4867323338985443,
+          "track_id": 48
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000051.png",
+      "frame_name": "000051.png",
+      "timestamp": 49742450631,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742450631,
+          "x": 513.0,
+          "y": 213.0,
+          "w": 41.0,
+          "h": 19.0,
+          "area": 779.0,
+          "class_id": 2,
+          "class_confidence": 0.9981573224067688,
+          "track_id": 44
+        },
+        {
+          "t": 49742450631,
+          "x": 494.0,
+          "y": 211.0,
+          "w": 20.0,
+          "h": 19.0,
+          "area": 380.0,
+          "class_id": 2,
+          "class_confidence": 0.9844368696212769,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000052.png",
+      "frame_name": "000052.png",
+      "timestamp": 49742500616,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742500616,
+          "x": 510.0,
+          "y": 213.0,
+          "w": 39.0,
+          "h": 19.0,
+          "area": 741.0,
+          "class_id": 2,
+          "class_confidence": 0.9978591799736023,
+          "track_id": 44
+        },
+        {
+          "t": 49742500616,
+          "x": 490.0,
+          "y": 213.0,
+          "w": 20.0,
+          "h": 18.0,
+          "area": 360.0,
+          "class_id": 2,
+          "class_confidence": 0.9901677370071411,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000053.png",
+      "frame_name": "000053.png",
+      "timestamp": 49742550614,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742550614,
+          "x": 506.0,
+          "y": 213.0,
+          "w": 39.0,
+          "h": 19.0,
+          "area": 741.0,
+          "class_id": 2,
+          "class_confidence": 0.9982398748397827,
+          "track_id": 44
+        },
+        {
+          "t": 49742550614,
+          "x": 486.0,
+          "y": 211.0,
+          "w": 19.0,
+          "h": 19.0,
+          "area": 361.0,
+          "class_id": 2,
+          "class_confidence": 0.9656495451927185,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000054.png",
+      "frame_name": "000054.png",
+      "timestamp": 49742600610,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742600610,
+          "x": 502.0,
+          "y": 213.0,
+          "w": 41.0,
+          "h": 19.0,
+          "area": 779.0,
+          "class_id": 2,
+          "class_confidence": 0.9981960654258728,
+          "track_id": 44
+        },
+        {
+          "t": 49742600610,
+          "x": 482.0,
+          "y": 211.0,
+          "w": 21.0,
+          "h": 20.0,
+          "area": 420.0,
+          "class_id": 2,
+          "class_confidence": 0.9909331798553467,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000055.png",
+      "frame_name": "000055.png",
+      "timestamp": 49742650605,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742650605,
+          "x": 498.0,
+          "y": 213.0,
+          "w": 42.0,
+          "h": 18.0,
+          "area": 756.0,
+          "class_id": 2,
+          "class_confidence": 0.9981744289398193,
+          "track_id": 44
+        },
+        {
+          "t": 49742650605,
+          "x": 656.0,
+          "y": 218.0,
+          "w": 20.0,
+          "h": 18.0,
+          "area": 360.0,
+          "class_id": 2,
+          "class_confidence": 0.9913404583930969,
+          "track_id": 50
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000056.png",
+      "frame_name": "000056.png",
+      "timestamp": 49742700601,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742700601,
+          "x": 476.0,
+          "y": 211.0,
+          "w": 20.0,
+          "h": 19.0,
+          "area": 380.0,
+          "class_id": 2,
+          "class_confidence": 0.9925470948219299,
+          "track_id": 46
+        },
+        {
+          "t": 49742700601,
+          "x": 655.0,
+          "y": 218.0,
+          "w": 21.0,
+          "h": 18.0,
+          "area": 378.0,
+          "class_id": 2,
+          "class_confidence": 0.9876297116279602,
+          "track_id": 50
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000057.png",
+      "frame_name": "000057.png",
+      "timestamp": 49742750598,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742750598,
+          "x": 471.0,
+          "y": 210.0,
+          "w": 24.0,
+          "h": 20.0,
+          "area": 480.0,
+          "class_id": 2,
+          "class_confidence": 0.9883219599723816,
+          "track_id": 46
+        },
+        {
+          "t": 49742750598,
+          "x": 655.0,
+          "y": 218.0,
+          "w": 21.0,
+          "h": 16.0,
+          "area": 336.0,
+          "class_id": 2,
+          "class_confidence": 0.985692024230957,
+          "track_id": 50
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000058.png",
+      "frame_name": "000058.png",
+      "timestamp": 49742800585,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742800585,
+          "x": 488.0,
+          "y": 213.0,
+          "w": 41.0,
+          "h": 19.0,
+          "area": 779.0,
+          "class_id": 2,
+          "class_confidence": 0.999351441860199,
+          "track_id": 44
+        },
+        {
+          "t": 49742800585,
+          "x": 468.0,
+          "y": 211.0,
+          "w": 22.0,
+          "h": 19.0,
+          "area": 418.0,
+          "class_id": 2,
+          "class_confidence": 0.9908815622329712,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000059.png",
+      "frame_name": "000059.png",
+      "timestamp": 49742850584,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742850584,
+          "x": 464.0,
+          "y": 211.0,
+          "w": 24.0,
+          "h": 19.0,
+          "area": 456.0,
+          "class_id": 2,
+          "class_confidence": 0.9946107864379883,
+          "track_id": 46
+        },
+        {
+          "t": 49742850584,
+          "x": 655.0,
+          "y": 216.0,
+          "w": 21.0,
+          "h": 19.0,
+          "area": 399.0,
+          "class_id": 2,
+          "class_confidence": 0.9765415191650391,
+          "track_id": 50
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000060.png",
+      "frame_name": "000060.png",
+      "timestamp": 49742900582,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742900582,
+          "x": 462.0,
+          "y": 211.0,
+          "w": 22.0,
+          "h": 20.0,
+          "area": 440.0,
+          "class_id": 2,
+          "class_confidence": 0.9927927255630493,
+          "track_id": 46
+        },
+        {
+          "t": 49742900582,
+          "x": 655.0,
+          "y": 216.0,
+          "w": 21.0,
+          "h": 20.0,
+          "area": 420.0,
+          "class_id": 2,
+          "class_confidence": 0.9771187901496887,
+          "track_id": 50
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000061.png",
+      "frame_name": "000061.png",
+      "timestamp": 49742950582,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49742950582,
+          "x": 477.0,
+          "y": 213.0,
+          "w": 43.0,
+          "h": 20.0,
+          "area": 860.0,
+          "class_id": 2,
+          "class_confidence": 0.9996104836463928,
+          "track_id": 44
+        },
+        {
+          "t": 49742950582,
+          "x": 458.0,
+          "y": 210.0,
+          "w": 24.0,
+          "h": 22.0,
+          "area": 528.0,
+          "class_id": 2,
+          "class_confidence": 0.9966874718666077,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000062.png",
+      "frame_name": "000062.png",
+      "timestamp": 49743000532,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743000532,
+          "x": 656.0,
+          "y": 216.0,
+          "w": 20.0,
+          "h": 19.0,
+          "area": 380.0,
+          "class_id": 2,
+          "class_confidence": 0.9682467579841614,
+          "track_id": 50
+        },
+        {
+          "t": 49743000532,
+          "x": 513.0,
+          "y": 214.0,
+          "w": 14.0,
+          "h": 15.0,
+          "area": 210.0,
+          "class_id": 2,
+          "class_confidence": 0.5785412192344666,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000063.png",
+      "frame_name": "000063.png",
+      "timestamp": 49743050568,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743050568,
+          "x": 472.0,
+          "y": 213.0,
+          "w": 45.0,
+          "h": 20.0,
+          "area": 900.0,
+          "class_id": 2,
+          "class_confidence": 0.9994378685951233,
+          "track_id": 44
+        },
+        {
+          "t": 49743050568,
+          "x": 451.0,
+          "y": 211.0,
+          "w": 23.0,
+          "h": 20.0,
+          "area": 460.0,
+          "class_id": 2,
+          "class_confidence": 0.9960018992424011,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000064.png",
+      "frame_name": "000064.png",
+      "timestamp": 49743100578,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743100578,
+          "x": 468.0,
+          "y": 213.0,
+          "w": 47.0,
+          "h": 20.0,
+          "area": 940.0,
+          "class_id": 2,
+          "class_confidence": 0.999366819858551,
+          "track_id": 44
+        },
+        {
+          "t": 49743100578,
+          "x": 506.0,
+          "y": 214.0,
+          "w": 19.0,
+          "h": 18.0,
+          "area": 342.0,
+          "class_id": 2,
+          "class_confidence": 0.6551876664161682,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000065.png",
+      "frame_name": "000065.png",
+      "timestamp": 49743150574,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743150574,
+          "x": 657.0,
+          "y": 218.0,
+          "w": 18.0,
+          "h": 16.0,
+          "area": 288.0,
+          "class_id": 2,
+          "class_confidence": 0.9474492073059082,
+          "track_id": 50
+        },
+        {
+          "t": 49743150574,
+          "x": 502.0,
+          "y": 215.0,
+          "w": 20.0,
+          "h": 16.0,
+          "area": 320.0,
+          "class_id": 2,
+          "class_confidence": 0.722967267036438,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000066.png",
+      "frame_name": "000066.png",
+      "timestamp": 49743200576,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743200576,
+          "x": 441.0,
+          "y": 210.0,
+          "w": 24.0,
+          "h": 22.0,
+          "area": 528.0,
+          "class_id": 2,
+          "class_confidence": 0.9987982511520386,
+          "track_id": 46
+        },
+        {
+          "t": 49743200576,
+          "x": 499.0,
+          "y": 215.0,
+          "w": 21.0,
+          "h": 18.0,
+          "area": 378.0,
+          "class_id": 2,
+          "class_confidence": 0.7656819224357605,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000067.png",
+      "frame_name": "000067.png",
+      "timestamp": 49743250578,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743250578,
+          "x": 458.0,
+          "y": 211.0,
+          "w": 44.0,
+          "h": 22.0,
+          "area": 968.0,
+          "class_id": 2,
+          "class_confidence": 0.9995056390762329,
+          "track_id": 44
+        },
+        {
+          "t": 49743250578,
+          "x": 657.0,
+          "y": 216.0,
+          "w": 18.0,
+          "h": 18.0,
+          "area": 324.0,
+          "class_id": 2,
+          "class_confidence": 0.893831729888916,
+          "track_id": 50
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000068.png",
+      "frame_name": "000068.png",
+      "timestamp": 49743300578,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743300578,
+          "x": 434.0,
+          "y": 210.0,
+          "w": 27.0,
+          "h": 22.0,
+          "area": 594.0,
+          "class_id": 2,
+          "class_confidence": 0.9992840886116028,
+          "track_id": 46
+        },
+        {
+          "t": 49743300578,
+          "x": 493.0,
+          "y": 213.0,
+          "w": 24.0,
+          "h": 19.0,
+          "area": 456.0,
+          "class_id": 2,
+          "class_confidence": 0.9613532423973083,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000069.png",
+      "frame_name": "000069.png",
+      "timestamp": 49743350580,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743350580,
+          "x": 451.0,
+          "y": 211.0,
+          "w": 46.0,
+          "h": 20.0,
+          "area": 920.0,
+          "class_id": 2,
+          "class_confidence": 0.9994891881942749,
+          "track_id": 44
+        },
+        {
+          "t": 49743350580,
+          "x": 430.0,
+          "y": 210.0,
+          "w": 27.0,
+          "h": 22.0,
+          "area": 594.0,
+          "class_id": 2,
+          "class_confidence": 0.9991877675056458,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000070.png",
+      "frame_name": "000070.png",
+      "timestamp": 49743400576,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743400576,
+          "x": 426.0,
+          "y": 210.0,
+          "w": 28.0,
+          "h": 22.0,
+          "area": 616.0,
+          "class_id": 2,
+          "class_confidence": 0.9984710812568665,
+          "track_id": 46
+        },
+        {
+          "t": 49743400576,
+          "x": 488.0,
+          "y": 211.0,
+          "w": 25.0,
+          "h": 20.0,
+          "area": 500.0,
+          "class_id": 2,
+          "class_confidence": 0.9529538750648499,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000071.png",
+      "frame_name": "000071.png",
+      "timestamp": 49743450578,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743450578,
+          "x": 445.0,
+          "y": 211.0,
+          "w": 42.0,
+          "h": 20.0,
+          "area": 840.0,
+          "class_id": 2,
+          "class_confidence": 0.9997938275337219,
+          "track_id": 44
+        },
+        {
+          "t": 49743450578,
+          "x": 485.0,
+          "y": 211.0,
+          "w": 27.0,
+          "h": 20.0,
+          "area": 540.0,
+          "class_id": 2,
+          "class_confidence": 0.9797098636627197,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000072.png",
+      "frame_name": "000072.png",
+      "timestamp": 49743500585,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743500585,
+          "x": 441.0,
+          "y": 210.0,
+          "w": 42.0,
+          "h": 22.0,
+          "area": 924.0,
+          "class_id": 2,
+          "class_confidence": 0.9998016953468323,
+          "track_id": 44
+        },
+        {
+          "t": 49743500585,
+          "x": 481.0,
+          "y": 211.0,
+          "w": 28.0,
+          "h": 20.0,
+          "area": 560.0,
+          "class_id": 2,
+          "class_confidence": 0.9442964196205139,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000073.png",
+      "frame_name": "000073.png",
+      "timestamp": 49743550580,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743550580,
+          "x": 437.0,
+          "y": 210.0,
+          "w": 45.0,
+          "h": 22.0,
+          "area": 990.0,
+          "class_id": 2,
+          "class_confidence": 0.9998693466186523,
+          "track_id": 44
+        },
+        {
+          "t": 49743550580,
+          "x": 417.0,
+          "y": 209.0,
+          "w": 26.0,
+          "h": 23.0,
+          "area": 598.0,
+          "class_id": 2,
+          "class_confidence": 0.9993775486946106,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000074.png",
+      "frame_name": "000074.png",
+      "timestamp": 49743600584,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743600584,
+          "x": 436.0,
+          "y": 210.0,
+          "w": 42.0,
+          "h": 22.0,
+          "area": 924.0,
+          "class_id": 2,
+          "class_confidence": 0.9998652935028076,
+          "track_id": 44
+        },
+        {
+          "t": 49743600584,
+          "x": 476.0,
+          "y": 210.0,
+          "w": 31.0,
+          "h": 24.0,
+          "area": 744.0,
+          "class_id": 2,
+          "class_confidence": 0.9953886270523071,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000075.png",
+      "frame_name": "000075.png",
+      "timestamp": 49743650592,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743650592,
+          "x": 412.0,
+          "y": 210.0,
+          "w": 26.0,
+          "h": 22.0,
+          "area": 572.0,
+          "class_id": 2,
+          "class_confidence": 0.999163031578064,
+          "track_id": 46
+        },
+        {
+          "t": 49743650592,
+          "x": 473.0,
+          "y": 211.0,
+          "w": 40.0,
+          "h": 24.0,
+          "area": 960.0,
+          "class_id": 2,
+          "class_confidence": 0.9768549203872681,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000076.png",
+      "frame_name": "000076.png",
+      "timestamp": 49743700585,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743700585,
+          "x": 429.0,
+          "y": 211.0,
+          "w": 45.0,
+          "h": 22.0,
+          "area": 990.0,
+          "class_id": 2,
+          "class_confidence": 0.99992835521698,
+          "track_id": 44
+        },
+        {
+          "t": 49743700585,
+          "x": 409.0,
+          "y": 210.0,
+          "w": 27.0,
+          "h": 22.0,
+          "area": 594.0,
+          "class_id": 2,
+          "class_confidence": 0.999457061290741,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000077.png",
+      "frame_name": "000077.png",
+      "timestamp": 49743750586,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743750586,
+          "x": 407.0,
+          "y": 210.0,
+          "w": 27.0,
+          "h": 23.0,
+          "area": 621.0,
+          "class_id": 2,
+          "class_confidence": 0.9994807839393616,
+          "track_id": 46
+        },
+        {
+          "t": 49743750586,
+          "x": 469.0,
+          "y": 211.0,
+          "w": 37.0,
+          "h": 24.0,
+          "area": 888.0,
+          "class_id": 2,
+          "class_confidence": 0.9987164735794067,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000078.png",
+      "frame_name": "000078.png",
+      "timestamp": 49743800588,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743800588,
+          "x": 404.0,
+          "y": 210.0,
+          "w": 27.0,
+          "h": 22.0,
+          "area": 594.0,
+          "class_id": 2,
+          "class_confidence": 0.9995080232620239,
+          "track_id": 46
+        },
+        {
+          "t": 49743800588,
+          "x": 467.0,
+          "y": 211.0,
+          "w": 36.0,
+          "h": 24.0,
+          "area": 864.0,
+          "class_id": 2,
+          "class_confidence": 0.9986673593521118,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000079.png",
+      "frame_name": "000079.png",
+      "timestamp": 49743850592,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743850592,
+          "x": 401.0,
+          "y": 210.0,
+          "w": 27.0,
+          "h": 23.0,
+          "area": 621.0,
+          "class_id": 2,
+          "class_confidence": 0.9996064305305481,
+          "track_id": 46
+        },
+        {
+          "t": 49743850592,
+          "x": 465.0,
+          "y": 211.0,
+          "w": 37.0,
+          "h": 24.0,
+          "area": 888.0,
+          "class_id": 2,
+          "class_confidence": 0.9972829818725586,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000080.png",
+      "frame_name": "000080.png",
+      "timestamp": 49743900598,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743900598,
+          "x": 420.0,
+          "y": 211.0,
+          "w": 46.0,
+          "h": 23.0,
+          "area": 1058.0,
+          "class_id": 2,
+          "class_confidence": 0.9998854398727417,
+          "track_id": 44
+        },
+        {
+          "t": 49743900598,
+          "x": 464.0,
+          "y": 211.0,
+          "w": 35.0,
+          "h": 24.0,
+          "area": 840.0,
+          "class_id": 2,
+          "class_confidence": 0.9986435770988464,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000081.png",
+      "frame_name": "000081.png",
+      "timestamp": 49743950592,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49743950592,
+          "x": 419.0,
+          "y": 211.0,
+          "w": 45.0,
+          "h": 23.0,
+          "area": 1035.0,
+          "class_id": 2,
+          "class_confidence": 0.9998823404312134,
+          "track_id": 44
+        },
+        {
+          "t": 49743950592,
+          "x": 398.0,
+          "y": 210.0,
+          "w": 28.0,
+          "h": 23.0,
+          "area": 644.0,
+          "class_id": 2,
+          "class_confidence": 0.9994189739227295,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000082.png",
+      "frame_name": "000082.png",
+      "timestamp": 49744000541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744000541,
+          "x": 460.0,
+          "y": 211.0,
+          "w": 38.0,
+          "h": 24.0,
+          "area": 912.0,
+          "class_id": 2,
+          "class_confidence": 0.9995306730270386,
+          "track_id": 53
+        },
+        {
+          "t": 49744000541,
+          "x": 395.0,
+          "y": 210.0,
+          "w": 30.0,
+          "h": 23.0,
+          "area": 690.0,
+          "class_id": 2,
+          "class_confidence": 0.9989979863166809,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000083.png",
+      "frame_name": "000083.png",
+      "timestamp": 49744050578,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744050578,
+          "x": 415.0,
+          "y": 211.0,
+          "w": 46.0,
+          "h": 23.0,
+          "area": 1058.0,
+          "class_id": 2,
+          "class_confidence": 0.9998730421066284,
+          "track_id": 44
+        },
+        {
+          "t": 49744050578,
+          "x": 392.0,
+          "y": 210.0,
+          "w": 30.0,
+          "h": 24.0,
+          "area": 720.0,
+          "class_id": 2,
+          "class_confidence": 0.9976182579994202,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000084.png",
+      "frame_name": "000084.png",
+      "timestamp": 49744100568,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744100568,
+          "x": 413.0,
+          "y": 211.0,
+          "w": 46.0,
+          "h": 24.0,
+          "area": 1104.0,
+          "class_id": 2,
+          "class_confidence": 0.99992835521698,
+          "track_id": 44
+        },
+        {
+          "t": 49744100568,
+          "x": 391.0,
+          "y": 210.0,
+          "w": 30.0,
+          "h": 24.0,
+          "area": 720.0,
+          "class_id": 2,
+          "class_confidence": 0.9991758465766907,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000085.png",
+      "frame_name": "000085.png",
+      "timestamp": 49744150570,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744150570,
+          "x": 412.0,
+          "y": 211.0,
+          "w": 48.0,
+          "h": 24.0,
+          "area": 1152.0,
+          "class_id": 2,
+          "class_confidence": 0.9999196529388428,
+          "track_id": 44
+        },
+        {
+          "t": 49744150570,
+          "x": 391.0,
+          "y": 210.0,
+          "w": 30.0,
+          "h": 24.0,
+          "area": 720.0,
+          "class_id": 2,
+          "class_confidence": 0.9991888403892517,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000086.png",
+      "frame_name": "000086.png",
+      "timestamp": 49744200572,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744200572,
+          "x": 458.0,
+          "y": 213.0,
+          "w": 45.0,
+          "h": 26.0,
+          "area": 1170.0,
+          "class_id": 2,
+          "class_confidence": 0.9996366500854492,
+          "track_id": 53
+        },
+        {
+          "t": 49744200572,
+          "x": 390.0,
+          "y": 210.0,
+          "w": 31.0,
+          "h": 24.0,
+          "area": 744.0,
+          "class_id": 2,
+          "class_confidence": 0.999294638633728,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000087.png",
+      "frame_name": "000087.png",
+      "timestamp": 49744250595,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744250595,
+          "x": 411.0,
+          "y": 213.0,
+          "w": 48.0,
+          "h": 23.0,
+          "area": 1104.0,
+          "class_id": 2,
+          "class_confidence": 0.9999003410339355,
+          "track_id": 44
+        },
+        {
+          "t": 49744250595,
+          "x": 388.0,
+          "y": 211.0,
+          "w": 32.0,
+          "h": 24.0,
+          "area": 768.0,
+          "class_id": 2,
+          "class_confidence": 0.9993909597396851,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000088.png",
+      "frame_name": "000088.png",
+      "timestamp": 49744300594,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744300594,
+          "x": 409.0,
+          "y": 213.0,
+          "w": 49.0,
+          "h": 23.0,
+          "area": 1127.0,
+          "class_id": 2,
+          "class_confidence": 0.9999150037765503,
+          "track_id": 44
+        },
+        {
+          "t": 49744300594,
+          "x": 456.0,
+          "y": 213.0,
+          "w": 47.0,
+          "h": 27.0,
+          "area": 1269.0,
+          "class_id": 2,
+          "class_confidence": 0.9997467398643494,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000089.png",
+      "frame_name": "000089.png",
+      "timestamp": 49744350596,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744350596,
+          "x": 409.0,
+          "y": 213.0,
+          "w": 49.0,
+          "h": 24.0,
+          "area": 1176.0,
+          "class_id": 2,
+          "class_confidence": 0.9999110698699951,
+          "track_id": 44
+        },
+        {
+          "t": 49744350596,
+          "x": 456.0,
+          "y": 213.0,
+          "w": 50.0,
+          "h": 27.0,
+          "area": 1350.0,
+          "class_id": 2,
+          "class_confidence": 0.9997522234916687,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000090.png",
+      "frame_name": "000090.png",
+      "timestamp": 49744400576,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744400576,
+          "x": 408.0,
+          "y": 213.0,
+          "w": 50.0,
+          "h": 24.0,
+          "area": 1200.0,
+          "class_id": 2,
+          "class_confidence": 0.9999206066131592,
+          "track_id": 44
+        },
+        {
+          "t": 49744400576,
+          "x": 455.0,
+          "y": 213.0,
+          "w": 54.0,
+          "h": 27.0,
+          "area": 1458.0,
+          "class_id": 2,
+          "class_confidence": 0.9998165965080261,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000091.png",
+      "frame_name": "000091.png",
+      "timestamp": 49744450578,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744450578,
+          "x": 456.0,
+          "y": 213.0,
+          "w": 53.0,
+          "h": 28.0,
+          "area": 1484.0,
+          "class_id": 2,
+          "class_confidence": 0.9998321533203125,
+          "track_id": 53
+        },
+        {
+          "t": 49744450578,
+          "x": 387.0,
+          "y": 211.0,
+          "w": 31.0,
+          "h": 24.0,
+          "area": 744.0,
+          "class_id": 2,
+          "class_confidence": 0.9990108013153076,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000092.png",
+      "frame_name": "000092.png",
+      "timestamp": 49744500588,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744500588,
+          "x": 408.0,
+          "y": 211.0,
+          "w": 50.0,
+          "h": 24.0,
+          "area": 1200.0,
+          "class_id": 2,
+          "class_confidence": 0.999947190284729,
+          "track_id": 44
+        },
+        {
+          "t": 49744500588,
+          "x": 456.0,
+          "y": 211.0,
+          "w": 57.0,
+          "h": 28.0,
+          "area": 1596.0,
+          "class_id": 2,
+          "class_confidence": 0.9998798370361328,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000093.png",
+      "frame_name": "000093.png",
+      "timestamp": 49744550580,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744550580,
+          "x": 408.0,
+          "y": 211.0,
+          "w": 50.0,
+          "h": 24.0,
+          "area": 1200.0,
+          "class_id": 2,
+          "class_confidence": 0.9999569654464722,
+          "track_id": 44
+        },
+        {
+          "t": 49744550580,
+          "x": 458.0,
+          "y": 211.0,
+          "w": 57.0,
+          "h": 28.0,
+          "area": 1596.0,
+          "class_id": 2,
+          "class_confidence": 0.9998937845230103,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000094.png",
+      "frame_name": "000094.png",
+      "timestamp": 49744600582,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744600582,
+          "x": 458.0,
+          "y": 211.0,
+          "w": 59.0,
+          "h": 28.0,
+          "area": 1652.0,
+          "class_id": 2,
+          "class_confidence": 0.9999021291732788,
+          "track_id": 53
+        },
+        {
+          "t": 49744600582,
+          "x": 386.0,
+          "y": 210.0,
+          "w": 30.0,
+          "h": 25.0,
+          "area": 750.0,
+          "class_id": 2,
+          "class_confidence": 0.9989211559295654,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000095.png",
+      "frame_name": "000095.png",
+      "timestamp": 49744650589,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744650589,
+          "x": 459.0,
+          "y": 211.0,
+          "w": 60.0,
+          "h": 28.0,
+          "area": 1680.0,
+          "class_id": 2,
+          "class_confidence": 0.99992835521698,
+          "track_id": 53
+        },
+        {
+          "t": 49744650589,
+          "x": 386.0,
+          "y": 210.0,
+          "w": 30.0,
+          "h": 25.0,
+          "area": 750.0,
+          "class_id": 2,
+          "class_confidence": 0.9980592131614685,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000096.png",
+      "frame_name": "000096.png",
+      "timestamp": 49744700593,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744700593,
+          "x": 408.0,
+          "y": 211.0,
+          "w": 52.0,
+          "h": 24.0,
+          "area": 1248.0,
+          "class_id": 2,
+          "class_confidence": 0.9999483823776245,
+          "track_id": 44
+        },
+        {
+          "t": 49744700593,
+          "x": 386.0,
+          "y": 210.0,
+          "w": 30.0,
+          "h": 26.0,
+          "area": 780.0,
+          "class_id": 2,
+          "class_confidence": 0.9979985356330872,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000097.png",
+      "frame_name": "000097.png",
+      "timestamp": 49744750598,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744750598,
+          "x": 408.0,
+          "y": 211.0,
+          "w": 53.0,
+          "h": 24.0,
+          "area": 1272.0,
+          "class_id": 2,
+          "class_confidence": 0.9999560117721558,
+          "track_id": 44
+        },
+        {
+          "t": 49744750598,
+          "x": 387.0,
+          "y": 210.0,
+          "w": 30.0,
+          "h": 26.0,
+          "area": 780.0,
+          "class_id": 2,
+          "class_confidence": 0.9984771609306335,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000098.png",
+      "frame_name": "000098.png",
+      "timestamp": 49744800597,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744800597,
+          "x": 460.0,
+          "y": 211.0,
+          "w": 67.0,
+          "h": 30.0,
+          "area": 2010.0,
+          "class_id": 2,
+          "class_confidence": 0.999924898147583,
+          "track_id": 53
+        },
+        {
+          "t": 49744800597,
+          "x": 386.0,
+          "y": 210.0,
+          "w": 30.0,
+          "h": 26.0,
+          "area": 780.0,
+          "class_id": 2,
+          "class_confidence": 0.9987854361534119,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000099.png",
+      "frame_name": "000099.png",
+      "timestamp": 49744850594,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744850594,
+          "x": 462.0,
+          "y": 210.0,
+          "w": 68.0,
+          "h": 31.0,
+          "area": 2108.0,
+          "class_id": 2,
+          "class_confidence": 0.9999445676803589,
+          "track_id": 53
+        },
+        {
+          "t": 49744850594,
+          "x": 384.0,
+          "y": 209.0,
+          "w": 32.0,
+          "h": 27.0,
+          "area": 864.0,
+          "class_id": 2,
+          "class_confidence": 0.9989414811134338,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000100.png",
+      "frame_name": "000100.png",
+      "timestamp": 49744900595,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744900595,
+          "x": 383.0,
+          "y": 209.0,
+          "w": 35.0,
+          "h": 27.0,
+          "area": 945.0,
+          "class_id": 2,
+          "class_confidence": 0.9994322657585144,
+          "track_id": 46
+        },
+        {
+          "t": 49744900595,
+          "x": 650.0,
+          "y": 277.0,
+          "w": 27.0,
+          "h": 69.0,
+          "area": 1863.0,
+          "class_id": 2,
+          "class_confidence": 0.8813339471817017,
+          "track_id": 43
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000101.png",
+      "frame_name": "000101.png",
+      "timestamp": 49744950602,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49744950602,
+          "x": 411.0,
+          "y": 210.0,
+          "w": 56.0,
+          "h": 27.0,
+          "area": 1512.0,
+          "class_id": 2,
+          "class_confidence": 0.9999731779098511,
+          "track_id": 44
+        },
+        {
+          "t": 49744950602,
+          "x": 384.0,
+          "y": 209.0,
+          "w": 35.0,
+          "h": 27.0,
+          "area": 945.0,
+          "class_id": 2,
+          "class_confidence": 0.9995803236961365,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000102.png",
+      "frame_name": "000102.png",
+      "timestamp": 49745000553,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745000553,
+          "x": 467.0,
+          "y": 211.0,
+          "w": 72.0,
+          "h": 30.0,
+          "area": 2160.0,
+          "class_id": 2,
+          "class_confidence": 0.9999573230743408,
+          "track_id": 53
+        },
+        {
+          "t": 49745000553,
+          "x": 386.0,
+          "y": 210.0,
+          "w": 35.0,
+          "h": 26.0,
+          "area": 910.0,
+          "class_id": 2,
+          "class_confidence": 0.9996911287307739,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000103.png",
+      "frame_name": "000103.png",
+      "timestamp": 49745050591,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745050591,
+          "x": 468.0,
+          "y": 211.0,
+          "w": 72.0,
+          "h": 30.0,
+          "area": 2160.0,
+          "class_id": 2,
+          "class_confidence": 0.9999291896820068,
+          "track_id": 53
+        },
+        {
+          "t": 49745050591,
+          "x": 387.0,
+          "y": 210.0,
+          "w": 35.0,
+          "h": 26.0,
+          "area": 910.0,
+          "class_id": 2,
+          "class_confidence": 0.999687671661377,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000104.png",
+      "frame_name": "000104.png",
+      "timestamp": 49745100600,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745100600,
+          "x": 471.0,
+          "y": 211.0,
+          "w": 72.0,
+          "h": 31.0,
+          "area": 2232.0,
+          "class_id": 2,
+          "class_confidence": 0.9999747276306152,
+          "track_id": 53
+        },
+        {
+          "t": 49745100600,
+          "x": 387.0,
+          "y": 210.0,
+          "w": 36.0,
+          "h": 27.0,
+          "area": 972.0,
+          "class_id": 2,
+          "class_confidence": 0.9997696280479431,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000105.png",
+      "frame_name": "000105.png",
+      "timestamp": 49745150598,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745150598,
+          "x": 415.0,
+          "y": 211.0,
+          "w": 58.0,
+          "h": 28.0,
+          "area": 1624.0,
+          "class_id": 2,
+          "class_confidence": 0.9999597072601318,
+          "track_id": 44
+        },
+        {
+          "t": 49745150598,
+          "x": 388.0,
+          "y": 210.0,
+          "w": 36.0,
+          "h": 27.0,
+          "area": 972.0,
+          "class_id": 2,
+          "class_confidence": 0.9995412826538086,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000106.png",
+      "frame_name": "000106.png",
+      "timestamp": 49745200604,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745200604,
+          "x": 473.0,
+          "y": 213.0,
+          "w": 74.0,
+          "h": 31.0,
+          "area": 2294.0,
+          "class_id": 2,
+          "class_confidence": 0.9999531507492065,
+          "track_id": 53
+        },
+        {
+          "t": 49745200604,
+          "x": 417.0,
+          "y": 211.0,
+          "w": 58.0,
+          "h": 30.0,
+          "area": 1740.0,
+          "class_id": 2,
+          "class_confidence": 0.9999454021453857,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000107.png",
+      "frame_name": "000107.png",
+      "timestamp": 49745250584,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745250584,
+          "x": 419.0,
+          "y": 213.0,
+          "w": 59.0,
+          "h": 28.0,
+          "area": 1652.0,
+          "class_id": 2,
+          "class_confidence": 0.9999568462371826,
+          "track_id": 44
+        },
+        {
+          "t": 49745250584,
+          "x": 476.0,
+          "y": 213.0,
+          "w": 76.0,
+          "h": 32.0,
+          "area": 2432.0,
+          "class_id": 2,
+          "class_confidence": 0.9999290704727173,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000108.png",
+      "frame_name": "000108.png",
+      "timestamp": 49745300586,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745300586,
+          "x": 478.0,
+          "y": 213.0,
+          "w": 77.0,
+          "h": 32.0,
+          "area": 2464.0,
+          "class_id": 2,
+          "class_confidence": 0.9999692440032959,
+          "track_id": 53
+        },
+        {
+          "t": 49745300586,
+          "x": 391.0,
+          "y": 211.0,
+          "w": 39.0,
+          "h": 28.0,
+          "area": 1092.0,
+          "class_id": 2,
+          "class_confidence": 0.9997579455375671,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000109.png",
+      "frame_name": "000109.png",
+      "timestamp": 49745350588,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745350588,
+          "x": 421.0,
+          "y": 213.0,
+          "w": 63.0,
+          "h": 28.0,
+          "area": 1764.0,
+          "class_id": 2,
+          "class_confidence": 0.9999562501907349,
+          "track_id": 44
+        },
+        {
+          "t": 49745350588,
+          "x": 392.0,
+          "y": 210.0,
+          "w": 39.0,
+          "h": 30.0,
+          "area": 1170.0,
+          "class_id": 2,
+          "class_confidence": 0.9997721314430237,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000110.png",
+      "frame_name": "000110.png",
+      "timestamp": 49745400604,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745400604,
+          "x": 422.0,
+          "y": 213.0,
+          "w": 63.0,
+          "h": 30.0,
+          "area": 1890.0,
+          "class_id": 2,
+          "class_confidence": 0.9999489784240723,
+          "track_id": 44
+        },
+        {
+          "t": 49745400604,
+          "x": 394.0,
+          "y": 211.0,
+          "w": 37.0,
+          "h": 28.0,
+          "area": 1036.0,
+          "class_id": 2,
+          "class_confidence": 0.9996693134307861,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000111.png",
+      "frame_name": "000111.png",
+      "timestamp": 49745450610,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745450610,
+          "x": 486.0,
+          "y": 214.0,
+          "w": 80.0,
+          "h": 33.0,
+          "area": 2640.0,
+          "class_id": 2,
+          "class_confidence": 0.9999657869338989,
+          "track_id": 53
+        },
+        {
+          "t": 49745450610,
+          "x": 395.0,
+          "y": 211.0,
+          "w": 37.0,
+          "h": 28.0,
+          "area": 1036.0,
+          "class_id": 2,
+          "class_confidence": 0.9996139407157898,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000112.png",
+      "frame_name": "000112.png",
+      "timestamp": 49745500596,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745500596,
+          "x": 488.0,
+          "y": 213.0,
+          "w": 81.0,
+          "h": 35.0,
+          "area": 2835.0,
+          "class_id": 2,
+          "class_confidence": 0.9999097585678101,
+          "track_id": 53
+        },
+        {
+          "t": 49745500596,
+          "x": 396.0,
+          "y": 211.0,
+          "w": 39.0,
+          "h": 30.0,
+          "area": 1170.0,
+          "class_id": 2,
+          "class_confidence": 0.999667763710022,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000113.png",
+      "frame_name": "000113.png",
+      "timestamp": 49745550614,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745550614,
+          "x": 493.0,
+          "y": 214.0,
+          "w": 79.0,
+          "h": 33.0,
+          "area": 2607.0,
+          "class_id": 2,
+          "class_confidence": 0.999930739402771,
+          "track_id": 53
+        },
+        {
+          "t": 49745550614,
+          "x": 428.0,
+          "y": 213.0,
+          "w": 68.0,
+          "h": 31.0,
+          "area": 2108.0,
+          "class_id": 2,
+          "class_confidence": 0.9999301433563232,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000114.png",
+      "frame_name": "000114.png",
+      "timestamp": 49745600597,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745600597,
+          "x": 494.0,
+          "y": 213.0,
+          "w": 82.0,
+          "h": 36.0,
+          "area": 2952.0,
+          "class_id": 2,
+          "class_confidence": 0.9999189376831055,
+          "track_id": 53
+        },
+        {
+          "t": 49745600597,
+          "x": 400.0,
+          "y": 211.0,
+          "w": 39.0,
+          "h": 30.0,
+          "area": 1170.0,
+          "class_id": 2,
+          "class_confidence": 0.9996662139892578,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000115.png",
+      "frame_name": "000115.png",
+      "timestamp": 49745650599,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745650599,
+          "x": 433.0,
+          "y": 213.0,
+          "w": 70.0,
+          "h": 31.0,
+          "area": 2170.0,
+          "class_id": 2,
+          "class_confidence": 0.9999415874481201,
+          "track_id": 44
+        },
+        {
+          "t": 49745650599,
+          "x": 401.0,
+          "y": 210.0,
+          "w": 39.0,
+          "h": 31.0,
+          "area": 1209.0,
+          "class_id": 2,
+          "class_confidence": 0.9995579123497009,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000116.png",
+      "frame_name": "000116.png",
+      "timestamp": 49745700618,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745700618,
+          "x": 500.0,
+          "y": 213.0,
+          "w": 83.0,
+          "h": 37.0,
+          "area": 3071.0,
+          "class_id": 2,
+          "class_confidence": 0.9999091625213623,
+          "track_id": 53
+        },
+        {
+          "t": 49745700618,
+          "x": 403.0,
+          "y": 210.0,
+          "w": 41.0,
+          "h": 31.0,
+          "area": 1271.0,
+          "class_id": 2,
+          "class_confidence": 0.9997318387031555,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000117.png",
+      "frame_name": "000117.png",
+      "timestamp": 49745750622,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745750622,
+          "x": 437.0,
+          "y": 213.0,
+          "w": 66.0,
+          "h": 31.0,
+          "area": 2046.0,
+          "class_id": 2,
+          "class_confidence": 0.9999182224273682,
+          "track_id": 44
+        },
+        {
+          "t": 49745750622,
+          "x": 503.0,
+          "y": 214.0,
+          "w": 86.0,
+          "h": 36.0,
+          "area": 3096.0,
+          "class_id": 2,
+          "class_confidence": 0.9998477697372437,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000118.png",
+      "frame_name": "000118.png",
+      "timestamp": 49745800628,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745800628,
+          "x": 441.0,
+          "y": 213.0,
+          "w": 66.0,
+          "h": 32.0,
+          "area": 2112.0,
+          "class_id": 2,
+          "class_confidence": 0.999895453453064,
+          "track_id": 44
+        },
+        {
+          "t": 49745800628,
+          "x": 405.0,
+          "y": 211.0,
+          "w": 43.0,
+          "h": 31.0,
+          "area": 1333.0,
+          "class_id": 2,
+          "class_confidence": 0.9996310472488403,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000119.png",
+      "frame_name": "000119.png",
+      "timestamp": 49745850631,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745850631,
+          "x": 443.0,
+          "y": 213.0,
+          "w": 67.0,
+          "h": 32.0,
+          "area": 2144.0,
+          "class_id": 2,
+          "class_confidence": 0.9999240636825562,
+          "track_id": 44
+        },
+        {
+          "t": 49745850631,
+          "x": 511.0,
+          "y": 213.0,
+          "w": 87.0,
+          "h": 39.0,
+          "area": 3393.0,
+          "class_id": 2,
+          "class_confidence": 0.9998494386672974,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000120.png",
+      "frame_name": "000120.png",
+      "timestamp": 49745900633,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745900633,
+          "x": 516.0,
+          "y": 214.0,
+          "w": 86.0,
+          "h": 39.0,
+          "area": 3354.0,
+          "class_id": 2,
+          "class_confidence": 0.9998413324356079,
+          "track_id": 53
+        },
+        {
+          "t": 49745900633,
+          "x": 445.0,
+          "y": 213.0,
+          "w": 71.0,
+          "h": 34.0,
+          "area": 2414.0,
+          "class_id": 2,
+          "class_confidence": 0.9997560381889343,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000121.png",
+      "frame_name": "000121.png",
+      "timestamp": 49745950635,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49745950635,
+          "x": 226.0,
+          "y": 217.0,
+          "w": 23.0,
+          "h": 14.0,
+          "area": 322.0,
+          "class_id": 2,
+          "class_confidence": 0.8567197322845459,
+          "track_id": 57
+        },
+        {
+          "t": 49745950635,
+          "x": 121.0,
+          "y": 214.0,
+          "w": 19.0,
+          "h": 15.0,
+          "area": 285.0,
+          "class_id": 2,
+          "class_confidence": 0.8251166939735413,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000122.png",
+      "frame_name": "000122.png",
+      "timestamp": 49746000569,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746000569,
+          "x": 447.0,
+          "y": 213.0,
+          "w": 73.0,
+          "h": 35.0,
+          "area": 2555.0,
+          "class_id": 2,
+          "class_confidence": 0.9999434947967529,
+          "track_id": 44
+        },
+        {
+          "t": 49746000569,
+          "x": 412.0,
+          "y": 211.0,
+          "w": 44.0,
+          "h": 34.0,
+          "area": 1496.0,
+          "class_id": 2,
+          "class_confidence": 0.9997158646583557,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000123.png",
+      "frame_name": "000123.png",
+      "timestamp": 49746050602,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746050602,
+          "x": 449.0,
+          "y": 213.0,
+          "w": 79.0,
+          "h": 35.0,
+          "area": 2765.0,
+          "class_id": 2,
+          "class_confidence": 0.9998911619186401,
+          "track_id": 44
+        },
+        {
+          "t": 49746050602,
+          "x": 108.0,
+          "y": 215.0,
+          "w": 32.0,
+          "h": 15.0,
+          "area": 480.0,
+          "class_id": 2,
+          "class_confidence": 0.9382634162902832,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000124.png",
+      "frame_name": "000124.png",
+      "timestamp": 49746100619,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746100619,
+          "x": 416.0,
+          "y": 213.0,
+          "w": 48.0,
+          "h": 34.0,
+          "area": 1632.0,
+          "class_id": 2,
+          "class_confidence": 0.9997426867485046,
+          "track_id": 46
+        },
+        {
+          "t": 49746100619,
+          "x": 225.0,
+          "y": 217.0,
+          "w": 24.0,
+          "h": 15.0,
+          "area": 360.0,
+          "class_id": 2,
+          "class_confidence": 0.9803696274757385,
+          "track_id": 57
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000125.png",
+      "frame_name": "000125.png",
+      "timestamp": 49746150616,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746150616,
+          "x": 533.0,
+          "y": 214.0,
+          "w": 97.0,
+          "h": 42.0,
+          "area": 4074.0,
+          "class_id": 2,
+          "class_confidence": 0.9998598098754883,
+          "track_id": 53
+        },
+        {
+          "t": 49746150616,
+          "x": 417.0,
+          "y": 213.0,
+          "w": 49.0,
+          "h": 34.0,
+          "area": 1666.0,
+          "class_id": 2,
+          "class_confidence": 0.9996925592422485,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000126.png",
+      "frame_name": "000126.png",
+      "timestamp": 49746200617,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746200617,
+          "x": 538.0,
+          "y": 215.0,
+          "w": 98.0,
+          "h": 42.0,
+          "area": 4116.0,
+          "class_id": 2,
+          "class_confidence": 0.9999145269393921,
+          "track_id": 53
+        },
+        {
+          "t": 49746200617,
+          "x": 96.0,
+          "y": 215.0,
+          "w": 45.0,
+          "h": 18.0,
+          "area": 810.0,
+          "class_id": 2,
+          "class_confidence": 0.9953383207321167,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000127.png",
+      "frame_name": "000127.png",
+      "timestamp": 49746250619,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746250619,
+          "x": 460.0,
+          "y": 215.0,
+          "w": 80.0,
+          "h": 35.0,
+          "area": 2800.0,
+          "class_id": 2,
+          "class_confidence": 0.9998584985733032,
+          "track_id": 44
+        },
+        {
+          "t": 49746250619,
+          "x": 222.0,
+          "y": 217.0,
+          "w": 26.0,
+          "h": 15.0,
+          "area": 390.0,
+          "class_id": 2,
+          "class_confidence": 0.9974715709686279,
+          "track_id": 57
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000128.png",
+      "frame_name": "000128.png",
+      "timestamp": 49746300610,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746300610,
+          "x": 546.0,
+          "y": 214.0,
+          "w": 105.0,
+          "h": 45.0,
+          "area": 4725.0,
+          "class_id": 2,
+          "class_confidence": 0.9999032020568848,
+          "track_id": 53
+        },
+        {
+          "t": 49746300610,
+          "x": 463.0,
+          "y": 214.0,
+          "w": 82.0,
+          "h": 39.0,
+          "area": 3198.0,
+          "class_id": 2,
+          "class_confidence": 0.9998468160629272,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000129.png",
+      "frame_name": "000129.png",
+      "timestamp": 49746350607,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746350607,
+          "x": 467.0,
+          "y": 215.0,
+          "w": 82.0,
+          "h": 37.0,
+          "area": 3034.0,
+          "class_id": 2,
+          "class_confidence": 0.9998503923416138,
+          "track_id": 44
+        },
+        {
+          "t": 49746350607,
+          "x": 88.0,
+          "y": 215.0,
+          "w": 52.0,
+          "h": 20.0,
+          "area": 1040.0,
+          "class_id": 2,
+          "class_confidence": 0.9918308854103088,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000130.png",
+      "frame_name": "000130.png",
+      "timestamp": 49746400609,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746400609,
+          "x": 468.0,
+          "y": 215.0,
+          "w": 86.0,
+          "h": 39.0,
+          "area": 3354.0,
+          "class_id": 2,
+          "class_confidence": 0.9998314380645752,
+          "track_id": 44
+        },
+        {
+          "t": 49746400609,
+          "x": 222.0,
+          "y": 217.0,
+          "w": 27.0,
+          "h": 15.0,
+          "area": 405.0,
+          "class_id": 2,
+          "class_confidence": 0.9978105425834656,
+          "track_id": 57
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000131.png",
+      "frame_name": "000131.png",
+      "timestamp": 49746450606,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746450606,
+          "x": 221.0,
+          "y": 217.0,
+          "w": 28.0,
+          "h": 15.0,
+          "area": 420.0,
+          "class_id": 2,
+          "class_confidence": 0.9978049397468567,
+          "track_id": 57
+        },
+        {
+          "t": 49746450606,
+          "x": 96.0,
+          "y": 215.0,
+          "w": 42.0,
+          "h": 18.0,
+          "area": 756.0,
+          "class_id": 2,
+          "class_confidence": 0.7188459038734436,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000132.png",
+      "frame_name": "000132.png",
+      "timestamp": 49746500584,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746500584,
+          "x": 434.0,
+          "y": 214.0,
+          "w": 54.0,
+          "h": 37.0,
+          "area": 1998.0,
+          "class_id": 2,
+          "class_confidence": 0.9995274543762207,
+          "track_id": 46
+        },
+        {
+          "t": 49746500584,
+          "x": 89.0,
+          "y": 215.0,
+          "w": 48.0,
+          "h": 20.0,
+          "area": 960.0,
+          "class_id": 2,
+          "class_confidence": 0.9924665093421936,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000133.png",
+      "frame_name": "000133.png",
+      "timestamp": 49746550594,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746550594,
+          "x": 87.0,
+          "y": 215.0,
+          "w": 51.0,
+          "h": 22.0,
+          "area": 1122.0,
+          "class_id": 2,
+          "class_confidence": 0.9983456134796143,
+          "track_id": 58
+        },
+        {
+          "t": 49746550594,
+          "x": 219.0,
+          "y": 217.0,
+          "w": 33.0,
+          "h": 15.0,
+          "area": 495.0,
+          "class_id": 2,
+          "class_confidence": 0.9970343112945557,
+          "track_id": 57
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000134.png",
+      "frame_name": "000134.png",
+      "timestamp": 49746600592,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746600592,
+          "x": 578.0,
+          "y": 217.0,
+          "w": 97.0,
+          "h": 52.0,
+          "area": 5044.0,
+          "class_id": 2,
+          "class_confidence": 0.9998286962509155,
+          "track_id": 53
+        },
+        {
+          "t": 49746600592,
+          "x": 80.0,
+          "y": 215.0,
+          "w": 57.0,
+          "h": 22.0,
+          "area": 1254.0,
+          "class_id": 2,
+          "class_confidence": 0.9987892508506775,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000135.png",
+      "frame_name": "000135.png",
+      "timestamp": 49746650596,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746650596,
+          "x": 442.0,
+          "y": 213.0,
+          "w": 57.0,
+          "h": 40.0,
+          "area": 2280.0,
+          "class_id": 2,
+          "class_confidence": 0.9995824694633484,
+          "track_id": 46
+        },
+        {
+          "t": 49746650596,
+          "x": 81.0,
+          "y": 215.0,
+          "w": 56.0,
+          "h": 19.0,
+          "area": 1064.0,
+          "class_id": 2,
+          "class_confidence": 0.9993519186973572,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000136.png",
+      "frame_name": "000136.png",
+      "timestamp": 49746700596,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746700596,
+          "x": 446.0,
+          "y": 214.0,
+          "w": 57.0,
+          "h": 40.0,
+          "area": 2280.0,
+          "class_id": 2,
+          "class_confidence": 0.9995818734169006,
+          "track_id": 46
+        },
+        {
+          "t": 49746700596,
+          "x": 217.0,
+          "y": 215.0,
+          "w": 39.0,
+          "h": 17.0,
+          "area": 663.0,
+          "class_id": 2,
+          "class_confidence": 0.998884379863739,
+          "track_id": 57
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000137.png",
+      "frame_name": "000137.png",
+      "timestamp": 49746750596,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746750596,
+          "x": 493.0,
+          "y": 215.0,
+          "w": 94.0,
+          "h": 42.0,
+          "area": 3948.0,
+          "class_id": 2,
+          "class_confidence": 0.9998286962509155,
+          "track_id": 44
+        },
+        {
+          "t": 49746750596,
+          "x": 215.0,
+          "y": 215.0,
+          "w": 41.0,
+          "h": 17.0,
+          "area": 697.0,
+          "class_id": 2,
+          "class_confidence": 0.9992561936378479,
+          "track_id": 57
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000138.png",
+      "frame_name": "000138.png",
+      "timestamp": 49746800596,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746800596,
+          "x": 497.0,
+          "y": 217.0,
+          "w": 96.0,
+          "h": 42.0,
+          "area": 4032.0,
+          "class_id": 2,
+          "class_confidence": 0.9998030066490173,
+          "track_id": 44
+        },
+        {
+          "t": 49746800596,
+          "x": 77.0,
+          "y": 215.0,
+          "w": 55.0,
+          "h": 20.0,
+          "area": 1100.0,
+          "class_id": 2,
+          "class_confidence": 0.9993374943733215,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000139.png",
+      "frame_name": "000139.png",
+      "timestamp": 49746850590,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746850590,
+          "x": 500.0,
+          "y": 217.0,
+          "w": 98.0,
+          "h": 44.0,
+          "area": 4312.0,
+          "class_id": 2,
+          "class_confidence": 0.999748170375824,
+          "track_id": 44
+        },
+        {
+          "t": 49746850590,
+          "x": 79.0,
+          "y": 214.0,
+          "w": 50.0,
+          "h": 22.0,
+          "area": 1100.0,
+          "class_id": 2,
+          "class_confidence": 0.9977375268936157,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000140.png",
+      "frame_name": "000140.png",
+      "timestamp": 49746900586,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746900586,
+          "x": 458.0,
+          "y": 213.0,
+          "w": 62.0,
+          "h": 44.0,
+          "area": 2728.0,
+          "class_id": 2,
+          "class_confidence": 0.9996869564056396,
+          "track_id": 46
+        },
+        {
+          "t": 49746900586,
+          "x": 76.0,
+          "y": 214.0,
+          "w": 47.0,
+          "h": 22.0,
+          "area": 1034.0,
+          "class_id": 2,
+          "class_confidence": 0.9979856014251709,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000141.png",
+      "frame_name": "000141.png",
+      "timestamp": 49746950591,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49746950591,
+          "x": 630.0,
+          "y": 218.0,
+          "w": 46.0,
+          "h": 54.0,
+          "area": 2484.0,
+          "class_id": 2,
+          "class_confidence": 0.9995080232620239,
+          "track_id": 53
+        },
+        {
+          "t": 49746950591,
+          "x": 76.0,
+          "y": 214.0,
+          "w": 45.0,
+          "h": 20.0,
+          "area": 900.0,
+          "class_id": 2,
+          "class_confidence": 0.9992551207542419,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000142.png",
+      "frame_name": "000142.png",
+      "timestamp": 49747000533,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747000533,
+          "x": 463.0,
+          "y": 213.0,
+          "w": 64.0,
+          "h": 45.0,
+          "area": 2880.0,
+          "class_id": 2,
+          "class_confidence": 0.9996365308761597,
+          "track_id": 46
+        },
+        {
+          "t": 49747000533,
+          "x": 215.0,
+          "y": 215.0,
+          "w": 42.0,
+          "h": 17.0,
+          "area": 714.0,
+          "class_id": 2,
+          "class_confidence": 0.9992833733558655,
+          "track_id": 57
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000143.png",
+      "frame_name": "000143.png",
+      "timestamp": 49747050570,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747050570,
+          "x": 650.0,
+          "y": 219.0,
+          "w": 26.0,
+          "h": 56.0,
+          "area": 1456.0,
+          "class_id": 2,
+          "class_confidence": 0.999187171459198,
+          "track_id": 53
+        },
+        {
+          "t": 49747050570,
+          "x": 79.0,
+          "y": 215.0,
+          "w": 32.0,
+          "h": 16.0,
+          "area": 512.0,
+          "class_id": 2,
+          "class_confidence": 0.9681460857391357,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000144.png",
+      "frame_name": "000144.png",
+      "timestamp": 49747100563,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747100563,
+          "x": 218.0,
+          "y": 215.0,
+          "w": 41.0,
+          "h": 17.0,
+          "area": 697.0,
+          "class_id": 2,
+          "class_confidence": 0.9994888305664062,
+          "track_id": 57
+        },
+        {
+          "t": 49747100563,
+          "x": 659.0,
+          "y": 224.0,
+          "w": 17.0,
+          "h": 52.0,
+          "area": 884.0,
+          "class_id": 2,
+          "class_confidence": 0.9949362277984619,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000145.png",
+      "frame_name": "000145.png",
+      "timestamp": 49747150580,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747150580,
+          "x": 475.0,
+          "y": 214.0,
+          "w": 67.0,
+          "h": 48.0,
+          "area": 3216.0,
+          "class_id": 2,
+          "class_confidence": 0.9995181560516357,
+          "track_id": 46
+        },
+        {
+          "t": 49747150580,
+          "x": 667.0,
+          "y": 240.0,
+          "w": 9.0,
+          "h": 34.0,
+          "area": 306.0,
+          "class_id": 2,
+          "class_confidence": 0.8268253803253174,
+          "track_id": 53
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000146.png",
+      "frame_name": "000146.png",
+      "timestamp": 49747200581,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747200581,
+          "x": 533.0,
+          "y": 215.0,
+          "w": 112.0,
+          "h": 52.0,
+          "area": 5824.0,
+          "class_id": 2,
+          "class_confidence": 0.999887228012085,
+          "track_id": 44
+        },
+        {
+          "t": 49747200581,
+          "x": 477.0,
+          "y": 214.0,
+          "w": 71.0,
+          "h": 48.0,
+          "area": 3408.0,
+          "class_id": 2,
+          "class_confidence": 0.9994068145751953,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000147.png",
+      "frame_name": "000147.png",
+      "timestamp": 49747250563,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747250563,
+          "x": 539.0,
+          "y": 217.0,
+          "w": 112.0,
+          "h": 53.0,
+          "area": 5936.0,
+          "class_id": 2,
+          "class_confidence": 0.9998301267623901,
+          "track_id": 44
+        },
+        {
+          "t": 49747250563,
+          "x": 482.0,
+          "y": 214.0,
+          "w": 69.0,
+          "h": 48.0,
+          "area": 3312.0,
+          "class_id": 2,
+          "class_confidence": 0.9993946552276611,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000148.png",
+      "frame_name": "000148.png",
+      "timestamp": 49747300564,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747300564,
+          "x": 219.0,
+          "y": 215.0,
+          "w": 44.0,
+          "h": 17.0,
+          "area": 748.0,
+          "class_id": 2,
+          "class_confidence": 0.999622106552124,
+          "track_id": 57
+        },
+        {
+          "t": 49747300564,
+          "x": 486.0,
+          "y": 213.0,
+          "w": 72.0,
+          "h": 52.0,
+          "area": 3744.0,
+          "class_id": 2,
+          "class_confidence": 0.9993934631347656,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000149.png",
+      "frame_name": "000149.png",
+      "timestamp": 49747350565,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747350565,
+          "x": 219.0,
+          "y": 215.0,
+          "w": 45.0,
+          "h": 17.0,
+          "area": 765.0,
+          "class_id": 2,
+          "class_confidence": 0.9996515512466431,
+          "track_id": 57
+        },
+        {
+          "t": 49747350565,
+          "x": 490.0,
+          "y": 214.0,
+          "w": 74.0,
+          "h": 50.0,
+          "area": 3700.0,
+          "class_id": 2,
+          "class_confidence": 0.9990665316581726,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000150.png",
+      "frame_name": "000150.png",
+      "timestamp": 49747400588,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747400588,
+          "x": 221.0,
+          "y": 215.0,
+          "w": 44.0,
+          "h": 17.0,
+          "area": 748.0,
+          "class_id": 2,
+          "class_confidence": 0.9996737241744995,
+          "track_id": 57
+        },
+        {
+          "t": 49747400588,
+          "x": 494.0,
+          "y": 214.0,
+          "w": 76.0,
+          "h": 52.0,
+          "area": 3952.0,
+          "class_id": 2,
+          "class_confidence": 0.9992617964744568,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000151.png",
+      "frame_name": "000151.png",
+      "timestamp": 49747450566,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747450566,
+          "x": 221.0,
+          "y": 215.0,
+          "w": 45.0,
+          "h": 17.0,
+          "area": 765.0,
+          "class_id": 2,
+          "class_confidence": 0.9997261166572571,
+          "track_id": 57
+        },
+        {
+          "t": 49747450566,
+          "x": 499.0,
+          "y": 214.0,
+          "w": 77.0,
+          "h": 53.0,
+          "area": 4081.0,
+          "class_id": 2,
+          "class_confidence": 0.9992809891700745,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000152.png",
+      "frame_name": "000152.png",
+      "timestamp": 49747500564,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747500564,
+          "x": 569.0,
+          "y": 218.0,
+          "w": 106.0,
+          "h": 58.0,
+          "area": 6148.0,
+          "class_id": 2,
+          "class_confidence": 0.9993859529495239,
+          "track_id": 44
+        },
+        {
+          "t": 49747500564,
+          "x": 502.0,
+          "y": 215.0,
+          "w": 15.0,
+          "h": 17.0,
+          "area": 255.0,
+          "class_id": 2,
+          "class_confidence": 0.7914243936538696,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000153.png",
+      "frame_name": "000153.png",
+      "timestamp": 49747550565,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747550565,
+          "x": 578.0,
+          "y": 218.0,
+          "w": 97.0,
+          "h": 61.0,
+          "area": 5917.0,
+          "class_id": 2,
+          "class_confidence": 0.9995633959770203,
+          "track_id": 44
+        },
+        {
+          "t": 49747550565,
+          "x": 510.0,
+          "y": 214.0,
+          "w": 81.0,
+          "h": 56.0,
+          "area": 4536.0,
+          "class_id": 2,
+          "class_confidence": 0.9990146160125732,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000154.png",
+      "frame_name": "000154.png",
+      "timestamp": 49747600570,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747600570,
+          "x": 512.0,
+          "y": 213.0,
+          "w": 86.0,
+          "h": 58.0,
+          "area": 4988.0,
+          "class_id": 2,
+          "class_confidence": 0.9992554783821106,
+          "track_id": 46
+        },
+        {
+          "t": 49747600570,
+          "x": 507.0,
+          "y": 213.0,
+          "w": 20.0,
+          "h": 20.0,
+          "area": 400.0,
+          "class_id": 2,
+          "class_confidence": 0.9507631659507751,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000155.png",
+      "frame_name": "000155.png",
+      "timestamp": 49747650570,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747650570,
+          "x": 223.0,
+          "y": 215.0,
+          "w": 46.0,
+          "h": 17.0,
+          "area": 782.0,
+          "class_id": 2,
+          "class_confidence": 0.9998069405555725,
+          "track_id": 57
+        },
+        {
+          "t": 49747650570,
+          "x": 510.0,
+          "y": 214.0,
+          "w": 25.0,
+          "h": 18.0,
+          "area": 450.0,
+          "class_id": 2,
+          "class_confidence": 0.9066492319107056,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000156.png",
+      "frame_name": "000156.png",
+      "timestamp": 49747700593,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747700593,
+          "x": 512.0,
+          "y": 213.0,
+          "w": 21.0,
+          "h": 20.0,
+          "area": 420.0,
+          "class_id": 2,
+          "class_confidence": 0.918372392654419,
+          "track_id": 58
+        },
+        {
+          "t": 49747700593,
+          "x": 203.0,
+          "y": 226.0,
+          "w": 11.0,
+          "h": 18.0,
+          "area": 198.0,
+          "class_id": 5,
+          "class_confidence": 0.771578311920166,
+          "track_id": 63
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000157.png",
+      "frame_name": "000157.png",
+      "timestamp": 49747750566,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747750566,
+          "x": 223.0,
+          "y": 214.0,
+          "w": 49.0,
+          "h": 18.0,
+          "area": 882.0,
+          "class_id": 2,
+          "class_confidence": 0.9998534917831421,
+          "track_id": 57
+        },
+        {
+          "t": 49747750566,
+          "x": 606.0,
+          "y": 218.0,
+          "w": 70.0,
+          "h": 65.0,
+          "area": 4550.0,
+          "class_id": 2,
+          "class_confidence": 0.9921857714653015,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000158.png",
+      "frame_name": "000158.png",
+      "timestamp": 49747800566,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747800566,
+          "x": 225.0,
+          "y": 214.0,
+          "w": 46.0,
+          "h": 18.0,
+          "area": 828.0,
+          "class_id": 2,
+          "class_confidence": 0.9997873902320862,
+          "track_id": 57
+        },
+        {
+          "t": 49747800566,
+          "x": 517.0,
+          "y": 213.0,
+          "w": 23.0,
+          "h": 19.0,
+          "area": 437.0,
+          "class_id": 2,
+          "class_confidence": 0.9972293972969055,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000159.png",
+      "frame_name": "000159.png",
+      "timestamp": 49747850569,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747850569,
+          "x": 225.0,
+          "y": 214.0,
+          "w": 48.0,
+          "h": 18.0,
+          "area": 864.0,
+          "class_id": 2,
+          "class_confidence": 0.9997346997261047,
+          "track_id": 57
+        },
+        {
+          "t": 49747850569,
+          "x": 626.0,
+          "y": 219.0,
+          "w": 50.0,
+          "h": 66.0,
+          "area": 3300.0,
+          "class_id": 2,
+          "class_confidence": 0.9965511560440063,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000160.png",
+      "frame_name": "000160.png",
+      "timestamp": 49747900570,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747900570,
+          "x": 226.0,
+          "y": 213.0,
+          "w": 48.0,
+          "h": 18.0,
+          "area": 864.0,
+          "class_id": 2,
+          "class_confidence": 0.9997617602348328,
+          "track_id": 57
+        },
+        {
+          "t": 49747900570,
+          "x": 203.0,
+          "y": 215.0,
+          "w": 25.0,
+          "h": 14.0,
+          "area": 350.0,
+          "class_id": 2,
+          "class_confidence": 0.9962142109870911,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000161.png",
+      "frame_name": "000161.png",
+      "timestamp": 49747950571,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49747950571,
+          "x": 526.0,
+          "y": 209.0,
+          "w": 28.0,
+          "h": 20.0,
+          "area": 560.0,
+          "class_id": 2,
+          "class_confidence": 0.9982463121414185,
+          "track_id": 58
+        },
+        {
+          "t": 49747950571,
+          "x": 647.0,
+          "y": 218.0,
+          "w": 28.0,
+          "h": 66.0,
+          "area": 1848.0,
+          "class_id": 2,
+          "class_confidence": 0.9959689378738403,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000162.png",
+      "frame_name": "000162.png",
+      "timestamp": 49748000521,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748000521,
+          "x": 203.0,
+          "y": 213.0,
+          "w": 27.0,
+          "h": 15.0,
+          "area": 405.0,
+          "class_id": 2,
+          "class_confidence": 0.99713134765625,
+          "track_id": 62
+        },
+        {
+          "t": 49748000521,
+          "x": 657.0,
+          "y": 222.0,
+          "w": 17.0,
+          "h": 62.0,
+          "area": 1054.0,
+          "class_id": 2,
+          "class_confidence": 0.9891040325164795,
+          "track_id": 44
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000163.png",
+      "frame_name": "000163.png",
+      "timestamp": 49748050554,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748050554,
+          "x": 228.0,
+          "y": 209.0,
+          "w": 46.0,
+          "h": 19.0,
+          "area": 874.0,
+          "class_id": 2,
+          "class_confidence": 0.9995924830436707,
+          "track_id": 57
+        },
+        {
+          "t": 49748050554,
+          "x": 204.0,
+          "y": 213.0,
+          "w": 25.0,
+          "h": 14.0,
+          "area": 350.0,
+          "class_id": 2,
+          "class_confidence": 0.9973047971725464,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000164.png",
+      "frame_name": "000164.png",
+      "timestamp": 49748100571,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748100571,
+          "x": 230.0,
+          "y": 209.0,
+          "w": 46.0,
+          "h": 19.0,
+          "area": 874.0,
+          "class_id": 2,
+          "class_confidence": 0.9998425245285034,
+          "track_id": 57
+        },
+        {
+          "t": 49748100571,
+          "x": 204.0,
+          "y": 213.0,
+          "w": 27.0,
+          "h": 14.0,
+          "area": 378.0,
+          "class_id": 2,
+          "class_confidence": 0.9975353479385376,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000165.png",
+      "frame_name": "000165.png",
+      "timestamp": 49748150568,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748150568,
+          "x": 230.0,
+          "y": 207.0,
+          "w": 48.0,
+          "h": 19.0,
+          "area": 912.0,
+          "class_id": 2,
+          "class_confidence": 0.9997184872627258,
+          "track_id": 57
+        },
+        {
+          "t": 49748150568,
+          "x": 192.0,
+          "y": 221.0,
+          "w": 16.0,
+          "h": 22.0,
+          "area": 352.0,
+          "class_id": 5,
+          "class_confidence": 0.5760329961776733,
+          "track_id": 63
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000166.png",
+      "frame_name": "000166.png",
+      "timestamp": 49748200569,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748200569,
+          "x": 543.0,
+          "y": 205.0,
+          "w": 37.0,
+          "h": 22.0,
+          "area": 814.0,
+          "class_id": 2,
+          "class_confidence": 0.9994899034500122,
+          "track_id": 58
+        },
+        {
+          "t": 49748200569,
+          "x": 204.0,
+          "y": 211.0,
+          "w": 28.0,
+          "h": 14.0,
+          "area": 392.0,
+          "class_id": 2,
+          "class_confidence": 0.9979996085166931,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000167.png",
+      "frame_name": "000167.png",
+      "timestamp": 49748250551,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748250551,
+          "x": 606.0,
+          "y": 206.0,
+          "w": 70.0,
+          "h": 77.0,
+          "area": 5390.0,
+          "class_id": 2,
+          "class_confidence": 0.9987087249755859,
+          "track_id": 46
+        },
+        {
+          "t": 49748250551,
+          "x": 205.0,
+          "y": 211.0,
+          "w": 28.0,
+          "h": 15.0,
+          "area": 420.0,
+          "class_id": 2,
+          "class_confidence": 0.9978097081184387,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000168.png",
+      "frame_name": "000168.png",
+      "timestamp": 49748300568,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748300568,
+          "x": 550.0,
+          "y": 205.0,
+          "w": 42.0,
+          "h": 23.0,
+          "area": 966.0,
+          "class_id": 2,
+          "class_confidence": 0.9997400641441345,
+          "track_id": 58
+        },
+        {
+          "t": 49748300568,
+          "x": 618.0,
+          "y": 206.0,
+          "w": 58.0,
+          "h": 79.0,
+          "area": 4582.0,
+          "class_id": 2,
+          "class_confidence": 0.9987496137619019,
+          "track_id": 46
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000169.png",
+      "frame_name": "000169.png",
+      "timestamp": 49748350573,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748350573,
+          "x": 234.0,
+          "y": 209.0,
+          "w": 48.0,
+          "h": 21.0,
+          "area": 1008.0,
+          "class_id": 2,
+          "class_confidence": 0.9998490810394287,
+          "track_id": 57
+        },
+        {
+          "t": 49748350573,
+          "x": 206.0,
+          "y": 213.0,
+          "w": 28.0,
+          "h": 15.0,
+          "area": 420.0,
+          "class_id": 2,
+          "class_confidence": 0.9984639883041382,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000170.png",
+      "frame_name": "000170.png",
+      "timestamp": 49748400574,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748400574,
+          "x": 234.0,
+          "y": 210.0,
+          "w": 50.0,
+          "h": 19.0,
+          "area": 950.0,
+          "class_id": 2,
+          "class_confidence": 0.9998394250869751,
+          "track_id": 57
+        },
+        {
+          "t": 49748400574,
+          "x": 206.0,
+          "y": 214.0,
+          "w": 29.0,
+          "h": 14.0,
+          "area": 406.0,
+          "class_id": 2,
+          "class_confidence": 0.9986288547515869,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000171.png",
+      "frame_name": "000171.png",
+      "timestamp": 49748450575,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748450575,
+          "x": 560.0,
+          "y": 205.0,
+          "w": 50.0,
+          "h": 23.0,
+          "area": 1150.0,
+          "class_id": 2,
+          "class_confidence": 0.9997426867485046,
+          "track_id": 58
+        },
+        {
+          "t": 49748450575,
+          "x": 208.0,
+          "y": 214.0,
+          "w": 29.0,
+          "h": 14.0,
+          "area": 406.0,
+          "class_id": 2,
+          "class_confidence": 0.9994631409645081,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000172.png",
+      "frame_name": "000172.png",
+      "timestamp": 49748500573,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748500573,
+          "x": 564.0,
+          "y": 205.0,
+          "w": 53.0,
+          "h": 23.0,
+          "area": 1219.0,
+          "class_id": 2,
+          "class_confidence": 0.9998306035995483,
+          "track_id": 58
+        },
+        {
+          "t": 49748500573,
+          "x": 209.0,
+          "y": 214.0,
+          "w": 29.0,
+          "h": 14.0,
+          "area": 406.0,
+          "class_id": 2,
+          "class_confidence": 0.9992436170578003,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000173.png",
+      "frame_name": "000173.png",
+      "timestamp": 49748550574,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748550574,
+          "x": 236.0,
+          "y": 210.0,
+          "w": 49.0,
+          "h": 19.0,
+          "area": 931.0,
+          "class_id": 2,
+          "class_confidence": 0.9996858835220337,
+          "track_id": 57
+        },
+        {
+          "t": 49748550574,
+          "x": 210.0,
+          "y": 213.0,
+          "w": 28.0,
+          "h": 15.0,
+          "area": 420.0,
+          "class_id": 2,
+          "class_confidence": 0.9993452429771423,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000174.png",
+      "frame_name": "000174.png",
+      "timestamp": 49748600571,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748600571,
+          "x": 238.0,
+          "y": 209.0,
+          "w": 48.0,
+          "h": 21.0,
+          "area": 1008.0,
+          "class_id": 2,
+          "class_confidence": 0.9998226761817932,
+          "track_id": 57
+        },
+        {
+          "t": 49748600571,
+          "x": 571.0,
+          "y": 203.0,
+          "w": 58.0,
+          "h": 24.0,
+          "area": 1392.0,
+          "class_id": 2,
+          "class_confidence": 0.9997361302375793,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000175.png",
+      "frame_name": "000175.png",
+      "timestamp": 49748650572,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748650572,
+          "x": 575.0,
+          "y": 203.0,
+          "w": 59.0,
+          "h": 23.0,
+          "area": 1357.0,
+          "class_id": 2,
+          "class_confidence": 0.9998685121536255,
+          "track_id": 58
+        },
+        {
+          "t": 49748650572,
+          "x": 182.0,
+          "y": 207.0,
+          "w": 23.0,
+          "h": 15.0,
+          "area": 345.0,
+          "class_id": 2,
+          "class_confidence": 0.8146733045578003,
+          "track_id": 67
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000176.png",
+      "frame_name": "000176.png",
+      "timestamp": 49748700573,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748700573,
+          "x": 239.0,
+          "y": 209.0,
+          "w": 50.0,
+          "h": 19.0,
+          "area": 950.0,
+          "class_id": 2,
+          "class_confidence": 0.9997442364692688,
+          "track_id": 57
+        },
+        {
+          "t": 49748700573,
+          "x": 183.0,
+          "y": 207.0,
+          "w": 22.0,
+          "h": 15.0,
+          "area": 330.0,
+          "class_id": 2,
+          "class_confidence": 0.6538652777671814,
+          "track_id": 67
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000177.png",
+      "frame_name": "000177.png",
+      "timestamp": 49748750579,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748750579,
+          "x": 582.0,
+          "y": 201.0,
+          "w": 63.0,
+          "h": 24.0,
+          "area": 1512.0,
+          "class_id": 2,
+          "class_confidence": 0.9998179078102112,
+          "track_id": 58
+        },
+        {
+          "t": 49748750579,
+          "x": 212.0,
+          "y": 211.0,
+          "w": 31.0,
+          "h": 15.0,
+          "area": 465.0,
+          "class_id": 2,
+          "class_confidence": 0.9989571571350098,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000178.png",
+      "frame_name": "000178.png",
+      "timestamp": 49748800582,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748800582,
+          "x": 587.0,
+          "y": 200.0,
+          "w": 62.0,
+          "h": 27.0,
+          "area": 1674.0,
+          "class_id": 2,
+          "class_confidence": 0.9998811483383179,
+          "track_id": 58
+        },
+        {
+          "t": 49748800582,
+          "x": 210.0,
+          "y": 210.0,
+          "w": 33.0,
+          "h": 17.0,
+          "area": 561.0,
+          "class_id": 2,
+          "class_confidence": 0.9991291165351868,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000179.png",
+      "frame_name": "000179.png",
+      "timestamp": 49748850589,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748850589,
+          "x": 242.0,
+          "y": 206.0,
+          "w": 50.0,
+          "h": 21.0,
+          "area": 1050.0,
+          "class_id": 2,
+          "class_confidence": 0.9997065663337708,
+          "track_id": 57
+        },
+        {
+          "t": 49748850589,
+          "x": 212.0,
+          "y": 210.0,
+          "w": 33.0,
+          "h": 15.0,
+          "area": 495.0,
+          "class_id": 2,
+          "class_confidence": 0.9989271759986877,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000180.png",
+      "frame_name": "000180.png",
+      "timestamp": 49748900585,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748900585,
+          "x": 243.0,
+          "y": 206.0,
+          "w": 49.0,
+          "h": 21.0,
+          "area": 1029.0,
+          "class_id": 2,
+          "class_confidence": 0.9996380805969238,
+          "track_id": 57
+        },
+        {
+          "t": 49748900585,
+          "x": 214.0,
+          "y": 210.0,
+          "w": 32.0,
+          "h": 15.0,
+          "area": 480.0,
+          "class_id": 2,
+          "class_confidence": 0.9992027878761292,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000181.png",
+      "frame_name": "000181.png",
+      "timestamp": 49748950588,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49748950588,
+          "x": 243.0,
+          "y": 205.0,
+          "w": 52.0,
+          "h": 22.0,
+          "area": 1144.0,
+          "class_id": 2,
+          "class_confidence": 0.9998195767402649,
+          "track_id": 57
+        },
+        {
+          "t": 49748950588,
+          "x": 187.0,
+          "y": 205.0,
+          "w": 23.0,
+          "h": 17.0,
+          "area": 391.0,
+          "class_id": 2,
+          "class_confidence": 0.862856388092041,
+          "track_id": 67
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000182.png",
+      "frame_name": "000182.png",
+      "timestamp": 49749000526,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749000526,
+          "x": 604.0,
+          "y": 197.0,
+          "w": 67.0,
+          "h": 27.0,
+          "area": 1809.0,
+          "class_id": 2,
+          "class_confidence": 0.999785840511322,
+          "track_id": 58
+        },
+        {
+          "t": 49749000526,
+          "x": 188.0,
+          "y": 205.0,
+          "w": 23.0,
+          "h": 15.0,
+          "area": 345.0,
+          "class_id": 2,
+          "class_confidence": 0.8515105843544006,
+          "track_id": 67
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000183.png",
+      "frame_name": "000183.png",
+      "timestamp": 49749050565,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749050565,
+          "x": 245.0,
+          "y": 205.0,
+          "w": 49.0,
+          "h": 21.0,
+          "area": 1029.0,
+          "class_id": 2,
+          "class_confidence": 0.9998743534088135,
+          "track_id": 57
+        },
+        {
+          "t": 49749050565,
+          "x": 190.0,
+          "y": 203.0,
+          "w": 27.0,
+          "h": 17.0,
+          "area": 459.0,
+          "class_id": 2,
+          "class_confidence": 0.7809634208679199,
+          "track_id": 67
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000184.png",
+      "frame_name": "000184.png",
+      "timestamp": 49749100552,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749100552,
+          "x": 247.0,
+          "y": 205.0,
+          "w": 51.0,
+          "h": 22.0,
+          "area": 1122.0,
+          "class_id": 2,
+          "class_confidence": 0.9999176263809204,
+          "track_id": 57
+        },
+        {
+          "t": 49749100552,
+          "x": 67.0,
+          "y": 205.0,
+          "w": 45.0,
+          "h": 35.0,
+          "area": 1575.0,
+          "class_id": 2,
+          "class_confidence": 0.9843810796737671,
+          "track_id": 70
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000185.png",
+      "frame_name": "000185.png",
+      "timestamp": 49749150570,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749150570,
+          "x": 619.0,
+          "y": 196.0,
+          "w": 55.0,
+          "h": 28.0,
+          "area": 1540.0,
+          "class_id": 2,
+          "class_confidence": 0.9998002648353577,
+          "track_id": 58
+        },
+        {
+          "t": 49749150570,
+          "x": 57.0,
+          "y": 206.0,
+          "w": 51.0,
+          "h": 35.0,
+          "area": 1785.0,
+          "class_id": 2,
+          "class_confidence": 0.995511531829834,
+          "track_id": 70
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000186.png",
+      "frame_name": "000186.png",
+      "timestamp": 49749200574,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749200574,
+          "x": 623.0,
+          "y": 196.0,
+          "w": 51.0,
+          "h": 28.0,
+          "area": 1428.0,
+          "class_id": 2,
+          "class_confidence": 0.999738872051239,
+          "track_id": 58
+        },
+        {
+          "t": 49749200574,
+          "x": 218.0,
+          "y": 209.0,
+          "w": 32.0,
+          "h": 17.0,
+          "area": 544.0,
+          "class_id": 2,
+          "class_confidence": 0.9994789958000183,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000187.png",
+      "frame_name": "000187.png",
+      "timestamp": 49749250578,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749250578,
+          "x": 38.0,
+          "y": 205.0,
+          "w": 76.0,
+          "h": 37.0,
+          "area": 2812.0,
+          "class_id": 2,
+          "class_confidence": 0.9995030164718628,
+          "track_id": 70
+        },
+        {
+          "t": 49749250578,
+          "x": 193.0,
+          "y": 203.0,
+          "w": 25.0,
+          "h": 18.0,
+          "area": 450.0,
+          "class_id": 2,
+          "class_confidence": 0.8975979685783386,
+          "track_id": 67
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000188.png",
+      "frame_name": "000188.png",
+      "timestamp": 49749300580,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749300580,
+          "x": 634.0,
+          "y": 196.0,
+          "w": 42.0,
+          "h": 28.0,
+          "area": 1176.0,
+          "class_id": 2,
+          "class_confidence": 0.9995855689048767,
+          "track_id": 58
+        },
+        {
+          "t": 49749300580,
+          "x": 222.0,
+          "y": 209.0,
+          "w": 31.0,
+          "h": 17.0,
+          "area": 527.0,
+          "class_id": 2,
+          "class_confidence": 0.99912029504776,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000189.png",
+      "frame_name": "000189.png",
+      "timestamp": 49749350582,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749350582,
+          "x": 251.0,
+          "y": 205.0,
+          "w": 52.0,
+          "h": 22.0,
+          "area": 1144.0,
+          "class_id": 2,
+          "class_confidence": 0.9998748302459717,
+          "track_id": 57
+        },
+        {
+          "t": 49749350582,
+          "x": 13.0,
+          "y": 205.0,
+          "w": 95.0,
+          "h": 39.0,
+          "area": 3705.0,
+          "class_id": 2,
+          "class_confidence": 0.9975540041923523,
+          "track_id": 70
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000190.png",
+      "frame_name": "000190.png",
+      "timestamp": 49749400562,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749400562,
+          "x": 251.0,
+          "y": 205.0,
+          "w": 53.0,
+          "h": 22.0,
+          "area": 1166.0,
+          "class_id": 2,
+          "class_confidence": 0.9998902082443237,
+          "track_id": 57
+        },
+        {
+          "t": 49749400562,
+          "x": 223.0,
+          "y": 209.0,
+          "w": 31.0,
+          "h": 17.0,
+          "area": 527.0,
+          "class_id": 2,
+          "class_confidence": 0.9995105266571045,
+          "track_id": 62
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000191.png",
+      "frame_name": "000191.png",
+      "timestamp": 49749450579,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749450579,
+          "x": 650.0,
+          "y": 196.0,
+          "w": 26.0,
+          "h": 30.0,
+          "area": 780.0,
+          "class_id": 2,
+          "class_confidence": 0.9983532428741455,
+          "track_id": 58
+        },
+        {
+          "t": 49749450579,
+          "x": 199.0,
+          "y": 203.0,
+          "w": 27.0,
+          "h": 18.0,
+          "area": 486.0,
+          "class_id": 2,
+          "class_confidence": 0.8511847853660583,
+          "track_id": 67
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000192.png",
+      "frame_name": "000192.png",
+      "timestamp": 49749500565,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749500565,
+          "x": 6.0,
+          "y": 207.0,
+          "w": 93.0,
+          "h": 39.0,
+          "area": 3627.0,
+          "class_id": 2,
+          "class_confidence": 0.998084545135498,
+          "track_id": 70
+        },
+        {
+          "t": 49749500565,
+          "x": 655.0,
+          "y": 198.0,
+          "w": 21.0,
+          "h": 27.0,
+          "area": 567.0,
+          "class_id": 2,
+          "class_confidence": 0.9975109100341797,
+          "track_id": 58
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000193.png",
+      "frame_name": "000193.png",
+      "timestamp": 49749550586,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749550586,
+          "x": 255.0,
+          "y": 205.0,
+          "w": 53.0,
+          "h": 23.0,
+          "area": 1219.0,
+          "class_id": 2,
+          "class_confidence": 0.9999059438705444,
+          "track_id": 57
+        },
+        {
+          "t": 49749550586,
+          "x": 4.0,
+          "y": 205.0,
+          "w": 100.0,
+          "h": 43.0,
+          "area": 4300.0,
+          "class_id": 2,
+          "class_confidence": 0.9876514673233032,
+          "track_id": 70
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000194.png",
+      "frame_name": "000194.png",
+      "timestamp": 49749600587,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749600587,
+          "x": 226.0,
+          "y": 210.0,
+          "w": 33.0,
+          "h": 17.0,
+          "area": 561.0,
+          "class_id": 2,
+          "class_confidence": 0.9988893866539001,
+          "track_id": 62
+        },
+        {
+          "t": 49749600587,
+          "x": 0.0,
+          "y": 205.0,
+          "w": 104.0,
+          "h": 44.0,
+          "area": 4576.0,
+          "class_id": 2,
+          "class_confidence": 0.9964202642440796,
+          "track_id": 70
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000195.png",
+      "frame_name": "000195.png",
+      "timestamp": 49749650588,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749650588,
+          "x": 227.0,
+          "y": 210.0,
+          "w": 32.0,
+          "h": 17.0,
+          "area": 544.0,
+          "class_id": 2,
+          "class_confidence": 0.9990614056587219,
+          "track_id": 62
+        },
+        {
+          "t": 49749650588,
+          "x": -1.0,
+          "y": 205.0,
+          "w": 102.0,
+          "h": 43.0,
+          "area": 4386.0,
+          "class_id": 2,
+          "class_confidence": 0.9983147382736206,
+          "track_id": 70
+        }
+      ]
+    },
+    {
+      "split": "test",
+      "sequence": "thun_01_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "test/thun_01_a/images/left/distorted/000196.png",
+      "frame_name": "000196.png",
+      "timestamp": 49749700589,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 49749700589,
+          "x": 228.0,
+          "y": 210.0,
+          "w": 32.0,
+          "h": 17.0,
+          "area": 544.0,
+          "class_id": 2,
+          "class_confidence": 0.9992559552192688,
+          "track_id": 62
+        },
+        {
+          "t": 49749700589,
+          "x": -1.0,
+          "y": 205.0,
+          "w": 101.0,
+          "h": 43.0,
+          "area": 4343.0,
+          "class_id": 2,
+          "class_confidence": 0.9976797699928284,
+          "track_id": 70
+        }
+      ]
+    }
+  ]
+}

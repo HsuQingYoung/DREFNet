@@ -1,0 +1,7134 @@
+{
+  "frame_count": 235,
+  "frames": [
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000000.png",
+      "frame_name": "000000.png",
+      "timestamp": 56174807540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56174807540,
+          "x": 189.0,
+          "y": 186.0,
+          "w": 25.0,
+          "h": 19.0,
+          "area": 475.0,
+          "class_id": 2,
+          "class_confidence": 0.9482759237289429,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000001.png",
+      "frame_name": "000001.png",
+      "timestamp": 56174857541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56174857541,
+          "x": 184.0,
+          "y": 188.0,
+          "w": 25.0,
+          "h": 19.0,
+          "area": 475.0,
+          "class_id": 2,
+          "class_confidence": 0.9719123840332031,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000002.png",
+      "frame_name": "000002.png",
+      "timestamp": 56174907554,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56174907554,
+          "x": 177.0,
+          "y": 189.0,
+          "w": 25.0,
+          "h": 19.0,
+          "area": 475.0,
+          "class_id": 2,
+          "class_confidence": 0.8153076767921448,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000003.png",
+      "frame_name": "000003.png",
+      "timestamp": 56174957543,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56174957543,
+          "x": 170.0,
+          "y": 189.0,
+          "w": 29.0,
+          "h": 19.0,
+          "area": 551.0,
+          "class_id": 2,
+          "class_confidence": 0.7504144310951233,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000004.png",
+      "frame_name": "000004.png",
+      "timestamp": 56175007489,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175007489,
+          "x": 163.0,
+          "y": 188.0,
+          "w": 28.0,
+          "h": 22.0,
+          "area": 616.0,
+          "class_id": 2,
+          "class_confidence": 0.557761549949646,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000005.png",
+      "frame_name": "000005.png",
+      "timestamp": 56175057526,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175057526,
+          "x": 155.0,
+          "y": 189.0,
+          "w": 29.0,
+          "h": 20.0,
+          "area": 580.0,
+          "class_id": 2,
+          "class_confidence": 0.46316248178482056,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000006.png",
+      "frame_name": "000006.png",
+      "timestamp": 56175107519,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175107519,
+          "x": 148.0,
+          "y": 189.0,
+          "w": 28.0,
+          "h": 20.0,
+          "area": 560.0,
+          "class_id": 2,
+          "class_confidence": 0.770797073841095,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000007.png",
+      "frame_name": "000007.png",
+      "timestamp": 56175157516,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175157516,
+          "x": 139.0,
+          "y": 189.0,
+          "w": 30.0,
+          "h": 20.0,
+          "area": 600.0,
+          "class_id": 2,
+          "class_confidence": 0.8330898880958557,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000008.png",
+      "frame_name": "000008.png",
+      "timestamp": 56175207518,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175207518,
+          "x": 130.0,
+          "y": 188.0,
+          "w": 29.0,
+          "h": 22.0,
+          "area": 638.0,
+          "class_id": 2,
+          "class_confidence": 0.8901448845863342,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000009.png",
+      "frame_name": "000009.png",
+      "timestamp": 56175257523,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175257523,
+          "x": 119.0,
+          "y": 189.0,
+          "w": 33.0,
+          "h": 20.0,
+          "area": 660.0,
+          "class_id": 2,
+          "class_confidence": 0.9473782181739807,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000010.png",
+      "frame_name": "000010.png",
+      "timestamp": 56175307540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175307540,
+          "x": 110.0,
+          "y": 189.0,
+          "w": 29.0,
+          "h": 20.0,
+          "area": 580.0,
+          "class_id": 2,
+          "class_confidence": 0.9119442701339722,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000011.png",
+      "frame_name": "000011.png",
+      "timestamp": 56175357541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175357541,
+          "x": 99.0,
+          "y": 189.0,
+          "w": 30.0,
+          "h": 20.0,
+          "area": 600.0,
+          "class_id": 2,
+          "class_confidence": 0.9270864129066467,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000012.png",
+      "frame_name": "000012.png",
+      "timestamp": 56175407543,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175407543,
+          "x": 88.0,
+          "y": 188.0,
+          "w": 32.0,
+          "h": 22.0,
+          "area": 704.0,
+          "class_id": 2,
+          "class_confidence": 0.9044296741485596,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000013.png",
+      "frame_name": "000013.png",
+      "timestamp": 56175457540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175457540,
+          "x": 75.0,
+          "y": 189.0,
+          "w": 31.0,
+          "h": 20.0,
+          "area": 620.0,
+          "class_id": 2,
+          "class_confidence": 0.8238876461982727,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000014.png",
+      "frame_name": "000014.png",
+      "timestamp": 56175507541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175507541,
+          "x": 62.0,
+          "y": 188.0,
+          "w": 33.0,
+          "h": 22.0,
+          "area": 726.0,
+          "class_id": 2,
+          "class_confidence": 0.9486168026924133,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000015.png",
+      "frame_name": "000015.png",
+      "timestamp": 56175557542,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175557542,
+          "x": 51.0,
+          "y": 186.0,
+          "w": 31.0,
+          "h": 23.0,
+          "area": 713.0,
+          "class_id": 2,
+          "class_confidence": 0.9762696623802185,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000020.png",
+      "frame_name": "000020.png",
+      "timestamp": 56175807541,
+      "mode": "copied",
+      "removed_targets": []
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000021.png",
+      "frame_name": "000021.png",
+      "timestamp": 56175857534,
+      "mode": "copied",
+      "removed_targets": []
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000022.png",
+      "frame_name": "000022.png",
+      "timestamp": 56175907555,
+      "mode": "copied",
+      "removed_targets": []
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000016.png",
+      "frame_name": "000016.png",
+      "timestamp": 56175607540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175607540,
+          "x": 37.0,
+          "y": 185.0,
+          "w": 31.0,
+          "h": 24.0,
+          "area": 744.0,
+          "class_id": 2,
+          "class_confidence": 0.5988158583641052,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000017.png",
+      "frame_name": "000017.png",
+      "timestamp": 56175657541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175657541,
+          "x": 23.0,
+          "y": 184.0,
+          "w": 33.0,
+          "h": 26.0,
+          "area": 858.0,
+          "class_id": 2,
+          "class_confidence": 0.6927927732467651,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000018.png",
+      "frame_name": "000018.png",
+      "timestamp": 56175707538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175707538,
+          "x": 7.0,
+          "y": 181.0,
+          "w": 34.0,
+          "h": 28.0,
+          "area": 952.0,
+          "class_id": 2,
+          "class_confidence": 0.36425063014030457,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000019.png",
+      "frame_name": "000019.png",
+      "timestamp": 56175757539,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175757539,
+          "x": -9.0,
+          "y": 180.0,
+          "w": 36.0,
+          "h": 30.0,
+          "area": 1080.0,
+          "class_id": 2,
+          "class_confidence": 0.4688529968261719,
+          "track_id": 4
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000023.png",
+      "frame_name": "000023.png",
+      "timestamp": 56175957536,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56175957536,
+          "x": 631.0,
+          "y": 261.0,
+          "w": 45.0,
+          "h": 22.0,
+          "area": 990.0,
+          "class_id": 2,
+          "class_confidence": 0.9661949276924133,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000024.png",
+      "frame_name": "000024.png",
+      "timestamp": 56176007486,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176007486,
+          "x": 621.0,
+          "y": 261.0,
+          "w": 53.0,
+          "h": 22.0,
+          "area": 1166.0,
+          "class_id": 2,
+          "class_confidence": 0.9731235504150391,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000025.png",
+      "frame_name": "000025.png",
+      "timestamp": 56176057523,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176057523,
+          "x": 603.0,
+          "y": 259.0,
+          "w": 58.0,
+          "h": 23.0,
+          "area": 1334.0,
+          "class_id": 2,
+          "class_confidence": 0.9545606374740601,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000026.png",
+      "frame_name": "000026.png",
+      "timestamp": 56176107512,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176107512,
+          "x": 596.0,
+          "y": 257.0,
+          "w": 52.0,
+          "h": 23.0,
+          "area": 1196.0,
+          "class_id": 2,
+          "class_confidence": 0.9877365231513977,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000027.png",
+      "frame_name": "000027.png",
+      "timestamp": 56176157529,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176157529,
+          "x": 581.0,
+          "y": 256.0,
+          "w": 53.0,
+          "h": 23.0,
+          "area": 1219.0,
+          "class_id": 2,
+          "class_confidence": 0.8686519861221313,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000028.png",
+      "frame_name": "000028.png",
+      "timestamp": 56176207535,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176207535,
+          "x": 652.0,
+          "y": 237.0,
+          "w": 25.0,
+          "h": 14.0,
+          "area": 350.0,
+          "class_id": 2,
+          "class_confidence": 0.8901755809783936,
+          "track_id": 12
+        },
+        {
+          "t": 56176207535,
+          "x": 556.0,
+          "y": 253.0,
+          "w": 63.0,
+          "h": 23.0,
+          "area": 1449.0,
+          "class_id": 2,
+          "class_confidence": 0.7164391279220581,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000029.png",
+      "frame_name": "000029.png",
+      "timestamp": 56176257532,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176257532,
+          "x": 555.0,
+          "y": 252.0,
+          "w": 51.0,
+          "h": 22.0,
+          "area": 1122.0,
+          "class_id": 2,
+          "class_confidence": 0.6866234540939331,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000030.png",
+      "frame_name": "000030.png",
+      "timestamp": 56176307533,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176307533,
+          "x": 533.0,
+          "y": 249.0,
+          "w": 60.0,
+          "h": 24.0,
+          "area": 1440.0,
+          "class_id": 2,
+          "class_confidence": 0.7813326716423035,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000031.png",
+      "frame_name": "000031.png",
+      "timestamp": 56176357534,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176357534,
+          "x": 515.0,
+          "y": 248.0,
+          "w": 64.0,
+          "h": 23.0,
+          "area": 1472.0,
+          "class_id": 2,
+          "class_confidence": 0.5554705858230591,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000032.png",
+      "frame_name": "000032.png",
+      "timestamp": 56176407536,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176407536,
+          "x": 499.0,
+          "y": 247.0,
+          "w": 66.0,
+          "h": 23.0,
+          "area": 1518.0,
+          "class_id": 2,
+          "class_confidence": 0.6694236993789673,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000033.png",
+      "frame_name": "000033.png",
+      "timestamp": 56176457533,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176457533,
+          "x": 573.0,
+          "y": 227.0,
+          "w": 28.0,
+          "h": 16.0,
+          "area": 448.0,
+          "class_id": 2,
+          "class_confidence": 0.7528899908065796,
+          "track_id": 12
+        },
+        {
+          "t": 56176457533,
+          "x": 498.0,
+          "y": 247.0,
+          "w": 56.0,
+          "h": 22.0,
+          "area": 1232.0,
+          "class_id": 2,
+          "class_confidence": 0.7372555732727051,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000034.png",
+      "frame_name": "000034.png",
+      "timestamp": 56176507530,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176507530,
+          "x": 477.0,
+          "y": 244.0,
+          "w": 65.0,
+          "h": 22.0,
+          "area": 1430.0,
+          "class_id": 2,
+          "class_confidence": 0.6799945831298828,
+          "track_id": 11
+        },
+        {
+          "t": 56176507530,
+          "x": 556.0,
+          "y": 226.0,
+          "w": 25.0,
+          "h": 14.0,
+          "area": 350.0,
+          "class_id": 2,
+          "class_confidence": 0.5533095002174377,
+          "track_id": 12
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000035.png",
+      "frame_name": "000035.png",
+      "timestamp": 56176557531,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176557531,
+          "x": 463.0,
+          "y": 244.0,
+          "w": 67.0,
+          "h": 23.0,
+          "area": 1541.0,
+          "class_id": 2,
+          "class_confidence": 0.9161756634712219,
+          "track_id": 11
+        },
+        {
+          "t": 56176557531,
+          "x": 640.0,
+          "y": 220.0,
+          "w": 9.0,
+          "h": 15.0,
+          "area": 135.0,
+          "class_id": 2,
+          "class_confidence": 0.30035215616226196,
+          "track_id": 14
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000036.png",
+      "frame_name": "000036.png",
+      "timestamp": 56176607533,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176607533,
+          "x": 458.0,
+          "y": 243.0,
+          "w": 59.0,
+          "h": 22.0,
+          "area": 1298.0,
+          "class_id": 2,
+          "class_confidence": 0.9529266953468323,
+          "track_id": 11
+        },
+        {
+          "t": 56176607533,
+          "x": 626.0,
+          "y": 219.0,
+          "w": 11.0,
+          "h": 15.0,
+          "area": 165.0,
+          "class_id": 2,
+          "class_confidence": 0.3429710566997528,
+          "track_id": 14
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000037.png",
+      "frame_name": "000037.png",
+      "timestamp": 56176657534,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176657534,
+          "x": 445.0,
+          "y": 241.0,
+          "w": 60.0,
+          "h": 23.0,
+          "area": 1380.0,
+          "class_id": 2,
+          "class_confidence": 0.9141775965690613,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000038.png",
+      "frame_name": "000038.png",
+      "timestamp": 56176707531,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176707531,
+          "x": 432.0,
+          "y": 242.0,
+          "w": 63.0,
+          "h": 22.0,
+          "area": 1386.0,
+          "class_id": 2,
+          "class_confidence": 0.9504764676094055,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000039.png",
+      "frame_name": "000039.png",
+      "timestamp": 56176757528,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176757528,
+          "x": 418.0,
+          "y": 240.0,
+          "w": 63.0,
+          "h": 22.0,
+          "area": 1386.0,
+          "class_id": 2,
+          "class_confidence": 0.862736165523529,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000040.png",
+      "frame_name": "000040.png",
+      "timestamp": 56176807530,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176807530,
+          "x": 406.0,
+          "y": 240.0,
+          "w": 62.0,
+          "h": 20.0,
+          "area": 1240.0,
+          "class_id": 2,
+          "class_confidence": 0.9062163233757019,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000041.png",
+      "frame_name": "000041.png",
+      "timestamp": 56176857531,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176857531,
+          "x": 385.0,
+          "y": 238.0,
+          "w": 71.0,
+          "h": 20.0,
+          "area": 1420.0,
+          "class_id": 2,
+          "class_confidence": 0.849027156829834,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000042.png",
+      "frame_name": "000042.png",
+      "timestamp": 56176907540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176907540,
+          "x": 382.0,
+          "y": 238.0,
+          "w": 62.0,
+          "h": 22.0,
+          "area": 1364.0,
+          "class_id": 2,
+          "class_confidence": 0.8737162947654724,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000043.png",
+      "frame_name": "000043.png",
+      "timestamp": 56176957549,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56176957549,
+          "x": 370.0,
+          "y": 235.0,
+          "w": 62.0,
+          "h": 23.0,
+          "area": 1426.0,
+          "class_id": 2,
+          "class_confidence": 0.9416308403015137,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000044.png",
+      "frame_name": "000044.png",
+      "timestamp": 56177007487,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177007487,
+          "x": 360.0,
+          "y": 234.0,
+          "w": 60.0,
+          "h": 20.0,
+          "area": 1200.0,
+          "class_id": 2,
+          "class_confidence": 0.8589585423469543,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000045.png",
+      "frame_name": "000045.png",
+      "timestamp": 56177057524,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177057524,
+          "x": 344.0,
+          "y": 232.0,
+          "w": 64.0,
+          "h": 21.0,
+          "area": 1344.0,
+          "class_id": 2,
+          "class_confidence": 0.843222439289093,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000046.png",
+      "frame_name": "000046.png",
+      "timestamp": 56177107517,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177107517,
+          "x": 335.0,
+          "y": 232.0,
+          "w": 60.0,
+          "h": 21.0,
+          "area": 1260.0,
+          "class_id": 2,
+          "class_confidence": 0.9178661108016968,
+          "track_id": 11
+        },
+        {
+          "t": 56177107517,
+          "x": 407.0,
+          "y": 217.0,
+          "w": 30.0,
+          "h": 14.0,
+          "area": 420.0,
+          "class_id": 2,
+          "class_confidence": 0.7318688035011292,
+          "track_id": 16
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000047.png",
+      "frame_name": "000047.png",
+      "timestamp": 56177157514,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177157514,
+          "x": 323.0,
+          "y": 231.0,
+          "w": 61.0,
+          "h": 21.0,
+          "area": 1281.0,
+          "class_id": 2,
+          "class_confidence": 0.8920808434486389,
+          "track_id": 11
+        },
+        {
+          "t": 56177157514,
+          "x": 401.0,
+          "y": 215.0,
+          "w": 30.0,
+          "h": 13.0,
+          "area": 390.0,
+          "class_id": 2,
+          "class_confidence": 0.8797863721847534,
+          "track_id": 16
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000048.png",
+      "frame_name": "000048.png",
+      "timestamp": 56177207520,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177207520,
+          "x": 310.0,
+          "y": 228.0,
+          "w": 64.0,
+          "h": 23.0,
+          "area": 1472.0,
+          "class_id": 2,
+          "class_confidence": 0.976109504699707,
+          "track_id": 11
+        },
+        {
+          "t": 56177207520,
+          "x": 393.0,
+          "y": 213.0,
+          "w": 31.0,
+          "h": 14.0,
+          "area": 434.0,
+          "class_id": 2,
+          "class_confidence": 0.9161884784698486,
+          "track_id": 16
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000049.png",
+      "frame_name": "000049.png",
+      "timestamp": 56177257521,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177257521,
+          "x": 298.0,
+          "y": 228.0,
+          "w": 65.0,
+          "h": 22.0,
+          "area": 1430.0,
+          "class_id": 2,
+          "class_confidence": 0.9885196089744568,
+          "track_id": 11
+        },
+        {
+          "t": 56177257521,
+          "x": 385.0,
+          "y": 211.0,
+          "w": 32.0,
+          "h": 14.0,
+          "area": 448.0,
+          "class_id": 2,
+          "class_confidence": 0.9548642039299011,
+          "track_id": 16
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000050.png",
+      "frame_name": "000050.png",
+      "timestamp": 56177307538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177307538,
+          "x": 377.0,
+          "y": 211.0,
+          "w": 34.0,
+          "h": 13.0,
+          "area": 442.0,
+          "class_id": 2,
+          "class_confidence": 0.9967400431632996,
+          "track_id": 16
+        },
+        {
+          "t": 56177307538,
+          "x": 286.0,
+          "y": 227.0,
+          "w": 65.0,
+          "h": 22.0,
+          "area": 1430.0,
+          "class_id": 2,
+          "class_confidence": 0.9622753858566284,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000051.png",
+      "frame_name": "000051.png",
+      "timestamp": 56177357520,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177357520,
+          "x": 372.0,
+          "y": 210.0,
+          "w": 35.0,
+          "h": 13.0,
+          "area": 455.0,
+          "class_id": 2,
+          "class_confidence": 0.9980134963989258,
+          "track_id": 16
+        },
+        {
+          "t": 56177357520,
+          "x": 277.0,
+          "y": 226.0,
+          "w": 65.0,
+          "h": 22.0,
+          "area": 1430.0,
+          "class_id": 2,
+          "class_confidence": 0.9845172762870789,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000052.png",
+      "frame_name": "000052.png",
+      "timestamp": 56177407521,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177407521,
+          "x": 365.0,
+          "y": 210.0,
+          "w": 36.0,
+          "h": 11.0,
+          "area": 396.0,
+          "class_id": 2,
+          "class_confidence": 0.9992792010307312,
+          "track_id": 16
+        },
+        {
+          "t": 56177407521,
+          "x": 267.0,
+          "y": 224.0,
+          "w": 65.0,
+          "h": 23.0,
+          "area": 1495.0,
+          "class_id": 2,
+          "class_confidence": 0.9796608686447144,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000053.png",
+      "frame_name": "000053.png",
+      "timestamp": 56177457522,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177457522,
+          "x": 360.0,
+          "y": 209.0,
+          "w": 36.0,
+          "h": 11.0,
+          "area": 396.0,
+          "class_id": 2,
+          "class_confidence": 0.9989960789680481,
+          "track_id": 16
+        },
+        {
+          "t": 56177457522,
+          "x": 256.0,
+          "y": 224.0,
+          "w": 65.0,
+          "h": 22.0,
+          "area": 1430.0,
+          "class_id": 2,
+          "class_confidence": 0.9790260791778564,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000054.png",
+      "frame_name": "000054.png",
+      "timestamp": 56177507524,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177507524,
+          "x": 355.0,
+          "y": 207.0,
+          "w": 36.0,
+          "h": 11.0,
+          "area": 396.0,
+          "class_id": 2,
+          "class_confidence": 0.9990795850753784,
+          "track_id": 16
+        },
+        {
+          "t": 56177507524,
+          "x": 246.0,
+          "y": 223.0,
+          "w": 66.0,
+          "h": 22.0,
+          "area": 1452.0,
+          "class_id": 2,
+          "class_confidence": 0.9118934273719788,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000055.png",
+      "frame_name": "000055.png",
+      "timestamp": 56177557525,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177557525,
+          "x": 351.0,
+          "y": 206.0,
+          "w": 36.0,
+          "h": 11.0,
+          "area": 396.0,
+          "class_id": 2,
+          "class_confidence": 0.9988176226615906,
+          "track_id": 16
+        },
+        {
+          "t": 56177557525,
+          "x": 234.0,
+          "y": 222.0,
+          "w": 69.0,
+          "h": 23.0,
+          "area": 1587.0,
+          "class_id": 2,
+          "class_confidence": 0.9670460224151611,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000056.png",
+      "frame_name": "000056.png",
+      "timestamp": 56177607546,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177607546,
+          "x": 347.0,
+          "y": 205.0,
+          "w": 36.0,
+          "h": 11.0,
+          "area": 396.0,
+          "class_id": 2,
+          "class_confidence": 0.9994444251060486,
+          "track_id": 16
+        },
+        {
+          "t": 56177607546,
+          "x": 226.0,
+          "y": 220.0,
+          "w": 67.0,
+          "h": 23.0,
+          "area": 1541.0,
+          "class_id": 2,
+          "class_confidence": 0.9293941855430603,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000057.png",
+      "frame_name": "000057.png",
+      "timestamp": 56177657547,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177657547,
+          "x": 343.0,
+          "y": 205.0,
+          "w": 38.0,
+          "h": 11.0,
+          "area": 418.0,
+          "class_id": 2,
+          "class_confidence": 0.9989443421363831,
+          "track_id": 16
+        },
+        {
+          "t": 56177657547,
+          "x": 215.0,
+          "y": 220.0,
+          "w": 71.0,
+          "h": 23.0,
+          "area": 1633.0,
+          "class_id": 2,
+          "class_confidence": 0.9773268103599548,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000058.png",
+      "frame_name": "000058.png",
+      "timestamp": 56177707549,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177707549,
+          "x": 339.0,
+          "y": 203.0,
+          "w": 38.0,
+          "h": 13.0,
+          "area": 494.0,
+          "class_id": 2,
+          "class_confidence": 0.9993026256561279,
+          "track_id": 16
+        },
+        {
+          "t": 56177707549,
+          "x": 207.0,
+          "y": 220.0,
+          "w": 70.0,
+          "h": 26.0,
+          "area": 1820.0,
+          "class_id": 2,
+          "class_confidence": 0.9452329874038696,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000059.png",
+      "frame_name": "000059.png",
+      "timestamp": 56177757530,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177757530,
+          "x": 336.0,
+          "y": 202.0,
+          "w": 36.0,
+          "h": 14.0,
+          "area": 504.0,
+          "class_id": 2,
+          "class_confidence": 0.9990946054458618,
+          "track_id": 16
+        },
+        {
+          "t": 56177757530,
+          "x": 198.0,
+          "y": 220.0,
+          "w": 70.0,
+          "h": 25.0,
+          "area": 1750.0,
+          "class_id": 2,
+          "class_confidence": 0.9264371991157532,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000060.png",
+      "frame_name": "000060.png",
+      "timestamp": 56177807531,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177807531,
+          "x": 332.0,
+          "y": 202.0,
+          "w": 38.0,
+          "h": 13.0,
+          "area": 494.0,
+          "class_id": 2,
+          "class_confidence": 0.9991481304168701,
+          "track_id": 16
+        },
+        {
+          "t": 56177807531,
+          "x": 189.0,
+          "y": 220.0,
+          "w": 71.0,
+          "h": 25.0,
+          "area": 1775.0,
+          "class_id": 2,
+          "class_confidence": 0.9645114541053772,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000061.png",
+      "frame_name": "000061.png",
+      "timestamp": 56177857533,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177857533,
+          "x": 330.0,
+          "y": 199.0,
+          "w": 34.0,
+          "h": 14.0,
+          "area": 476.0,
+          "class_id": 2,
+          "class_confidence": 0.9914191961288452,
+          "track_id": 16
+        },
+        {
+          "t": 56177857533,
+          "x": 175.0,
+          "y": 219.0,
+          "w": 77.0,
+          "h": 25.0,
+          "area": 1925.0,
+          "class_id": 2,
+          "class_confidence": 0.8681023120880127,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000062.png",
+      "frame_name": "000062.png",
+      "timestamp": 56177907534,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177907534,
+          "x": 170.0,
+          "y": 219.0,
+          "w": 76.0,
+          "h": 24.0,
+          "area": 1824.0,
+          "class_id": 2,
+          "class_confidence": 0.9827697277069092,
+          "track_id": 11
+        },
+        {
+          "t": 56177907534,
+          "x": 328.0,
+          "y": 198.0,
+          "w": 30.0,
+          "h": 15.0,
+          "area": 450.0,
+          "class_id": 2,
+          "class_confidence": 0.9037528038024902,
+          "track_id": 16
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000063.png",
+      "frame_name": "000063.png",
+      "timestamp": 56177957551,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56177957551,
+          "x": 327.0,
+          "y": 199.0,
+          "w": 24.0,
+          "h": 13.0,
+          "area": 312.0,
+          "class_id": 2,
+          "class_confidence": 0.9692357182502747,
+          "track_id": 16
+        },
+        {
+          "t": 56177957551,
+          "x": 162.0,
+          "y": 218.0,
+          "w": 77.0,
+          "h": 26.0,
+          "area": 2002.0,
+          "class_id": 2,
+          "class_confidence": 0.9584434032440186,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000064.png",
+      "frame_name": "000064.png",
+      "timestamp": 56178007489,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178007489,
+          "x": 326.0,
+          "y": 199.0,
+          "w": 19.0,
+          "h": 11.0,
+          "area": 209.0,
+          "class_id": 2,
+          "class_confidence": 0.9874314069747925,
+          "track_id": 16
+        },
+        {
+          "t": 56178007489,
+          "x": 153.0,
+          "y": 217.0,
+          "w": 78.0,
+          "h": 27.0,
+          "area": 2106.0,
+          "class_id": 2,
+          "class_confidence": 0.9701325297355652,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000065.png",
+      "frame_name": "000065.png",
+      "timestamp": 56178057522,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178057522,
+          "x": 324.0,
+          "y": 198.0,
+          "w": 14.0,
+          "h": 13.0,
+          "area": 182.0,
+          "class_id": 2,
+          "class_confidence": 0.9864386320114136,
+          "track_id": 16
+        },
+        {
+          "t": 56178057522,
+          "x": 148.0,
+          "y": 215.0,
+          "w": 76.0,
+          "h": 27.0,
+          "area": 2052.0,
+          "class_id": 2,
+          "class_confidence": 0.9736906886100769,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000066.png",
+      "frame_name": "000066.png",
+      "timestamp": 56178107515,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178107515,
+          "x": 137.0,
+          "y": 214.0,
+          "w": 80.0,
+          "h": 27.0,
+          "area": 2160.0,
+          "class_id": 2,
+          "class_confidence": 0.9895278811454773,
+          "track_id": 11
+        },
+        {
+          "t": 56178107515,
+          "x": 323.0,
+          "y": 197.0,
+          "w": 10.0,
+          "h": 11.0,
+          "area": 110.0,
+          "class_id": 2,
+          "class_confidence": 0.778546154499054,
+          "track_id": 16
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000067.png",
+      "frame_name": "000067.png",
+      "timestamp": 56178157536,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178157536,
+          "x": 136.0,
+          "y": 213.0,
+          "w": 74.0,
+          "h": 26.0,
+          "area": 1924.0,
+          "class_id": 2,
+          "class_confidence": 0.9920576214790344,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000068.png",
+      "frame_name": "000068.png",
+      "timestamp": 56178207538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178207538,
+          "x": 130.0,
+          "y": 210.0,
+          "w": 77.0,
+          "h": 27.0,
+          "area": 2079.0,
+          "class_id": 2,
+          "class_confidence": 0.9970982074737549,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000069.png",
+      "frame_name": "000069.png",
+      "timestamp": 56178257539,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178257539,
+          "x": 122.0,
+          "y": 209.0,
+          "w": 78.0,
+          "h": 27.0,
+          "area": 2106.0,
+          "class_id": 2,
+          "class_confidence": 0.9987155199050903,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000070.png",
+      "frame_name": "000070.png",
+      "timestamp": 56178307540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178307540,
+          "x": 117.0,
+          "y": 207.0,
+          "w": 78.0,
+          "h": 28.0,
+          "area": 2184.0,
+          "class_id": 2,
+          "class_confidence": 0.9991125464439392,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000071.png",
+      "frame_name": "000071.png",
+      "timestamp": 56178357541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178357541,
+          "x": 114.0,
+          "y": 206.0,
+          "w": 77.0,
+          "h": 28.0,
+          "area": 2156.0,
+          "class_id": 2,
+          "class_confidence": 0.9960076808929443,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000072.png",
+      "frame_name": "000072.png",
+      "timestamp": 56178407523,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178407523,
+          "x": 110.0,
+          "y": 205.0,
+          "w": 75.0,
+          "h": 28.0,
+          "area": 2100.0,
+          "class_id": 2,
+          "class_confidence": 0.9973015785217285,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000073.png",
+      "frame_name": "000073.png",
+      "timestamp": 56178457540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178457540,
+          "x": 104.0,
+          "y": 203.0,
+          "w": 78.0,
+          "h": 28.0,
+          "area": 2184.0,
+          "class_id": 2,
+          "class_confidence": 0.9979368448257446,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000074.png",
+      "frame_name": "000074.png",
+      "timestamp": 56178507541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178507541,
+          "x": 96.0,
+          "y": 202.0,
+          "w": 83.0,
+          "h": 30.0,
+          "area": 2490.0,
+          "class_id": 2,
+          "class_confidence": 0.9978633522987366,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000075.png",
+      "frame_name": "000075.png",
+      "timestamp": 56178557542,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178557542,
+          "x": 96.0,
+          "y": 202.0,
+          "w": 78.0,
+          "h": 28.0,
+          "area": 2184.0,
+          "class_id": 2,
+          "class_confidence": 0.9983083009719849,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000076.png",
+      "frame_name": "000076.png",
+      "timestamp": 56178607548,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178607548,
+          "x": 87.0,
+          "y": 201.0,
+          "w": 85.0,
+          "h": 28.0,
+          "area": 2380.0,
+          "class_id": 2,
+          "class_confidence": 0.9990929365158081,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000077.png",
+      "frame_name": "000077.png",
+      "timestamp": 56178657549,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178657549,
+          "x": 85.0,
+          "y": 200.0,
+          "w": 86.0,
+          "h": 30.0,
+          "area": 2580.0,
+          "class_id": 2,
+          "class_confidence": 0.9990806579589844,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000078.png",
+      "frame_name": "000078.png",
+      "timestamp": 56178707550,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178707550,
+          "x": 83.0,
+          "y": 200.0,
+          "w": 85.0,
+          "h": 30.0,
+          "area": 2550.0,
+          "class_id": 2,
+          "class_confidence": 0.9990034699440002,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000079.png",
+      "frame_name": "000079.png",
+      "timestamp": 56178757547,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178757547,
+          "x": 82.0,
+          "y": 200.0,
+          "w": 85.0,
+          "h": 30.0,
+          "area": 2550.0,
+          "class_id": 2,
+          "class_confidence": 0.9995055198669434,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000080.png",
+      "frame_name": "000080.png",
+      "timestamp": 56178807549,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178807549,
+          "x": 79.0,
+          "y": 201.0,
+          "w": 87.0,
+          "h": 30.0,
+          "area": 2610.0,
+          "class_id": 2,
+          "class_confidence": 0.9997662901878357,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000081.png",
+      "frame_name": "000081.png",
+      "timestamp": 56178857550,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178857550,
+          "x": 75.0,
+          "y": 201.0,
+          "w": 91.0,
+          "h": 30.0,
+          "area": 2730.0,
+          "class_id": 2,
+          "class_confidence": 0.9997925162315369,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000082.png",
+      "frame_name": "000082.png",
+      "timestamp": 56178907547,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178907547,
+          "x": 74.0,
+          "y": 200.0,
+          "w": 91.0,
+          "h": 31.0,
+          "area": 2821.0,
+          "class_id": 2,
+          "class_confidence": 0.9998466968536377,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000083.png",
+      "frame_name": "000083.png",
+      "timestamp": 56178957552,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56178957552,
+          "x": 70.0,
+          "y": 200.0,
+          "w": 94.0,
+          "h": 31.0,
+          "area": 2914.0,
+          "class_id": 2,
+          "class_confidence": 0.9996755123138428,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000084.png",
+      "frame_name": "000084.png",
+      "timestamp": 56179007490,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179007490,
+          "x": 70.0,
+          "y": 200.0,
+          "w": 95.0,
+          "h": 31.0,
+          "area": 2945.0,
+          "class_id": 2,
+          "class_confidence": 0.999776303768158,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000085.png",
+      "frame_name": "000085.png",
+      "timestamp": 56179057519,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179057519,
+          "x": 66.0,
+          "y": 198.0,
+          "w": 99.0,
+          "h": 32.0,
+          "area": 3168.0,
+          "class_id": 2,
+          "class_confidence": 0.9997057318687439,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000086.png",
+      "frame_name": "000086.png",
+      "timestamp": 56179107536,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179107536,
+          "x": 59.0,
+          "y": 197.0,
+          "w": 107.0,
+          "h": 33.0,
+          "area": 3531.0,
+          "class_id": 2,
+          "class_confidence": 0.9995766282081604,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000087.png",
+      "frame_name": "000087.png",
+      "timestamp": 56179157533,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179157533,
+          "x": 65.0,
+          "y": 197.0,
+          "w": 100.0,
+          "h": 33.0,
+          "area": 3300.0,
+          "class_id": 2,
+          "class_confidence": 0.9996448755264282,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000088.png",
+      "frame_name": "000088.png",
+      "timestamp": 56179207535,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179207535,
+          "x": 62.0,
+          "y": 198.0,
+          "w": 104.0,
+          "h": 33.0,
+          "area": 3432.0,
+          "class_id": 2,
+          "class_confidence": 0.9994246959686279,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000089.png",
+      "frame_name": "000089.png",
+      "timestamp": 56179257540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179257540,
+          "x": 61.0,
+          "y": 198.0,
+          "w": 105.0,
+          "h": 33.0,
+          "area": 3465.0,
+          "class_id": 2,
+          "class_confidence": 0.9992526173591614,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000090.png",
+      "frame_name": "000090.png",
+      "timestamp": 56179307541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179307541,
+          "x": 59.0,
+          "y": 198.0,
+          "w": 109.0,
+          "h": 33.0,
+          "area": 3597.0,
+          "class_id": 2,
+          "class_confidence": 0.9995579123497009,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000091.png",
+      "frame_name": "000091.png",
+      "timestamp": 56179357538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179357538,
+          "x": 68.0,
+          "y": 198.0,
+          "w": 100.0,
+          "h": 33.0,
+          "area": 3300.0,
+          "class_id": 2,
+          "class_confidence": 0.9996405839920044,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000092.png",
+      "frame_name": "000092.png",
+      "timestamp": 56179407540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179407540,
+          "x": 62.0,
+          "y": 200.0,
+          "w": 107.0,
+          "h": 33.0,
+          "area": 3531.0,
+          "class_id": 2,
+          "class_confidence": 0.9998156428337097,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000093.png",
+      "frame_name": "000093.png",
+      "timestamp": 56179457541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179457541,
+          "x": 68.0,
+          "y": 200.0,
+          "w": 103.0,
+          "h": 35.0,
+          "area": 3605.0,
+          "class_id": 2,
+          "class_confidence": 0.9998660087585449,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000094.png",
+      "frame_name": "000094.png",
+      "timestamp": 56179507542,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179507542,
+          "x": 66.0,
+          "y": 200.0,
+          "w": 105.0,
+          "h": 33.0,
+          "area": 3465.0,
+          "class_id": 2,
+          "class_confidence": 0.9998661279678345,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000095.png",
+      "frame_name": "000095.png",
+      "timestamp": 56179557543,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179557543,
+          "x": 68.0,
+          "y": 198.0,
+          "w": 104.0,
+          "h": 35.0,
+          "area": 3640.0,
+          "class_id": 2,
+          "class_confidence": 0.9998859167098999,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000096.png",
+      "frame_name": "000096.png",
+      "timestamp": 56179607545,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179607545,
+          "x": 68.0,
+          "y": 197.0,
+          "w": 107.0,
+          "h": 35.0,
+          "area": 3745.0,
+          "class_id": 2,
+          "class_confidence": 0.9998728036880493,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000097.png",
+      "frame_name": "000097.png",
+      "timestamp": 56179657542,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179657542,
+          "x": 70.0,
+          "y": 197.0,
+          "w": 105.0,
+          "h": 36.0,
+          "area": 3780.0,
+          "class_id": 2,
+          "class_confidence": 0.9998742341995239,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000098.png",
+      "frame_name": "000098.png",
+      "timestamp": 56179707543,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179707543,
+          "x": 70.0,
+          "y": 197.0,
+          "w": 107.0,
+          "h": 36.0,
+          "area": 3852.0,
+          "class_id": 2,
+          "class_confidence": 0.9998766183853149,
+          "track_id": 11
+        },
+        {
+          "t": 56179707543,
+          "x": 327.0,
+          "y": 180.0,
+          "w": 14.0,
+          "h": 11.0,
+          "area": 154.0,
+          "class_id": 2,
+          "class_confidence": 0.9149256348609924,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000099.png",
+      "frame_name": "000099.png",
+      "timestamp": 56179757544,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179757544,
+          "x": 69.0,
+          "y": 197.0,
+          "w": 109.0,
+          "h": 36.0,
+          "area": 3924.0,
+          "class_id": 2,
+          "class_confidence": 0.999889612197876,
+          "track_id": 11
+        },
+        {
+          "t": 56179757544,
+          "x": 325.0,
+          "y": 178.0,
+          "w": 21.0,
+          "h": 13.0,
+          "area": 273.0,
+          "class_id": 2,
+          "class_confidence": 0.9860574007034302,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000100.png",
+      "frame_name": "000100.png",
+      "timestamp": 56179807546,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179807546,
+          "x": 68.0,
+          "y": 197.0,
+          "w": 110.0,
+          "h": 37.0,
+          "area": 4070.0,
+          "class_id": 2,
+          "class_confidence": 0.9998741149902344,
+          "track_id": 11
+        },
+        {
+          "t": 56179807546,
+          "x": 321.0,
+          "y": 178.0,
+          "w": 27.0,
+          "h": 14.0,
+          "area": 378.0,
+          "class_id": 2,
+          "class_confidence": 0.9978396892547607,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000101.png",
+      "frame_name": "000101.png",
+      "timestamp": 56179857547,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179857547,
+          "x": 66.0,
+          "y": 200.0,
+          "w": 112.0,
+          "h": 37.0,
+          "area": 4144.0,
+          "class_id": 2,
+          "class_confidence": 0.9999290704727173,
+          "track_id": 11
+        },
+        {
+          "t": 56179857547,
+          "x": 318.0,
+          "y": 180.0,
+          "w": 32.0,
+          "h": 13.0,
+          "area": 416.0,
+          "class_id": 2,
+          "class_confidence": 0.9988829493522644,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000102.png",
+      "frame_name": "000102.png",
+      "timestamp": 56179907552,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179907552,
+          "x": 65.0,
+          "y": 200.0,
+          "w": 113.0,
+          "h": 39.0,
+          "area": 4407.0,
+          "class_id": 2,
+          "class_confidence": 0.9997774958610535,
+          "track_id": 11
+        },
+        {
+          "t": 56179907552,
+          "x": 313.0,
+          "y": 181.0,
+          "w": 39.0,
+          "h": 14.0,
+          "area": 546.0,
+          "class_id": 2,
+          "class_confidence": 0.9996305704116821,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000103.png",
+      "frame_name": "000103.png",
+      "timestamp": 56179957541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56179957541,
+          "x": 307.0,
+          "y": 182.0,
+          "w": 43.0,
+          "h": 14.0,
+          "area": 602.0,
+          "class_id": 2,
+          "class_confidence": 0.9996880292892456,
+          "track_id": 21
+        },
+        {
+          "t": 56179957541,
+          "x": 255.0,
+          "y": 182.0,
+          "w": 47.0,
+          "h": 15.0,
+          "area": 705.0,
+          "class_id": 2,
+          "class_confidence": 0.9965127110481262,
+          "track_id": 22
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000104.png",
+      "frame_name": "000104.png",
+      "timestamp": 56180007487,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180007487,
+          "x": 302.0,
+          "y": 184.0,
+          "w": 44.0,
+          "h": 13.0,
+          "area": 572.0,
+          "class_id": 2,
+          "class_confidence": 0.999661922454834,
+          "track_id": 21
+        },
+        {
+          "t": 56180007487,
+          "x": 262.0,
+          "y": 184.0,
+          "w": 44.0,
+          "h": 15.0,
+          "area": 660.0,
+          "class_id": 2,
+          "class_confidence": 0.9987094402313232,
+          "track_id": 22
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000105.png",
+      "frame_name": "000105.png",
+      "timestamp": 56180057524,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180057524,
+          "x": 55.0,
+          "y": 202.0,
+          "w": 122.0,
+          "h": 40.0,
+          "area": 4880.0,
+          "class_id": 2,
+          "class_confidence": 0.9999072551727295,
+          "track_id": 11
+        },
+        {
+          "t": 56180057524,
+          "x": 267.0,
+          "y": 184.0,
+          "w": 49.0,
+          "h": 15.0,
+          "area": 735.0,
+          "class_id": 2,
+          "class_confidence": 0.9995007514953613,
+          "track_id": 22
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000106.png",
+      "frame_name": "000106.png",
+      "timestamp": 56180107513,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180107513,
+          "x": 55.0,
+          "y": 202.0,
+          "w": 122.0,
+          "h": 41.0,
+          "area": 5002.0,
+          "class_id": 2,
+          "class_confidence": 0.9998615980148315,
+          "track_id": 11
+        },
+        {
+          "t": 56180107513,
+          "x": 306.0,
+          "y": 182.0,
+          "w": 28.0,
+          "h": 15.0,
+          "area": 420.0,
+          "class_id": 2,
+          "class_confidence": 0.9954641461372375,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000107.png",
+      "frame_name": "000107.png",
+      "timestamp": 56180157538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180157538,
+          "x": 49.0,
+          "y": 201.0,
+          "w": 126.0,
+          "h": 43.0,
+          "area": 5418.0,
+          "class_id": 2,
+          "class_confidence": 0.9998304843902588,
+          "track_id": 11
+        },
+        {
+          "t": 56180157538,
+          "x": 283.0,
+          "y": 181.0,
+          "w": 48.0,
+          "h": 17.0,
+          "area": 816.0,
+          "class_id": 2,
+          "class_confidence": 0.9934309124946594,
+          "track_id": 22
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000108.png",
+      "frame_name": "000108.png",
+      "timestamp": 56180207536,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180207536,
+          "x": 47.0,
+          "y": 201.0,
+          "w": 128.0,
+          "h": 43.0,
+          "area": 5504.0,
+          "class_id": 2,
+          "class_confidence": 0.999875545501709,
+          "track_id": 11
+        },
+        {
+          "t": 56180207536,
+          "x": 284.0,
+          "y": 180.0,
+          "w": 52.0,
+          "h": 17.0,
+          "area": 884.0,
+          "class_id": 2,
+          "class_confidence": 0.9997087121009827,
+          "track_id": 22
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000109.png",
+      "frame_name": "000109.png",
+      "timestamp": 56180257517,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180257517,
+          "x": 36.0,
+          "y": 200.0,
+          "w": 137.0,
+          "h": 43.0,
+          "area": 5891.0,
+          "class_id": 2,
+          "class_confidence": 0.9998273253440857,
+          "track_id": 11
+        },
+        {
+          "t": 56180257517,
+          "x": 286.0,
+          "y": 180.0,
+          "w": 55.0,
+          "h": 15.0,
+          "area": 825.0,
+          "class_id": 2,
+          "class_confidence": 0.9986153841018677,
+          "track_id": 22
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000110.png",
+      "frame_name": "000110.png",
+      "timestamp": 56180307518,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180307518,
+          "x": 269.0,
+          "y": 180.0,
+          "w": 37.0,
+          "h": 14.0,
+          "area": 518.0,
+          "class_id": 2,
+          "class_confidence": 0.9992653727531433,
+          "track_id": 21
+        },
+        {
+          "t": 56180307518,
+          "x": 298.0,
+          "y": 178.0,
+          "w": 49.0,
+          "h": 15.0,
+          "area": 735.0,
+          "class_id": 2,
+          "class_confidence": 0.9984330534934998,
+          "track_id": 22
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000111.png",
+      "frame_name": "000111.png",
+      "timestamp": 56180357523,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180357523,
+          "x": 306.0,
+          "y": 180.0,
+          "w": 49.0,
+          "h": 15.0,
+          "area": 735.0,
+          "class_id": 2,
+          "class_confidence": 0.9993875026702881,
+          "track_id": 22
+        },
+        {
+          "t": 56180357523,
+          "x": 339.0,
+          "y": 176.0,
+          "w": 27.0,
+          "h": 14.0,
+          "area": 378.0,
+          "class_id": 2,
+          "class_confidence": 0.9754502773284912,
+          "track_id": 24
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000112.png",
+      "frame_name": "000112.png",
+      "timestamp": 56180407525,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180407525,
+          "x": 258.0,
+          "y": 178.0,
+          "w": 43.0,
+          "h": 15.0,
+          "area": 645.0,
+          "class_id": 2,
+          "class_confidence": 0.9996941089630127,
+          "track_id": 21
+        },
+        {
+          "t": 56180407525,
+          "x": 340.0,
+          "y": 174.0,
+          "w": 24.0,
+          "h": 15.0,
+          "area": 360.0,
+          "class_id": 2,
+          "class_confidence": 0.30108121037483215,
+          "track_id": 24
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000113.png",
+      "frame_name": "000113.png",
+      "timestamp": 56180457530,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180457530,
+          "x": 317.0,
+          "y": 177.0,
+          "w": 52.0,
+          "h": 19.0,
+          "area": 988.0,
+          "class_id": 2,
+          "class_confidence": 0.9996650218963623,
+          "track_id": 22
+        },
+        {
+          "t": 56180457530,
+          "x": 256.0,
+          "y": 180.0,
+          "w": 37.0,
+          "h": 15.0,
+          "area": 555.0,
+          "class_id": 2,
+          "class_confidence": 0.9990315437316895,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000114.png",
+      "frame_name": "000114.png",
+      "timestamp": 56180507523,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180507523,
+          "x": 318.0,
+          "y": 177.0,
+          "w": 52.0,
+          "h": 18.0,
+          "area": 936.0,
+          "class_id": 2,
+          "class_confidence": 0.9996547698974609,
+          "track_id": 22
+        },
+        {
+          "t": 56180507523,
+          "x": 255.0,
+          "y": 180.0,
+          "w": 33.0,
+          "h": 14.0,
+          "area": 462.0,
+          "class_id": 2,
+          "class_confidence": 0.9975706934928894,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000115.png",
+      "frame_name": "000115.png",
+      "timestamp": 56180557524,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180557524,
+          "x": 255.0,
+          "y": 181.0,
+          "w": 26.0,
+          "h": 13.0,
+          "area": 338.0,
+          "class_id": 2,
+          "class_confidence": 0.9955940842628479,
+          "track_id": 21
+        },
+        {
+          "t": 56180557524,
+          "x": 313.0,
+          "y": 177.0,
+          "w": 32.0,
+          "h": 14.0,
+          "area": 448.0,
+          "class_id": 2,
+          "class_confidence": 0.9735673666000366,
+          "track_id": 25
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000116.png",
+      "frame_name": "000116.png",
+      "timestamp": 56180607526,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180607526,
+          "x": 306.0,
+          "y": 176.0,
+          "w": 36.0,
+          "h": 15.0,
+          "area": 540.0,
+          "class_id": 2,
+          "class_confidence": 0.999039351940155,
+          "track_id": 25
+        },
+        {
+          "t": 56180607526,
+          "x": 255.0,
+          "y": 178.0,
+          "w": 19.0,
+          "h": 15.0,
+          "area": 285.0,
+          "class_id": 2,
+          "class_confidence": 0.9729328155517578,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000117.png",
+      "frame_name": "000117.png",
+      "timestamp": 56180657531,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180657531,
+          "x": 301.0,
+          "y": 176.0,
+          "w": 36.0,
+          "h": 14.0,
+          "area": 504.0,
+          "class_id": 2,
+          "class_confidence": 0.9996496438980103,
+          "track_id": 25
+        },
+        {
+          "t": 56180657531,
+          "x": 256.0,
+          "y": 178.0,
+          "w": 11.0,
+          "h": 14.0,
+          "area": 154.0,
+          "class_id": 2,
+          "class_confidence": 0.8095041513442993,
+          "track_id": 21
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000118.png",
+      "frame_name": "000118.png",
+      "timestamp": 56180707532,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180707532,
+          "x": 296.0,
+          "y": 176.0,
+          "w": 36.0,
+          "h": 13.0,
+          "area": 468.0,
+          "class_id": 2,
+          "class_confidence": 0.9995560050010681,
+          "track_id": 25
+        },
+        {
+          "t": 56180707532,
+          "x": 348.0,
+          "y": 176.0,
+          "w": 26.0,
+          "h": 17.0,
+          "area": 442.0,
+          "class_id": 2,
+          "class_confidence": 0.9973276853561401,
+          "track_id": 22
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000119.png",
+      "frame_name": "000119.png",
+      "timestamp": 56180757557,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180757557,
+          "x": 290.0,
+          "y": 174.0,
+          "w": 38.0,
+          "h": 14.0,
+          "area": 532.0,
+          "class_id": 2,
+          "class_confidence": 0.9997456669807434,
+          "track_id": 25
+        },
+        {
+          "t": 56180757557,
+          "x": 258.0,
+          "y": 171.0,
+          "w": 22.0,
+          "h": 9.0,
+          "area": 198.0,
+          "class_id": 2,
+          "class_confidence": 0.8527081608772278,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000120.png",
+      "frame_name": "000120.png",
+      "timestamp": 56180807551,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180807551,
+          "x": 285.0,
+          "y": 174.0,
+          "w": 38.0,
+          "h": 14.0,
+          "area": 532.0,
+          "class_id": 2,
+          "class_confidence": 0.9997215867042542,
+          "track_id": 25
+        },
+        {
+          "t": 56180807551,
+          "x": 361.0,
+          "y": 178.0,
+          "w": 14.0,
+          "h": 13.0,
+          "area": 182.0,
+          "class_id": 2,
+          "class_confidence": 0.8952757120132446,
+          "track_id": 22
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000121.png",
+      "frame_name": "000121.png",
+      "timestamp": 56180857532,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180857532,
+          "x": 280.0,
+          "y": 174.0,
+          "w": 37.0,
+          "h": 14.0,
+          "area": 518.0,
+          "class_id": 2,
+          "class_confidence": 0.99952232837677,
+          "track_id": 25
+        },
+        {
+          "t": 56180857532,
+          "x": 259.0,
+          "y": 171.0,
+          "w": 22.0,
+          "h": 10.0,
+          "area": 220.0,
+          "class_id": 2,
+          "class_confidence": 0.8348549008369446,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000122.png",
+      "frame_name": "000122.png",
+      "timestamp": 56180907541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180907541,
+          "x": 275.0,
+          "y": 176.0,
+          "w": 37.0,
+          "h": 14.0,
+          "area": 518.0,
+          "class_id": 2,
+          "class_confidence": 0.9996895790100098,
+          "track_id": 25
+        },
+        {
+          "t": 56180907541,
+          "x": 260.0,
+          "y": 171.0,
+          "w": 19.0,
+          "h": 7.0,
+          "area": 133.0,
+          "class_id": 2,
+          "class_confidence": 0.7912046313285828,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000123.png",
+      "frame_name": "000123.png",
+      "timestamp": 56180957534,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56180957534,
+          "x": 268.0,
+          "y": 176.0,
+          "w": 39.0,
+          "h": 15.0,
+          "area": 585.0,
+          "class_id": 2,
+          "class_confidence": 0.9996881484985352,
+          "track_id": 25
+        },
+        {
+          "t": 56180957534,
+          "x": 262.0,
+          "y": 172.0,
+          "w": 19.0,
+          "h": 6.0,
+          "area": 114.0,
+          "class_id": 2,
+          "class_confidence": 0.3580918610095978,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000124.png",
+      "frame_name": "000124.png",
+      "timestamp": 56181007488,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181007488,
+          "x": 263.0,
+          "y": 176.0,
+          "w": 39.0,
+          "h": 15.0,
+          "area": 585.0,
+          "class_id": 2,
+          "class_confidence": 0.9994280934333801,
+          "track_id": 25
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000125.png",
+      "frame_name": "000125.png",
+      "timestamp": 56181057517,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181057517,
+          "x": 260.0,
+          "y": 176.0,
+          "w": 36.0,
+          "h": 15.0,
+          "area": 540.0,
+          "class_id": 2,
+          "class_confidence": 0.9991809725761414,
+          "track_id": 25
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000126.png",
+      "frame_name": "000126.png",
+      "timestamp": 56181107530,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181107530,
+          "x": 259.0,
+          "y": 177.0,
+          "w": 32.0,
+          "h": 15.0,
+          "area": 480.0,
+          "class_id": 2,
+          "class_confidence": 0.9981310963630676,
+          "track_id": 25
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000127.png",
+      "frame_name": "000127.png",
+      "timestamp": 56181157523,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181157523,
+          "x": 260.0,
+          "y": 174.0,
+          "w": 26.0,
+          "h": 18.0,
+          "area": 468.0,
+          "class_id": 2,
+          "class_confidence": 0.9921443462371826,
+          "track_id": 25
+        },
+        {
+          "t": 56181157523,
+          "x": 424.0,
+          "y": 181.0,
+          "w": 35.0,
+          "h": 17.0,
+          "area": 595.0,
+          "class_id": 2,
+          "class_confidence": 0.949310839176178,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000128.png",
+      "frame_name": "000128.png",
+      "timestamp": 56181207525,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181207525,
+          "x": 260.0,
+          "y": 178.0,
+          "w": 19.0,
+          "h": 14.0,
+          "area": 266.0,
+          "class_id": 2,
+          "class_confidence": 0.9893821477890015,
+          "track_id": 25
+        },
+        {
+          "t": 56181207525,
+          "x": 425.0,
+          "y": 181.0,
+          "w": 36.0,
+          "h": 17.0,
+          "area": 612.0,
+          "class_id": 2,
+          "class_confidence": 0.9472905397415161,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000129.png",
+      "frame_name": "000129.png",
+      "timestamp": 56181257526,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181257526,
+          "x": 264.0,
+          "y": 173.0,
+          "w": 22.0,
+          "h": 9.0,
+          "area": 198.0,
+          "class_id": 2,
+          "class_confidence": 0.9131239056587219,
+          "track_id": 26
+        },
+        {
+          "t": 56181257526,
+          "x": 259.0,
+          "y": 178.0,
+          "w": 15.0,
+          "h": 15.0,
+          "area": 225.0,
+          "class_id": 2,
+          "class_confidence": 0.8591470718383789,
+          "track_id": 25
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000130.png",
+      "frame_name": "000130.png",
+      "timestamp": 56181307527,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181307527,
+          "x": 429.0,
+          "y": 182.0,
+          "w": 39.0,
+          "h": 17.0,
+          "area": 663.0,
+          "class_id": 2,
+          "class_confidence": 0.9360905885696411,
+          "track_id": 28
+        },
+        {
+          "t": 56181307527,
+          "x": 259.0,
+          "y": 178.0,
+          "w": 10.0,
+          "h": 15.0,
+          "area": 150.0,
+          "class_id": 2,
+          "class_confidence": 0.6517336964607239,
+          "track_id": 25
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000131.png",
+      "frame_name": "000131.png",
+      "timestamp": 56181357521,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181357521,
+          "x": 264.0,
+          "y": 176.0,
+          "w": 23.0,
+          "h": 7.0,
+          "area": 161.0,
+          "class_id": 2,
+          "class_confidence": 0.9377661347389221,
+          "track_id": 26
+        },
+        {
+          "t": 56181357521,
+          "x": 429.0,
+          "y": 182.0,
+          "w": 40.0,
+          "h": 19.0,
+          "area": 760.0,
+          "class_id": 2,
+          "class_confidence": 0.8754479885101318,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000132.png",
+      "frame_name": "000132.png",
+      "timestamp": 56181407526,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181407526,
+          "x": 435.0,
+          "y": 184.0,
+          "w": 40.0,
+          "h": 17.0,
+          "area": 680.0,
+          "class_id": 2,
+          "class_confidence": 0.9228522777557373,
+          "track_id": 28
+        },
+        {
+          "t": 56181407526,
+          "x": 264.0,
+          "y": 176.0,
+          "w": 23.0,
+          "h": 7.0,
+          "area": 161.0,
+          "class_id": 2,
+          "class_confidence": 0.7678845524787903,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000133.png",
+      "frame_name": "000133.png",
+      "timestamp": 56181457527,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181457527,
+          "x": 435.0,
+          "y": 184.0,
+          "w": 40.0,
+          "h": 19.0,
+          "area": 760.0,
+          "class_id": 2,
+          "class_confidence": 0.9439316987991333,
+          "track_id": 28
+        },
+        {
+          "t": 56181457527,
+          "x": 264.0,
+          "y": 176.0,
+          "w": 23.0,
+          "h": 7.0,
+          "area": 161.0,
+          "class_id": 2,
+          "class_confidence": 0.8876261115074158,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000134.png",
+      "frame_name": "000134.png",
+      "timestamp": 56181507529,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181507529,
+          "x": 435.0,
+          "y": 184.0,
+          "w": 44.0,
+          "h": 21.0,
+          "area": 924.0,
+          "class_id": 2,
+          "class_confidence": 0.8834722638130188,
+          "track_id": 28
+        },
+        {
+          "t": 56181507529,
+          "x": 266.0,
+          "y": 177.0,
+          "w": 22.0,
+          "h": 6.0,
+          "area": 132.0,
+          "class_id": 2,
+          "class_confidence": 0.7927495241165161,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000135.png",
+      "frame_name": "000135.png",
+      "timestamp": 56181557526,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181557526,
+          "x": 438.0,
+          "y": 184.0,
+          "w": 42.0,
+          "h": 21.0,
+          "area": 882.0,
+          "class_id": 2,
+          "class_confidence": 0.8726940155029297,
+          "track_id": 28
+        },
+        {
+          "t": 56181557526,
+          "x": 267.0,
+          "y": 177.0,
+          "w": 22.0,
+          "h": 7.0,
+          "area": 154.0,
+          "class_id": 2,
+          "class_confidence": 0.8648897409439087,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000136.png",
+      "frame_name": "000136.png",
+      "timestamp": 56181607527,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181607527,
+          "x": -13.0,
+          "y": 202.0,
+          "w": 78.0,
+          "h": 75.0,
+          "area": 5850.0,
+          "class_id": 2,
+          "class_confidence": 0.9993374943733215,
+          "track_id": 11
+        },
+        {
+          "t": 56181607527,
+          "x": 226.0,
+          "y": 178.0,
+          "w": 56.0,
+          "h": 23.0,
+          "area": 1288.0,
+          "class_id": 2,
+          "class_confidence": 0.43375882506370544,
+          "track_id": 30
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000137.png",
+      "frame_name": "000137.png",
+      "timestamp": 56181657548,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181657548,
+          "x": -14.0,
+          "y": 202.0,
+          "w": 71.0,
+          "h": 75.0,
+          "area": 5325.0,
+          "class_id": 2,
+          "class_confidence": 0.9989122152328491,
+          "track_id": 11
+        },
+        {
+          "t": 56181657548,
+          "x": 223.0,
+          "y": 173.0,
+          "w": 67.0,
+          "h": 30.0,
+          "area": 2010.0,
+          "class_id": 2,
+          "class_confidence": 0.9904975295066833,
+          "track_id": 30
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000138.png",
+      "frame_name": "000138.png",
+      "timestamp": 56181707550,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181707550,
+          "x": -14.0,
+          "y": 203.0,
+          "w": 60.0,
+          "h": 77.0,
+          "area": 4620.0,
+          "class_id": 2,
+          "class_confidence": 0.9989596605300903,
+          "track_id": 11
+        },
+        {
+          "t": 56181707550,
+          "x": 445.0,
+          "y": 186.0,
+          "w": 44.0,
+          "h": 19.0,
+          "area": 836.0,
+          "class_id": 2,
+          "class_confidence": 0.8577589392662048,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000139.png",
+      "frame_name": "000139.png",
+      "timestamp": 56181757547,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181757547,
+          "x": 238.0,
+          "y": 172.0,
+          "w": 65.0,
+          "h": 31.0,
+          "area": 2015.0,
+          "class_id": 2,
+          "class_confidence": 0.9889195561408997,
+          "track_id": 30
+        },
+        {
+          "t": 56181757547,
+          "x": 446.0,
+          "y": 186.0,
+          "w": 46.0,
+          "h": 21.0,
+          "area": 966.0,
+          "class_id": 2,
+          "class_confidence": 0.935678243637085,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000140.png",
+      "frame_name": "000140.png",
+      "timestamp": 56181807548,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181807548,
+          "x": 245.0,
+          "y": 173.0,
+          "w": 65.0,
+          "h": 31.0,
+          "area": 2015.0,
+          "class_id": 2,
+          "class_confidence": 0.9915587902069092,
+          "track_id": 30
+        },
+        {
+          "t": 56181807548,
+          "x": 449.0,
+          "y": 188.0,
+          "w": 47.0,
+          "h": 22.0,
+          "area": 1034.0,
+          "class_id": 2,
+          "class_confidence": 0.8357994556427002,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000141.png",
+      "frame_name": "000141.png",
+      "timestamp": 56181857550,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181857550,
+          "x": -14.0,
+          "y": 216.0,
+          "w": 27.0,
+          "h": 61.0,
+          "area": 1647.0,
+          "class_id": 2,
+          "class_confidence": 0.9939670562744141,
+          "track_id": 11
+        },
+        {
+          "t": 56181857550,
+          "x": 450.0,
+          "y": 190.0,
+          "w": 47.0,
+          "h": 22.0,
+          "area": 1034.0,
+          "class_id": 2,
+          "class_confidence": 0.9356557726860046,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000142.png",
+      "frame_name": "000142.png",
+      "timestamp": 56181907547,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181907547,
+          "x": 450.0,
+          "y": 192.0,
+          "w": 50.0,
+          "h": 24.0,
+          "area": 1200.0,
+          "class_id": 2,
+          "class_confidence": 0.9244261384010315,
+          "track_id": 28
+        },
+        {
+          "t": 56181907547,
+          "x": -14.0,
+          "y": 234.0,
+          "w": 13.0,
+          "h": 41.0,
+          "area": 533.0,
+          "class_id": 2,
+          "class_confidence": 0.8383901119232178,
+          "track_id": 11
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000143.png",
+      "frame_name": "000143.png",
+      "timestamp": 56181957544,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56181957544,
+          "x": 263.0,
+          "y": 178.0,
+          "w": 68.0,
+          "h": 34.0,
+          "area": 2312.0,
+          "class_id": 2,
+          "class_confidence": 0.9996113181114197,
+          "track_id": 30
+        },
+        {
+          "t": 56181957544,
+          "x": 453.0,
+          "y": 194.0,
+          "w": 54.0,
+          "h": 27.0,
+          "area": 1458.0,
+          "class_id": 2,
+          "class_confidence": 0.872252345085144,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000144.png",
+      "frame_name": "000144.png",
+      "timestamp": 56182007490,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182007490,
+          "x": 269.0,
+          "y": 178.0,
+          "w": 68.0,
+          "h": 35.0,
+          "area": 2380.0,
+          "class_id": 2,
+          "class_confidence": 0.9993866682052612,
+          "track_id": 30
+        },
+        {
+          "t": 56182007490,
+          "x": 454.0,
+          "y": 196.0,
+          "w": 58.0,
+          "h": 23.0,
+          "area": 1334.0,
+          "class_id": 2,
+          "class_confidence": 0.9535669684410095,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000145.png",
+      "frame_name": "000145.png",
+      "timestamp": 56182057523,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182057523,
+          "x": 275.0,
+          "y": 180.0,
+          "w": 69.0,
+          "h": 34.0,
+          "area": 2346.0,
+          "class_id": 2,
+          "class_confidence": 0.9988852143287659,
+          "track_id": 30
+        },
+        {
+          "t": 56182057523,
+          "x": 264.0,
+          "y": 188.0,
+          "w": 14.0,
+          "h": 13.0,
+          "area": 182.0,
+          "class_id": 2,
+          "class_confidence": 0.8875139355659485,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000146.png",
+      "frame_name": "000146.png",
+      "timestamp": 56182107540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182107540,
+          "x": 283.0,
+          "y": 178.0,
+          "w": 69.0,
+          "h": 35.0,
+          "area": 2415.0,
+          "class_id": 2,
+          "class_confidence": 0.9993606209754944,
+          "track_id": 30
+        },
+        {
+          "t": 56182107540,
+          "x": 458.0,
+          "y": 196.0,
+          "w": 62.0,
+          "h": 23.0,
+          "area": 1426.0,
+          "class_id": 2,
+          "class_confidence": 0.9395112991333008,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000147.png",
+      "frame_name": "000147.png",
+      "timestamp": 56182157537,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182157537,
+          "x": 264.0,
+          "y": 186.0,
+          "w": 27.0,
+          "h": 13.0,
+          "area": 351.0,
+          "class_id": 2,
+          "class_confidence": 0.9824173450469971,
+          "track_id": 26
+        },
+        {
+          "t": 56182157537,
+          "x": 462.0,
+          "y": 194.0,
+          "w": 62.0,
+          "h": 24.0,
+          "area": 1488.0,
+          "class_id": 2,
+          "class_confidence": 0.9491033554077148,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000148.png",
+      "frame_name": "000148.png",
+      "timestamp": 56182207539,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182207539,
+          "x": 296.0,
+          "y": 177.0,
+          "w": 70.0,
+          "h": 35.0,
+          "area": 2450.0,
+          "class_id": 2,
+          "class_confidence": 0.9997109770774841,
+          "track_id": 30
+        },
+        {
+          "t": 56182207539,
+          "x": 263.0,
+          "y": 185.0,
+          "w": 32.0,
+          "h": 13.0,
+          "area": 416.0,
+          "class_id": 2,
+          "class_confidence": 0.9409948587417603,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000149.png",
+      "frame_name": "000149.png",
+      "timestamp": 56182257536,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182257536,
+          "x": 302.0,
+          "y": 176.0,
+          "w": 70.0,
+          "h": 35.0,
+          "area": 2450.0,
+          "class_id": 2,
+          "class_confidence": 0.9998335838317871,
+          "track_id": 30
+        },
+        {
+          "t": 56182257536,
+          "x": 262.0,
+          "y": 184.0,
+          "w": 32.0,
+          "h": 13.0,
+          "area": 416.0,
+          "class_id": 2,
+          "class_confidence": 0.8693677186965942,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000150.png",
+      "frame_name": "000150.png",
+      "timestamp": 56182307537,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182307537,
+          "x": 309.0,
+          "y": 174.0,
+          "w": 72.0,
+          "h": 35.0,
+          "area": 2520.0,
+          "class_id": 2,
+          "class_confidence": 0.9996683597564697,
+          "track_id": 30
+        },
+        {
+          "t": 56182307537,
+          "x": 467.0,
+          "y": 190.0,
+          "w": 58.0,
+          "h": 23.0,
+          "area": 1334.0,
+          "class_id": 2,
+          "class_confidence": 0.9627004861831665,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000151.png",
+      "frame_name": "000151.png",
+      "timestamp": 56182357542,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182357542,
+          "x": 317.0,
+          "y": 174.0,
+          "w": 72.0,
+          "h": 36.0,
+          "area": 2592.0,
+          "class_id": 2,
+          "class_confidence": 0.9996352195739746,
+          "track_id": 30
+        },
+        {
+          "t": 56182357542,
+          "x": 470.0,
+          "y": 190.0,
+          "w": 65.0,
+          "h": 26.0,
+          "area": 1690.0,
+          "class_id": 2,
+          "class_confidence": 0.9257962107658386,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000152.png",
+      "frame_name": "000152.png",
+      "timestamp": 56182407544,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182407544,
+          "x": 323.0,
+          "y": 176.0,
+          "w": 76.0,
+          "h": 35.0,
+          "area": 2660.0,
+          "class_id": 2,
+          "class_confidence": 0.9995347261428833,
+          "track_id": 30
+        },
+        {
+          "t": 56182407544,
+          "x": 301.0,
+          "y": 182.0,
+          "w": 24.0,
+          "h": 14.0,
+          "area": 336.0,
+          "class_id": 2,
+          "class_confidence": 0.968254029750824,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000153.png",
+      "frame_name": "000153.png",
+      "timestamp": 56182457545,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182457545,
+          "x": 331.0,
+          "y": 176.0,
+          "w": 74.0,
+          "h": 38.0,
+          "area": 2812.0,
+          "class_id": 2,
+          "class_confidence": 0.9995224475860596,
+          "track_id": 30
+        },
+        {
+          "t": 56182457545,
+          "x": 300.0,
+          "y": 181.0,
+          "w": 34.0,
+          "h": 17.0,
+          "area": 578.0,
+          "class_id": 2,
+          "class_confidence": 0.9725688695907593,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000154.png",
+      "frame_name": "000154.png",
+      "timestamp": 56182507538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182507538,
+          "x": 480.0,
+          "y": 193.0,
+          "w": 70.0,
+          "h": 26.0,
+          "area": 1820.0,
+          "class_id": 2,
+          "class_confidence": 0.9638890624046326,
+          "track_id": 28
+        },
+        {
+          "t": 56182507538,
+          "x": 300.0,
+          "y": 180.0,
+          "w": 40.0,
+          "h": 19.0,
+          "area": 760.0,
+          "class_id": 2,
+          "class_confidence": 0.9634856581687927,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000155.png",
+      "frame_name": "000155.png",
+      "timestamp": 56182557539,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182557539,
+          "x": 301.0,
+          "y": 184.0,
+          "w": 44.0,
+          "h": 18.0,
+          "area": 792.0,
+          "class_id": 2,
+          "class_confidence": 0.949815034866333,
+          "track_id": 33
+        },
+        {
+          "t": 56182557539,
+          "x": 266.0,
+          "y": 188.0,
+          "w": 27.0,
+          "h": 7.0,
+          "area": 189.0,
+          "class_id": 2,
+          "class_confidence": 0.7690209746360779,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000156.png",
+      "frame_name": "000156.png",
+      "timestamp": 56182607545,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182607545,
+          "x": 483.0,
+          "y": 197.0,
+          "w": 73.0,
+          "h": 31.0,
+          "area": 2263.0,
+          "class_id": 2,
+          "class_confidence": 0.9927334785461426,
+          "track_id": 28
+        },
+        {
+          "t": 56182607545,
+          "x": 300.0,
+          "y": 184.0,
+          "w": 45.0,
+          "h": 19.0,
+          "area": 855.0,
+          "class_id": 2,
+          "class_confidence": 0.9477299451828003,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000157.png",
+      "frame_name": "000157.png",
+      "timestamp": 56182657546,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182657546,
+          "x": 361.0,
+          "y": 182.0,
+          "w": 64.0,
+          "h": 38.0,
+          "area": 2432.0,
+          "class_id": 2,
+          "class_confidence": 0.9976906776428223,
+          "track_id": 30
+        },
+        {
+          "t": 56182657546,
+          "x": 485.0,
+          "y": 198.0,
+          "w": 78.0,
+          "h": 32.0,
+          "area": 2496.0,
+          "class_id": 2,
+          "class_confidence": 0.9893863201141357,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000158.png",
+      "frame_name": "000158.png",
+      "timestamp": 56182707547,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182707547,
+          "x": 369.0,
+          "y": 184.0,
+          "w": 58.0,
+          "h": 36.0,
+          "area": 2088.0,
+          "class_id": 2,
+          "class_confidence": 0.9962206482887268,
+          "track_id": 30
+        },
+        {
+          "t": 56182707547,
+          "x": 301.0,
+          "y": 186.0,
+          "w": 47.0,
+          "h": 19.0,
+          "area": 893.0,
+          "class_id": 2,
+          "class_confidence": 0.9925888776779175,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000159.png",
+      "frame_name": "000159.png",
+      "timestamp": 56182757548,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182757548,
+          "x": 378.0,
+          "y": 184.0,
+          "w": 52.0,
+          "h": 38.0,
+          "area": 1976.0,
+          "class_id": 2,
+          "class_confidence": 0.9785706400871277,
+          "track_id": 30
+        },
+        {
+          "t": 56182757548,
+          "x": 260.0,
+          "y": 194.0,
+          "w": 32.0,
+          "h": 11.0,
+          "area": 352.0,
+          "class_id": 2,
+          "class_confidence": 0.7501875162124634,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000160.png",
+      "frame_name": "000160.png",
+      "timestamp": 56182807542,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182807542,
+          "x": 386.0,
+          "y": 185.0,
+          "w": 43.0,
+          "h": 36.0,
+          "area": 1548.0,
+          "class_id": 2,
+          "class_confidence": 0.9917058944702148,
+          "track_id": 30
+        },
+        {
+          "t": 56182807542,
+          "x": 301.0,
+          "y": 188.0,
+          "w": 47.0,
+          "h": 18.0,
+          "area": 846.0,
+          "class_id": 2,
+          "class_confidence": 0.9780555963516235,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000161.png",
+      "frame_name": "000161.png",
+      "timestamp": 56182857547,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182857547,
+          "x": 497.0,
+          "y": 201.0,
+          "w": 97.0,
+          "h": 40.0,
+          "area": 3880.0,
+          "class_id": 2,
+          "class_confidence": 0.9976547956466675,
+          "track_id": 28
+        },
+        {
+          "t": 56182857547,
+          "x": 393.0,
+          "y": 185.0,
+          "w": 39.0,
+          "h": 38.0,
+          "area": 1482.0,
+          "class_id": 2,
+          "class_confidence": 0.9813170433044434,
+          "track_id": 30
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000162.png",
+      "frame_name": "000162.png",
+      "timestamp": 56182907540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182907540,
+          "x": 499.0,
+          "y": 199.0,
+          "w": 101.0,
+          "h": 43.0,
+          "area": 4343.0,
+          "class_id": 2,
+          "class_confidence": 0.9950518012046814,
+          "track_id": 28
+        },
+        {
+          "t": 56182907540,
+          "x": 252.0,
+          "y": 193.0,
+          "w": 41.0,
+          "h": 14.0,
+          "area": 574.0,
+          "class_id": 2,
+          "class_confidence": 0.9792440533638,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000163.png",
+      "frame_name": "000163.png",
+      "timestamp": 56182957545,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56182957545,
+          "x": 498.0,
+          "y": 199.0,
+          "w": 100.0,
+          "h": 41.0,
+          "area": 4100.0,
+          "class_id": 2,
+          "class_confidence": 0.9965554475784302,
+          "track_id": 28
+        },
+        {
+          "t": 56182957545,
+          "x": 252.0,
+          "y": 193.0,
+          "w": 40.0,
+          "h": 14.0,
+          "area": 560.0,
+          "class_id": 2,
+          "class_confidence": 0.9816214442253113,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000164.png",
+      "frame_name": "000164.png",
+      "timestamp": 56183007487,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183007487,
+          "x": 373.0,
+          "y": 188.0,
+          "w": 40.0,
+          "h": 17.0,
+          "area": 680.0,
+          "class_id": 2,
+          "class_confidence": 0.9844217300415039,
+          "track_id": 34
+        },
+        {
+          "t": 56183007487,
+          "x": 419.0,
+          "y": 181.0,
+          "w": 15.0,
+          "h": 39.0,
+          "area": 585.0,
+          "class_id": 2,
+          "class_confidence": 0.7402424812316895,
+          "track_id": 30
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000165.png",
+      "frame_name": "000165.png",
+      "timestamp": 56183057528,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183057528,
+          "x": 506.0,
+          "y": 200.0,
+          "w": 99.0,
+          "h": 39.0,
+          "area": 3861.0,
+          "class_id": 2,
+          "class_confidence": 0.9980473518371582,
+          "track_id": 28
+        },
+        {
+          "t": 56183057528,
+          "x": 252.0,
+          "y": 192.0,
+          "w": 41.0,
+          "h": 14.0,
+          "area": 574.0,
+          "class_id": 2,
+          "class_confidence": 0.888725757598877,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000166.png",
+      "frame_name": "000166.png",
+      "timestamp": 56183107513,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183107513,
+          "x": 373.0,
+          "y": 188.0,
+          "w": 41.0,
+          "h": 17.0,
+          "area": 697.0,
+          "class_id": 2,
+          "class_confidence": 0.9859623312950134,
+          "track_id": 34
+        },
+        {
+          "t": 56183107513,
+          "x": 424.0,
+          "y": 189.0,
+          "w": 11.0,
+          "h": 10.0,
+          "area": 110.0,
+          "class_id": 2,
+          "class_confidence": 0.7984610795974731,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000167.png",
+      "frame_name": "000167.png",
+      "timestamp": 56183157534,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183157534,
+          "x": 251.0,
+          "y": 192.0,
+          "w": 43.0,
+          "h": 15.0,
+          "area": 645.0,
+          "class_id": 2,
+          "class_confidence": 0.8951692581176758,
+          "track_id": 26
+        },
+        {
+          "t": 56183157534,
+          "x": 425.0,
+          "y": 189.0,
+          "w": 13.0,
+          "h": 10.0,
+          "area": 130.0,
+          "class_id": 2,
+          "class_confidence": 0.8528805375099182,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000168.png",
+      "frame_name": "000168.png",
+      "timestamp": 56183207536,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183207536,
+          "x": 276.0,
+          "y": 184.0,
+          "w": 6.0,
+          "h": 9.0,
+          "area": 54.0,
+          "class_id": 0,
+          "class_confidence": 0.7773474454879761,
+          "track_id": 36
+        },
+        {
+          "t": 56183207536,
+          "x": 517.0,
+          "y": 200.0,
+          "w": 108.0,
+          "h": 46.0,
+          "area": 4968.0,
+          "class_id": 2,
+          "class_confidence": 0.9990133047103882,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000169.png",
+      "frame_name": "000169.png",
+      "timestamp": 56183257537,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183257537,
+          "x": 519.0,
+          "y": 200.0,
+          "w": 115.0,
+          "h": 52.0,
+          "area": 5980.0,
+          "class_id": 2,
+          "class_confidence": 0.9970272183418274,
+          "track_id": 28
+        },
+        {
+          "t": 56183257537,
+          "x": 373.0,
+          "y": 188.0,
+          "w": 43.0,
+          "h": 18.0,
+          "area": 774.0,
+          "class_id": 2,
+          "class_confidence": 0.9958569407463074,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000170.png",
+      "frame_name": "000170.png",
+      "timestamp": 56183307538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183307538,
+          "x": 276.0,
+          "y": 184.0,
+          "w": 6.0,
+          "h": 10.0,
+          "area": 60.0,
+          "class_id": 0,
+          "class_confidence": 0.8756393194198608,
+          "track_id": 36
+        },
+        {
+          "t": 56183307538,
+          "x": 300.0,
+          "y": 186.0,
+          "w": 51.0,
+          "h": 19.0,
+          "area": 969.0,
+          "class_id": 2,
+          "class_confidence": 0.9954491257667542,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000171.png",
+      "frame_name": "000171.png",
+      "timestamp": 56183357539,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183357539,
+          "x": 277.0,
+          "y": 184.0,
+          "w": 6.0,
+          "h": 10.0,
+          "area": 60.0,
+          "class_id": 0,
+          "class_confidence": 0.827471137046814,
+          "track_id": 36
+        },
+        {
+          "t": 56183357539,
+          "x": 300.0,
+          "y": 186.0,
+          "w": 51.0,
+          "h": 19.0,
+          "area": 969.0,
+          "class_id": 2,
+          "class_confidence": 0.9945494532585144,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000172.png",
+      "frame_name": "000172.png",
+      "timestamp": 56183407537,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183407537,
+          "x": 249.0,
+          "y": 193.0,
+          "w": 43.0,
+          "h": 15.0,
+          "area": 645.0,
+          "class_id": 2,
+          "class_confidence": 0.9869052767753601,
+          "track_id": 26
+        },
+        {
+          "t": 56183407537,
+          "x": 428.0,
+          "y": 192.0,
+          "w": 18.0,
+          "h": 14.0,
+          "area": 252.0,
+          "class_id": 2,
+          "class_confidence": 0.9553647637367249,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000173.png",
+      "frame_name": "000173.png",
+      "timestamp": 56183457542,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183457542,
+          "x": 236.0,
+          "y": 203.0,
+          "w": 24.0,
+          "h": 22.0,
+          "area": 528.0,
+          "class_id": 2,
+          "class_confidence": 0.9667955040931702,
+          "track_id": 37
+        },
+        {
+          "t": 56183457542,
+          "x": 429.0,
+          "y": 192.0,
+          "w": 18.0,
+          "h": 9.0,
+          "area": 162.0,
+          "class_id": 2,
+          "class_confidence": 0.945059597492218,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000174.png",
+      "frame_name": "000174.png",
+      "timestamp": 56183507543,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183507543,
+          "x": 277.0,
+          "y": 184.0,
+          "w": 6.0,
+          "h": 11.0,
+          "area": 66.0,
+          "class_id": 0,
+          "class_confidence": 0.35801970958709717,
+          "track_id": 36
+        },
+        {
+          "t": 56183507543,
+          "x": 233.0,
+          "y": 198.0,
+          "w": 33.0,
+          "h": 27.0,
+          "area": 891.0,
+          "class_id": 2,
+          "class_confidence": 0.9785324335098267,
+          "track_id": 37
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000175.png",
+      "frame_name": "000175.png",
+      "timestamp": 56183557544,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183557544,
+          "x": 296.0,
+          "y": 186.0,
+          "w": 55.0,
+          "h": 21.0,
+          "area": 1155.0,
+          "class_id": 2,
+          "class_confidence": 0.9837300181388855,
+          "track_id": 33
+        },
+        {
+          "t": 56183557544,
+          "x": 429.0,
+          "y": 192.0,
+          "w": 19.0,
+          "h": 11.0,
+          "area": 209.0,
+          "class_id": 2,
+          "class_confidence": 0.9245821237564087,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000176.png",
+      "frame_name": "000176.png",
+      "timestamp": 56183607546,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183607546,
+          "x": 228.0,
+          "y": 196.0,
+          "w": 53.0,
+          "h": 30.0,
+          "area": 1590.0,
+          "class_id": 2,
+          "class_confidence": 0.9996834993362427,
+          "track_id": 37
+        },
+        {
+          "t": 56183607546,
+          "x": 297.0,
+          "y": 186.0,
+          "w": 52.0,
+          "h": 21.0,
+          "area": 1092.0,
+          "class_id": 2,
+          "class_confidence": 0.9855408072471619,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000177.png",
+      "frame_name": "000177.png",
+      "timestamp": 56183657543,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183657543,
+          "x": 273.0,
+          "y": 185.0,
+          "w": 7.0,
+          "h": 11.0,
+          "area": 77.0,
+          "class_id": 0,
+          "class_confidence": 0.6686180830001831,
+          "track_id": 36
+        },
+        {
+          "t": 56183657543,
+          "x": 548.0,
+          "y": 202.0,
+          "w": 124.0,
+          "h": 50.0,
+          "area": 6200.0,
+          "class_id": 2,
+          "class_confidence": 0.9995239973068237,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000178.png",
+      "frame_name": "000178.png",
+      "timestamp": 56183707540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183707540,
+          "x": 273.0,
+          "y": 185.0,
+          "w": 7.0,
+          "h": 11.0,
+          "area": 77.0,
+          "class_id": 0,
+          "class_confidence": 0.6865798234939575,
+          "track_id": 36
+        },
+        {
+          "t": 56183707540,
+          "x": 427.0,
+          "y": 192.0,
+          "w": 23.0,
+          "h": 9.0,
+          "area": 207.0,
+          "class_id": 2,
+          "class_confidence": 0.9714053869247437,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000179.png",
+      "frame_name": "000179.png",
+      "timestamp": 56183757541,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183757541,
+          "x": 272.0,
+          "y": 185.0,
+          "w": 6.0,
+          "h": 13.0,
+          "area": 78.0,
+          "class_id": 0,
+          "class_confidence": 0.46198534965515137,
+          "track_id": 36
+        },
+        {
+          "t": 56183757541,
+          "x": 289.0,
+          "y": 188.0,
+          "w": 55.0,
+          "h": 23.0,
+          "area": 1265.0,
+          "class_id": 2,
+          "class_confidence": 0.9704726338386536,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000180.png",
+      "frame_name": "000180.png",
+      "timestamp": 56183807543,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183807543,
+          "x": 427.0,
+          "y": 194.0,
+          "w": 23.0,
+          "h": 9.0,
+          "area": 207.0,
+          "class_id": 2,
+          "class_confidence": 0.987023115158081,
+          "track_id": 35
+        },
+        {
+          "t": 56183807543,
+          "x": 289.0,
+          "y": 188.0,
+          "w": 53.0,
+          "h": 22.0,
+          "area": 1166.0,
+          "class_id": 2,
+          "class_confidence": 0.9671525359153748,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000181.png",
+      "frame_name": "000181.png",
+      "timestamp": 56183857544,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183857544,
+          "x": 229.0,
+          "y": 198.0,
+          "w": 86.0,
+          "h": 31.0,
+          "area": 2666.0,
+          "class_id": 2,
+          "class_confidence": 0.9999011754989624,
+          "track_id": 37
+        },
+        {
+          "t": 56183857544,
+          "x": 424.0,
+          "y": 194.0,
+          "w": 24.0,
+          "h": 10.0,
+          "area": 240.0,
+          "class_id": 2,
+          "class_confidence": 0.9667671918869019,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000182.png",
+      "frame_name": "000182.png",
+      "timestamp": 56183907545,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183907545,
+          "x": 236.0,
+          "y": 199.0,
+          "w": 88.0,
+          "h": 31.0,
+          "area": 2728.0,
+          "class_id": 2,
+          "class_confidence": 0.999896764755249,
+          "track_id": 37
+        },
+        {
+          "t": 56183907545,
+          "x": 422.0,
+          "y": 195.0,
+          "w": 26.0,
+          "h": 9.0,
+          "area": 234.0,
+          "class_id": 2,
+          "class_confidence": 0.9757776260375977,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000183.png",
+      "frame_name": "000183.png",
+      "timestamp": 56183957542,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56183957542,
+          "x": 263.0,
+          "y": 188.0,
+          "w": 9.0,
+          "h": 11.0,
+          "area": 99.0,
+          "class_id": 0,
+          "class_confidence": 0.9225462675094604,
+          "track_id": 36
+        },
+        {
+          "t": 56183957542,
+          "x": 226.0,
+          "y": 197.0,
+          "w": 40.0,
+          "h": 17.0,
+          "area": 680.0,
+          "class_id": 2,
+          "class_confidence": 0.8023034930229187,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000184.png",
+      "frame_name": "000184.png",
+      "timestamp": 56184007488,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184007488,
+          "x": 419.0,
+          "y": 195.0,
+          "w": 28.0,
+          "h": 9.0,
+          "area": 252.0,
+          "class_id": 2,
+          "class_confidence": 0.9856728315353394,
+          "track_id": 35
+        },
+        {
+          "t": 56184007488,
+          "x": 610.0,
+          "y": 188.0,
+          "w": 67.0,
+          "h": 14.0,
+          "area": 938.0,
+          "class_id": 4,
+          "class_confidence": 0.7095327973365784,
+          "track_id": 38
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000185.png",
+      "frame_name": "000185.png",
+      "timestamp": 56184057521,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184057521,
+          "x": 258.0,
+          "y": 188.0,
+          "w": 9.0,
+          "h": 14.0,
+          "area": 126.0,
+          "class_id": 0,
+          "class_confidence": 0.6340806484222412,
+          "track_id": 36
+        },
+        {
+          "t": 56184057521,
+          "x": 219.0,
+          "y": 197.0,
+          "w": 48.0,
+          "h": 18.0,
+          "area": 864.0,
+          "class_id": 2,
+          "class_confidence": 0.9928723573684692,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000186.png",
+      "frame_name": "000186.png",
+      "timestamp": 56184107538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184107538,
+          "x": 356.0,
+          "y": 193.0,
+          "w": 47.0,
+          "h": 13.0,
+          "area": 611.0,
+          "class_id": 2,
+          "class_confidence": 0.9657691717147827,
+          "track_id": 34
+        },
+        {
+          "t": 56184107538,
+          "x": 630.0,
+          "y": 186.0,
+          "w": 47.0,
+          "h": 14.0,
+          "area": 658.0,
+          "class_id": 4,
+          "class_confidence": 0.3145154118537903,
+          "track_id": 38
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000187.png",
+      "frame_name": "000187.png",
+      "timestamp": 56184157535,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184157535,
+          "x": 254.0,
+          "y": 188.0,
+          "w": 9.0,
+          "h": 14.0,
+          "area": 126.0,
+          "class_id": 0,
+          "class_confidence": 0.8650016784667969,
+          "track_id": 36
+        },
+        {
+          "t": 56184157535,
+          "x": 271.0,
+          "y": 189.0,
+          "w": 55.0,
+          "h": 18.0,
+          "area": 990.0,
+          "class_id": 2,
+          "class_confidence": 0.9232971668243408,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000188.png",
+      "frame_name": "000188.png",
+      "timestamp": 56184207537,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184207537,
+          "x": 208.0,
+          "y": 198.0,
+          "w": 53.0,
+          "h": 17.0,
+          "area": 901.0,
+          "class_id": 2,
+          "class_confidence": 0.9957424998283386,
+          "track_id": 26
+        },
+        {
+          "t": 56184207537,
+          "x": 356.0,
+          "y": 193.0,
+          "w": 43.0,
+          "h": 11.0,
+          "area": 473.0,
+          "class_id": 2,
+          "class_confidence": 0.9514216780662537,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000189.png",
+      "frame_name": "000189.png",
+      "timestamp": 56184257534,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184257534,
+          "x": 249.0,
+          "y": 188.0,
+          "w": 9.0,
+          "h": 15.0,
+          "area": 135.0,
+          "class_id": 0,
+          "class_confidence": 0.7604981660842896,
+          "track_id": 36
+        },
+        {
+          "t": 56184257534,
+          "x": 411.0,
+          "y": 195.0,
+          "w": 32.0,
+          "h": 9.0,
+          "area": 288.0,
+          "class_id": 2,
+          "class_confidence": 0.9808745384216309,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000190.png",
+      "frame_name": "000190.png",
+      "timestamp": 56184307535,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184307535,
+          "x": 199.0,
+          "y": 198.0,
+          "w": 54.0,
+          "h": 17.0,
+          "area": 918.0,
+          "class_id": 2,
+          "class_confidence": 0.9839000701904297,
+          "track_id": 26
+        },
+        {
+          "t": 56184307535,
+          "x": 260.0,
+          "y": 190.0,
+          "w": 56.0,
+          "h": 19.0,
+          "area": 1064.0,
+          "class_id": 2,
+          "class_confidence": 0.886670708656311,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000191.png",
+      "frame_name": "000191.png",
+      "timestamp": 56184357536,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184357536,
+          "x": 245.0,
+          "y": 186.0,
+          "w": 9.0,
+          "h": 18.0,
+          "area": 162.0,
+          "class_id": 0,
+          "class_confidence": 0.7689539194107056,
+          "track_id": 36
+        },
+        {
+          "t": 56184357536,
+          "x": 297.0,
+          "y": 201.0,
+          "w": 99.0,
+          "h": 36.0,
+          "area": 3564.0,
+          "class_id": 2,
+          "class_confidence": 0.9999169111251831,
+          "track_id": 37
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000192.png",
+      "frame_name": "000192.png",
+      "timestamp": 56184407538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184407538,
+          "x": 349.0,
+          "y": 194.0,
+          "w": 41.0,
+          "h": 15.0,
+          "area": 615.0,
+          "class_id": 2,
+          "class_confidence": 0.9691033363342285,
+          "track_id": 34
+        },
+        {
+          "t": 56184407538,
+          "x": 194.0,
+          "y": 198.0,
+          "w": 51.0,
+          "h": 17.0,
+          "area": 867.0,
+          "class_id": 2,
+          "class_confidence": 0.9441748261451721,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000193.png",
+      "frame_name": "000193.png",
+      "timestamp": 56184457539,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184457539,
+          "x": 239.0,
+          "y": 188.0,
+          "w": 9.0,
+          "h": 17.0,
+          "area": 153.0,
+          "class_id": 0,
+          "class_confidence": 0.7303314805030823,
+          "track_id": 36
+        },
+        {
+          "t": 56184457539,
+          "x": 254.0,
+          "y": 190.0,
+          "w": 54.0,
+          "h": 19.0,
+          "area": 1026.0,
+          "class_id": 2,
+          "class_confidence": 0.890437126159668,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000194.png",
+      "frame_name": "000194.png",
+      "timestamp": 56184507540,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184507540,
+          "x": 605.0,
+          "y": 206.0,
+          "w": 73.0,
+          "h": 83.0,
+          "area": 6059.0,
+          "class_id": 2,
+          "class_confidence": 0.9993197917938232,
+          "track_id": 28
+        },
+        {
+          "t": 56184507540,
+          "x": 340.0,
+          "y": 194.0,
+          "w": 47.0,
+          "h": 13.0,
+          "area": 611.0,
+          "class_id": 2,
+          "class_confidence": 0.9485846161842346,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000195.png",
+      "frame_name": "000195.png",
+      "timestamp": 56184557537,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184557537,
+          "x": 233.0,
+          "y": 189.0,
+          "w": 9.0,
+          "h": 17.0,
+          "area": 153.0,
+          "class_id": 0,
+          "class_confidence": 0.7443044185638428,
+          "track_id": 36
+        },
+        {
+          "t": 56184557537,
+          "x": 334.0,
+          "y": 194.0,
+          "w": 51.0,
+          "h": 17.0,
+          "area": 867.0,
+          "class_id": 2,
+          "class_confidence": 0.956824004650116,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000196.png",
+      "frame_name": "000196.png",
+      "timestamp": 56184607539,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184607539,
+          "x": 618.0,
+          "y": 205.0,
+          "w": 60.0,
+          "h": 82.0,
+          "area": 4920.0,
+          "class_id": 2,
+          "class_confidence": 0.997832715511322,
+          "track_id": 28
+        },
+        {
+          "t": 56184607539,
+          "x": 334.0,
+          "y": 193.0,
+          "w": 49.0,
+          "h": 22.0,
+          "area": 1078.0,
+          "class_id": 2,
+          "class_confidence": 0.9935706853866577,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000197.png",
+      "frame_name": "000197.png",
+      "timestamp": 56184657544,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184657544,
+          "x": 229.0,
+          "y": 188.0,
+          "w": 9.0,
+          "h": 18.0,
+          "area": 162.0,
+          "class_id": 0,
+          "class_confidence": 0.6095790863037109,
+          "track_id": 36
+        },
+        {
+          "t": 56184657544,
+          "x": 622.0,
+          "y": 203.0,
+          "w": 54.0,
+          "h": 83.0,
+          "area": 4482.0,
+          "class_id": 2,
+          "class_confidence": 0.9970003962516785,
+          "track_id": 28
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000198.png",
+      "frame_name": "000198.png",
+      "timestamp": 56184707545,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184707545,
+          "x": 225.0,
+          "y": 188.0,
+          "w": 9.0,
+          "h": 17.0,
+          "area": 153.0,
+          "class_id": 0,
+          "class_confidence": 0.8382281064987183,
+          "track_id": 36
+        },
+        {
+          "t": 56184707545,
+          "x": 113.0,
+          "y": 198.0,
+          "w": 27.0,
+          "h": 19.0,
+          "area": 513.0,
+          "class_id": 2,
+          "class_confidence": 0.9870994687080383,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000199.png",
+      "frame_name": "000199.png",
+      "timestamp": 56184757546,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184757546,
+          "x": 323.0,
+          "y": 193.0,
+          "w": 52.0,
+          "h": 15.0,
+          "area": 780.0,
+          "class_id": 2,
+          "class_confidence": 0.9877308011054993,
+          "track_id": 34
+        },
+        {
+          "t": 56184757546,
+          "x": 166.0,
+          "y": 198.0,
+          "w": 56.0,
+          "h": 18.0,
+          "area": 1008.0,
+          "class_id": 2,
+          "class_confidence": 0.9833676815032959,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000200.png",
+      "frame_name": "000200.png",
+      "timestamp": 56184807548,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184807548,
+          "x": 374.0,
+          "y": 201.0,
+          "w": 64.0,
+          "h": 38.0,
+          "area": 2432.0,
+          "class_id": 2,
+          "class_confidence": 0.9962233304977417,
+          "track_id": 37
+        },
+        {
+          "t": 56184807548,
+          "x": 232.0,
+          "y": 189.0,
+          "w": 58.0,
+          "h": 18.0,
+          "area": 1044.0,
+          "class_id": 2,
+          "class_confidence": 0.983224630355835,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000201.png",
+      "frame_name": "000201.png",
+      "timestamp": 56184857545,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184857545,
+          "x": 216.0,
+          "y": 188.0,
+          "w": 10.0,
+          "h": 17.0,
+          "area": 170.0,
+          "class_id": 0,
+          "class_confidence": 0.9423528909683228,
+          "track_id": 36
+        },
+        {
+          "t": 56184857545,
+          "x": 318.0,
+          "y": 192.0,
+          "w": 52.0,
+          "h": 13.0,
+          "area": 676.0,
+          "class_id": 2,
+          "class_confidence": 0.9904933571815491,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000202.png",
+      "frame_name": "000202.png",
+      "timestamp": 56184907534,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184907534,
+          "x": 395.0,
+          "y": 199.0,
+          "w": 40.0,
+          "h": 39.0,
+          "area": 1560.0,
+          "class_id": 2,
+          "class_confidence": 0.9936175346374512,
+          "track_id": 37
+        },
+        {
+          "t": 56184907534,
+          "x": 83.0,
+          "y": 214.0,
+          "w": 29.0,
+          "h": 28.0,
+          "area": 812.0,
+          "class_id": 2,
+          "class_confidence": 0.9192728996276855,
+          "track_id": 41
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000203.png",
+      "frame_name": "000203.png",
+      "timestamp": 56184957551,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56184957551,
+          "x": 213.0,
+          "y": 188.0,
+          "w": 9.0,
+          "h": 17.0,
+          "area": 153.0,
+          "class_id": 0,
+          "class_confidence": 0.9673153162002563,
+          "track_id": 36
+        },
+        {
+          "t": 56184957551,
+          "x": 315.0,
+          "y": 192.0,
+          "w": 52.0,
+          "h": 13.0,
+          "area": 676.0,
+          "class_id": 2,
+          "class_confidence": 0.9940263032913208,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000204.png",
+      "frame_name": "000204.png",
+      "timestamp": 56185007489,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185007489,
+          "x": 68.0,
+          "y": 205.0,
+          "w": 64.0,
+          "h": 41.0,
+          "area": 2624.0,
+          "class_id": 2,
+          "class_confidence": 0.9985079169273376,
+          "track_id": 41
+        },
+        {
+          "t": 56185007489,
+          "x": 223.0,
+          "y": 189.0,
+          "w": 57.0,
+          "h": 17.0,
+          "area": 969.0,
+          "class_id": 2,
+          "class_confidence": 0.965431272983551,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000205.png",
+      "frame_name": "000205.png",
+      "timestamp": 56185057526,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185057526,
+          "x": 59.0,
+          "y": 205.0,
+          "w": 81.0,
+          "h": 41.0,
+          "area": 3321.0,
+          "class_id": 2,
+          "class_confidence": 0.9980157613754272,
+          "track_id": 41
+        },
+        {
+          "t": 56185057526,
+          "x": 311.0,
+          "y": 192.0,
+          "w": 55.0,
+          "h": 14.0,
+          "area": 770.0,
+          "class_id": 2,
+          "class_confidence": 0.9909678101539612,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000206.png",
+      "frame_name": "000206.png",
+      "timestamp": 56185107535,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185107535,
+          "x": 48.0,
+          "y": 203.0,
+          "w": 102.0,
+          "h": 44.0,
+          "area": 4488.0,
+          "class_id": 2,
+          "class_confidence": 0.9991089701652527,
+          "track_id": 41
+        },
+        {
+          "t": 56185107535,
+          "x": 141.0,
+          "y": 200.0,
+          "w": 61.0,
+          "h": 19.0,
+          "area": 1159.0,
+          "class_id": 2,
+          "class_confidence": 0.9825742840766907,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000207.png",
+      "frame_name": "000207.png",
+      "timestamp": 56185157532,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185157532,
+          "x": 211.0,
+          "y": 189.0,
+          "w": 65.0,
+          "h": 26.0,
+          "area": 1690.0,
+          "class_id": 2,
+          "class_confidence": 0.9851897358894348,
+          "track_id": 33
+        },
+        {
+          "t": 56185157532,
+          "x": 140.0,
+          "y": 200.0,
+          "w": 60.0,
+          "h": 16.0,
+          "area": 960.0,
+          "class_id": 2,
+          "class_confidence": 0.9357531666755676,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000208.png",
+      "frame_name": "000208.png",
+      "timestamp": 56185207538,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185207538,
+          "x": 44.0,
+          "y": 202.0,
+          "w": 128.0,
+          "h": 48.0,
+          "area": 6144.0,
+          "class_id": 2,
+          "class_confidence": 0.9998834133148193,
+          "track_id": 41
+        },
+        {
+          "t": 56185207538,
+          "x": 307.0,
+          "y": 190.0,
+          "w": 56.0,
+          "h": 14.0,
+          "area": 784.0,
+          "class_id": 2,
+          "class_confidence": 0.9957389831542969,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000209.png",
+      "frame_name": "000209.png",
+      "timestamp": 56185257519,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185257519,
+          "x": 204.0,
+          "y": 188.0,
+          "w": 10.0,
+          "h": 17.0,
+          "area": 170.0,
+          "class_id": 0,
+          "class_confidence": 0.9674226641654968,
+          "track_id": 36
+        },
+        {
+          "t": 56185257519,
+          "x": 373.0,
+          "y": 192.0,
+          "w": 54.0,
+          "h": 22.0,
+          "area": 1188.0,
+          "class_id": 2,
+          "class_confidence": 0.9993773102760315,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000210.png",
+      "frame_name": "000210.png",
+      "timestamp": 56185307520,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185307520,
+          "x": 204.0,
+          "y": 188.0,
+          "w": 10.0,
+          "h": 15.0,
+          "area": 150.0,
+          "class_id": 0,
+          "class_confidence": 0.9596158862113953,
+          "track_id": 36
+        },
+        {
+          "t": 56185307520,
+          "x": 153.0,
+          "y": 198.0,
+          "w": 39.0,
+          "h": 9.0,
+          "area": 351.0,
+          "class_id": 2,
+          "class_confidence": 0.6316401958465576,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000211.png",
+      "frame_name": "000211.png",
+      "timestamp": 56185357522,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185357522,
+          "x": 81.0,
+          "y": 202.0,
+          "w": 126.0,
+          "h": 48.0,
+          "area": 6048.0,
+          "class_id": 2,
+          "class_confidence": 0.9999549388885498,
+          "track_id": 41
+        },
+        {
+          "t": 56185357522,
+          "x": 33.0,
+          "y": 200.0,
+          "w": 65.0,
+          "h": 22.0,
+          "area": 1430.0,
+          "class_id": 2,
+          "class_confidence": 0.9936271905899048,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000212.png",
+      "frame_name": "000212.png",
+      "timestamp": 56185407543,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185407543,
+          "x": 305.0,
+          "y": 190.0,
+          "w": 57.0,
+          "h": 15.0,
+          "area": 855.0,
+          "class_id": 2,
+          "class_confidence": 0.9956740736961365,
+          "track_id": 34
+        },
+        {
+          "t": 56185407543,
+          "x": 154.0,
+          "y": 198.0,
+          "w": 33.0,
+          "h": 7.0,
+          "area": 231.0,
+          "class_id": 2,
+          "class_confidence": 0.3986460864543915,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000213.png",
+      "frame_name": "000213.png",
+      "timestamp": 56185457524,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185457524,
+          "x": 203.0,
+          "y": 186.0,
+          "w": 10.0,
+          "h": 17.0,
+          "area": 170.0,
+          "class_id": 0,
+          "class_confidence": 0.954755425453186,
+          "track_id": 36
+        },
+        {
+          "t": 56185457524,
+          "x": 207.0,
+          "y": 188.0,
+          "w": 62.0,
+          "h": 18.0,
+          "area": 1116.0,
+          "class_id": 2,
+          "class_confidence": 0.9839118123054504,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000214.png",
+      "frame_name": "000214.png",
+      "timestamp": 56185507526,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185507526,
+          "x": 204.0,
+          "y": 186.0,
+          "w": 9.0,
+          "h": 17.0,
+          "area": 153.0,
+          "class_id": 0,
+          "class_confidence": 0.9490611553192139,
+          "track_id": 36
+        },
+        {
+          "t": 56185507526,
+          "x": 374.0,
+          "y": 190.0,
+          "w": 54.0,
+          "h": 23.0,
+          "area": 1242.0,
+          "class_id": 2,
+          "class_confidence": 0.9995937943458557,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000215.png",
+      "frame_name": "000215.png",
+      "timestamp": 56185557531,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185557531,
+          "x": 304.0,
+          "y": 189.0,
+          "w": 59.0,
+          "h": 14.0,
+          "area": 826.0,
+          "class_id": 2,
+          "class_confidence": 0.9956359267234802,
+          "track_id": 34
+        },
+        {
+          "t": 56185557531,
+          "x": 211.0,
+          "y": 188.0,
+          "w": 59.0,
+          "h": 17.0,
+          "area": 1003.0,
+          "class_id": 2,
+          "class_confidence": 0.9773215651512146,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000216.png",
+      "frame_name": "000216.png",
+      "timestamp": 56185607532,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185607532,
+          "x": 148.0,
+          "y": 201.0,
+          "w": 129.0,
+          "h": 48.0,
+          "area": 6192.0,
+          "class_id": 2,
+          "class_confidence": 0.9999648332595825,
+          "track_id": 41
+        },
+        {
+          "t": 56185607532,
+          "x": 24.0,
+          "y": 199.0,
+          "w": 66.0,
+          "h": 22.0,
+          "area": 1452.0,
+          "class_id": 2,
+          "class_confidence": 0.9993786811828613,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000217.png",
+      "frame_name": "000217.png",
+      "timestamp": 56185657533,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185657533,
+          "x": 163.0,
+          "y": 201.0,
+          "w": 131.0,
+          "h": 48.0,
+          "area": 6288.0,
+          "class_id": 2,
+          "class_confidence": 0.9999674558639526,
+          "track_id": 41
+        },
+        {
+          "t": 56185657533,
+          "x": 23.0,
+          "y": 199.0,
+          "w": 66.0,
+          "h": 23.0,
+          "area": 1518.0,
+          "class_id": 2,
+          "class_confidence": 0.9994643330574036,
+          "track_id": 40
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000218.png",
+      "frame_name": "000218.png",
+      "timestamp": 56185707531,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185707531,
+          "x": 206.0,
+          "y": 186.0,
+          "w": 7.0,
+          "h": 13.0,
+          "area": 91.0,
+          "class_id": 0,
+          "class_confidence": 0.9166483283042908,
+          "track_id": 36
+        },
+        {
+          "t": 56185707531,
+          "x": 376.0,
+          "y": 189.0,
+          "w": 58.0,
+          "h": 25.0,
+          "area": 1450.0,
+          "class_id": 2,
+          "class_confidence": 0.9997029900550842,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000219.png",
+      "frame_name": "000219.png",
+      "timestamp": 56185757532,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185757532,
+          "x": 206.0,
+          "y": 185.0,
+          "w": 9.0,
+          "h": 15.0,
+          "area": 135.0,
+          "class_id": 0,
+          "class_confidence": 0.899827241897583,
+          "track_id": 36
+        },
+        {
+          "t": 56185757532,
+          "x": 377.0,
+          "y": 189.0,
+          "w": 58.0,
+          "h": 25.0,
+          "area": 1450.0,
+          "class_id": 2,
+          "class_confidence": 0.9998302459716797,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000220.png",
+      "frame_name": "000220.png",
+      "timestamp": 56185807533,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185807533,
+          "x": 123.0,
+          "y": 198.0,
+          "w": 69.0,
+          "h": 22.0,
+          "area": 1518.0,
+          "class_id": 2,
+          "class_confidence": 0.997367799282074,
+          "track_id": 26
+        },
+        {
+          "t": 56185807533,
+          "x": 307.0,
+          "y": 189.0,
+          "w": 59.0,
+          "h": 13.0,
+          "area": 767.0,
+          "class_id": 2,
+          "class_confidence": 0.9922252893447876,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000221.png",
+      "frame_name": "000221.png",
+      "timestamp": 56185857539,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185857539,
+          "x": 210.0,
+          "y": 186.0,
+          "w": 9.0,
+          "h": 14.0,
+          "area": 126.0,
+          "class_id": 0,
+          "class_confidence": 0.7275816202163696,
+          "track_id": 36
+        },
+        {
+          "t": 56185857539,
+          "x": 309.0,
+          "y": 188.0,
+          "w": 60.0,
+          "h": 15.0,
+          "area": 900.0,
+          "class_id": 2,
+          "class_confidence": 0.9886777997016907,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000222.png",
+      "frame_name": "000222.png",
+      "timestamp": 56185907544,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185907544,
+          "x": 16.0,
+          "y": 198.0,
+          "w": 72.0,
+          "h": 24.0,
+          "area": 1728.0,
+          "class_id": 2,
+          "class_confidence": 0.9999083280563354,
+          "track_id": 40
+        },
+        {
+          "t": 56185907544,
+          "x": 315.0,
+          "y": 188.0,
+          "w": 56.0,
+          "h": 17.0,
+          "area": 952.0,
+          "class_id": 2,
+          "class_confidence": 0.9724605679512024,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000223.png",
+      "frame_name": "000223.png",
+      "timestamp": 56185957561,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56185957561,
+          "x": 214.0,
+          "y": 184.0,
+          "w": 9.0,
+          "h": 15.0,
+          "area": 135.0,
+          "class_id": 0,
+          "class_confidence": 0.721972644329071,
+          "track_id": 36
+        },
+        {
+          "t": 56185957561,
+          "x": 207.0,
+          "y": 185.0,
+          "w": 68.0,
+          "h": 20.0,
+          "area": 1360.0,
+          "class_id": 2,
+          "class_confidence": 0.9521716237068176,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000224.png",
+      "frame_name": "000224.png",
+      "timestamp": 56186007491,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186007491,
+          "x": 17.0,
+          "y": 198.0,
+          "w": 72.0,
+          "h": 23.0,
+          "area": 1656.0,
+          "class_id": 2,
+          "class_confidence": 0.9997532963752747,
+          "track_id": 40
+        },
+        {
+          "t": 56186007491,
+          "x": 326.0,
+          "y": 186.0,
+          "w": 49.0,
+          "h": 15.0,
+          "area": 735.0,
+          "class_id": 2,
+          "class_confidence": 0.9903122186660767,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000225.png",
+      "frame_name": "000225.png",
+      "timestamp": 56186057528,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186057528,
+          "x": 391.0,
+          "y": 186.0,
+          "w": 58.0,
+          "h": 25.0,
+          "area": 1450.0,
+          "class_id": 2,
+          "class_confidence": 0.9984859824180603,
+          "track_id": 35
+        },
+        {
+          "t": 56186057528,
+          "x": 125.0,
+          "y": 196.0,
+          "w": 76.0,
+          "h": 23.0,
+          "area": 1748.0,
+          "class_id": 2,
+          "class_confidence": 0.9979689717292786,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000226.png",
+      "frame_name": "000226.png",
+      "timestamp": 56186107521,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186107521,
+          "x": 394.0,
+          "y": 185.0,
+          "w": 58.0,
+          "h": 26.0,
+          "area": 1508.0,
+          "class_id": 2,
+          "class_confidence": 0.9986563920974731,
+          "track_id": 35
+        },
+        {
+          "t": 56186107521,
+          "x": 126.0,
+          "y": 194.0,
+          "w": 74.0,
+          "h": 23.0,
+          "area": 1702.0,
+          "class_id": 2,
+          "class_confidence": 0.996385931968689,
+          "track_id": 26
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000227.png",
+      "frame_name": "000227.png",
+      "timestamp": 56186157518,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186157518,
+          "x": 20.0,
+          "y": 194.0,
+          "w": 72.0,
+          "h": 26.0,
+          "area": 1872.0,
+          "class_id": 2,
+          "class_confidence": 0.9992600083351135,
+          "track_id": 40
+        },
+        {
+          "t": 56186157518,
+          "x": 212.0,
+          "y": 182.0,
+          "w": 71.0,
+          "h": 20.0,
+          "area": 1420.0,
+          "class_id": 2,
+          "class_confidence": 0.9962925314903259,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000228.png",
+      "frame_name": "000228.png",
+      "timestamp": 56186207524,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186207524,
+          "x": 224.0,
+          "y": 182.0,
+          "w": 9.0,
+          "h": 13.0,
+          "area": 117.0,
+          "class_id": 0,
+          "class_confidence": 0.5759337544441223,
+          "track_id": 36
+        },
+        {
+          "t": 56186207524,
+          "x": 322.0,
+          "y": 186.0,
+          "w": 63.0,
+          "h": 14.0,
+          "area": 882.0,
+          "class_id": 2,
+          "class_confidence": 0.9979466795921326,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000229.png",
+      "frame_name": "000229.png",
+      "timestamp": 56186257521,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186257521,
+          "x": 225.0,
+          "y": 181.0,
+          "w": 10.0,
+          "h": 14.0,
+          "area": 140.0,
+          "class_id": 0,
+          "class_confidence": 0.6376153826713562,
+          "track_id": 36
+        },
+        {
+          "t": 56186257521,
+          "x": 402.0,
+          "y": 186.0,
+          "w": 58.0,
+          "h": 14.0,
+          "area": 812.0,
+          "class_id": 2,
+          "class_confidence": 0.9652047753334045,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000230.png",
+      "frame_name": "000230.png",
+      "timestamp": 56186307522,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186307522,
+          "x": 399.0,
+          "y": 195.0,
+          "w": 119.0,
+          "h": 53.0,
+          "area": 6307.0,
+          "class_id": 2,
+          "class_confidence": 0.9998358488082886,
+          "track_id": 41
+        },
+        {
+          "t": 56186307522,
+          "x": 216.0,
+          "y": 182.0,
+          "w": 71.0,
+          "h": 20.0,
+          "area": 1420.0,
+          "class_id": 2,
+          "class_confidence": 0.993398904800415,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000231.png",
+      "frame_name": "000231.png",
+      "timestamp": 56186357527,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186357527,
+          "x": 327.0,
+          "y": 186.0,
+          "w": 64.0,
+          "h": 14.0,
+          "area": 896.0,
+          "class_id": 2,
+          "class_confidence": 0.9869557619094849,
+          "track_id": 34
+        },
+        {
+          "t": 56186357527,
+          "x": 405.0,
+          "y": 186.0,
+          "w": 59.0,
+          "h": 22.0,
+          "area": 1298.0,
+          "class_id": 2,
+          "class_confidence": 0.982608437538147,
+          "track_id": 35
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000232.png",
+      "frame_name": "000232.png",
+      "timestamp": 56186407529,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186407529,
+          "x": 440.0,
+          "y": 194.0,
+          "w": 94.0,
+          "h": 57.0,
+          "area": 5358.0,
+          "class_id": 2,
+          "class_confidence": 0.9992358684539795,
+          "track_id": 41
+        },
+        {
+          "t": 56186407529,
+          "x": 216.0,
+          "y": 182.0,
+          "w": 74.0,
+          "h": 23.0,
+          "area": 1702.0,
+          "class_id": 2,
+          "class_confidence": 0.9928010702133179,
+          "track_id": 33
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000233.png",
+      "frame_name": "000233.png",
+      "timestamp": 56186457530,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186457530,
+          "x": 461.0,
+          "y": 194.0,
+          "w": 77.0,
+          "h": 57.0,
+          "area": 4389.0,
+          "class_id": 2,
+          "class_confidence": 0.9990265369415283,
+          "track_id": 41
+        },
+        {
+          "t": 56186457530,
+          "x": 330.0,
+          "y": 186.0,
+          "w": 64.0,
+          "h": 15.0,
+          "area": 960.0,
+          "class_id": 2,
+          "class_confidence": 0.9980873465538025,
+          "track_id": 34
+        }
+      ]
+    },
+    {
+      "split": "train",
+      "sequence": "zurich_city_02_a",
+      "camera": "left",
+      "image_dirname": "distorted",
+      "source_frame_path": "train/zurich_city_02_a/images/left/distorted/000234.png",
+      "frame_name": "000234.png",
+      "timestamp": 56186507531,
+      "mode": "inpainted",
+      "removed_targets": [
+        {
+          "t": 56186507531,
+          "x": 20.0,
+          "y": 197.0,
+          "w": 74.0,
+          "h": 26.0,
+          "area": 1924.0,
+          "class_id": 2,
+          "class_confidence": 0.9998495578765869,
+          "track_id": 40
+        },
+        {
+          "t": 56186507531,
+          "x": 481.0,
+          "y": 193.0,
+          "w": 64.0,
+          "h": 58.0,
+          "area": 3712.0,
+          "class_id": 2,
+          "class_confidence": 0.9979875087738037,
+          "track_id": 41
+        }
+      ]
+    }
+  ]
+}
