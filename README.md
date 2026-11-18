@@ -79,7 +79,7 @@ python scripts/prepare_exclude_json.py \
 
 Use `outputs/exclude_rc_s.local.json` with `--exclude_json` in either evaluation command.
 
-## 推理命令
+## Inference Commands
 
 ### Emergence recall
 
